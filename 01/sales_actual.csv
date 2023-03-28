@@ -1,0 +1,113 @@
+date,company,country,contract_value,sales_manager
+2020-02-02,Auger-Marcoux Ltd,Canada,1189285.0,Jones Leon
+2020-03-08,"Boisvert, Bernier and Veilleux Ltd",Canada,298985.0,Jones Leon
+2020-01-04,Boulanger-Paré Ltd,Canada,475983.0,Jones Leon
+2020-05-16,"Cloutier, Paquette and Patel Inc",Canada,1003974.0,Jones Leon
+2020-02-29,"Desjardins, Denis and Racine and Sons",Canada,1174321.0,Jones Leon
+2020-05-08,"Dupont, Simard and Gaudreault Group",Canada,218984.0,Jones Leon
+2020-05-14,Gaudreault LLC Ltd,Canada,412292.0,Morgan Sarah
+2020-06-01,Lapointe and Sons Group,Canada,186816.0,Jones Leon
+2020-03-16,Maltais-Turgeon Inc,Canada,527381.0,Jones Leon
+2020-05-17,Mathieu and Sons Inc,Canada,833668.0,Jones Leon
+2020-04-21,"Prévost, Lebel and Desrochers Ltd",Canada,654581.0,Jones Leon
+2020-03-13,Racine-Boivin PLC,Canada,1170140.0,Jones Leon
+2020-01-06,Trottier Ltd LLC,Canada,752731.0,Jones Leon
+2020-01-31,Vallée-Marcotte and Sons,Canada,199559.0,Jones Leon
+2020-02-14,"Vézina, Émond and Simard Inc",Canada,641916.0,Jones Leon
+2020-01-15,Aubert S.A.S. S.A.,France,630200.0,Thomas Denise
+2020-04-06,Aubert SA S.A.S.,France,783791.0,Thomas Denise
+2020-03-14,Auger Ruiz S.A.R.L. et Fils,France,342523.0,Jones Leon
+2020-03-11,Benard S.A.S.,France,524488.0,Jones Leon
+2020-05-20,Berthelot S.A.S.,France,395409.0,Jones Leon
+2020-05-13,Bonnin S.A.R.L. S.A.R.L.,France,1076858.0,Thomas Denise
+2020-02-16,Bousquet S.A. S.A.S.,France,570843.0,Thomas Denise
+2020-05-15,Brun Toussaint S.A.S. S.A.R.L.,France,546812.0,Morgan Sarah
+2020-05-30,Clerc Dupont S.A. S.A.S.,France,677399.0,Thomas Denise
+2020-02-05,Coste et Fils,France,638063.0,Jones Leon
+2020-05-05,Cousin Noel S.A.R.L. et Fils,France,529047.0,Thomas Denise
+2020-06-08,Didier et Fils,France,279117.0,Jones Leon
+2020-04-20,Duhamel SA,France,590453.0,Jones Leon
+2020-05-02,Dupont SARL S.A.,France,285233.0,Jones Leon
+2020-06-02,Etienne S.A.S.,France,844224.0,Thomas Denise
+2020-04-02,Garcia Marechal et Fils S.A.R.L.,France,1106132.0,Jones Leon
+2020-04-25,Guichard S.A.S.,France,223997.0,Thomas Denise
+2020-03-20,Hubert Diaz S.A.R.L. S.A.R.L.,France,1022309.0,Jones Leon
+2020-03-01,Labbe S.A. S.A.,France,377387.0,Thomas Denise
+2020-03-02,Laporte SARL,France,157445.0,Jones Leon
+2020-04-30,Le Roux SARL,France,757135.0,Thomas Denise
+2020-06-10,Lebrun SA,France,824243.0,Thomas Denise
+2020-02-17,Michaud SA SARL,France,458032.0,Thomas Denise
+2020-03-28,Morel S.A.R.L. SARL,France,836420.0,Thomas Denise
+2020-01-30,Munoz S.A.S.,France,1191395.0,Morgan Sarah
+2020-02-24,Nguyen S.A.,France,295794.0,Jones Leon
+2020-04-15,Noel S.A.,France,1150773.0,Thomas Denise
+2020-04-18,Pascal SARL,France,925661.0,Jones Leon
+2020-06-07,Potier SARL,France,226132.0,Jones Leon
+2020-01-12,Raymond S.A.R.L. SARL,France,281548.0,Thomas Denise
+2020-05-09,Ribeiro S.A.R.L.,France,1145070.0,Jones Leon
+2020-03-05,Richard Georges et Fils S.A.R.L.,France,408823.0,Jones Leon
+2020-06-05,Thibault Lebon et Fils et Fils,France,517547.0,Jones Leon
+2020-04-04,Adinolfi-Fuseli SPA SPA,Italy,321277.0,Thomas Denise
+2020-02-19,Barcella SPA e figli,Italy,467531.0,Thomas Denise
+2020-03-10,"Beccheria, Vercelloni e Lollobrigida e figli e figli",Italy,352314.0,Thomas Denise
+2020-01-27,Bompiani-Bruscantini e figli e figli,Italy,173830.0,Thomas Denise
+2020-02-23,Bonatti-Galvani SPA Group,Italy,1027180.0,Jones Leon
+2020-01-17,Coardi s.r.l. SPA,Italy,539516.0,Jones Leon
+2020-01-25,Fanucci SPA Group,Italy,550998.0,Jones Leon
+2020-03-18,Ferrabosco Group e figli,Italy,651176.0,Jones Leon
+2020-06-09,"Finotto, Venier e Galiazzo SPA Group",Italy,1008872.0,Thomas Denise
+2020-01-08,Fittipaldi-Viola s.r.l. s.r.l.,Italy,463525.0,Thomas Denise
+2020-04-11,Leoncavallo s.r.l. SPA,Italy,959877.0,Jones Leon
+2020-05-04,Luxardo Group s.r.l.,Italy,821631.0,Jones Leon
+2020-01-18,Micca s.r.l. SPA,Italy,208662.0,Thomas Denise
+2020-05-11,Morellato-Munari SPA s.r.l.,Italy,840324.0,Thomas Denise
+2020-02-11,Redi-Blasi SPA e figli,Italy,949817.0,Jones Leon
+2020-05-22,Sagredo-Staglieno e figli s.r.l.,Italy,260476.0,Jones Leon
+2020-03-29,Schiavone-Benigni s.r.l. e figli,Italy,306897.0,Jones Leon
+2020-04-09,Silvestri s.r.l. SPA,Italy,636917.0,Jones Leon
+2020-01-07,Zacco-Callegaro Group s.r.l.,Italy,364596.0,Morgan Sarah
+2020-03-25,DHL NV,Netherlands,542187.0,Morgan Sarah
+2020-02-22,De Bijenkorf BV,Netherlands,138559.0,Thomas Denise
+2020-06-06,Jacobs DE Groep,Netherlands,500505.0,Jones Leon
+2020-01-23,Koninklijke Geerling Groep,Netherlands,657845.0,Thomas Denise
+2020-04-27,Meijer & de Bruin Groep,Netherlands,426965.0,Thomas Denise
+2020-05-01,Royal Gellemeyer NV,Netherlands,815676.0,Thomas Denise
+2020-04-28,Stichting Jacquot BV,Netherlands,1138612.0,Thomas Denise
+2020-01-10,Stichting van der Veiver BV,Netherlands,253031.0,Thomas Denise
+2020-05-18,Tata Steel BV,Netherlands,1194130.0,Thomas Denise
+2020-01-05,Thatcher & Glasses Groep,Netherlands,397832.0,Jones Leon
+2020-05-24,Zijlmans BV NV,Netherlands,1040855.0,Jones Leon
+2020-01-11,de Vries Groep Groep,Netherlands,1057371.0,Jones Leon
+2020-02-01,van Berkum & Schellekens NV,Netherlands,579033.0,Morgan Sarah
+2020-05-28,van den Velden NV Groep,Netherlands,468785.0,Thomas Denise
+2020-01-13,Cross Ltd,USA,171712.0,Morgan Sarah
+2020-05-10,Garcia Group,USA,874050.0,Morgan Sarah
+2020-02-26,"Garcia, Mcneil and Gonzalez",USA,596101.0,Morgan Sarah
+2020-02-25,Gordon Inc,USA,596155.0,Morgan Sarah
+2020-02-04,Miller-Salazar,USA,700503.0,Morgan Sarah
+2020-02-21,"Owen, Giles and Johnson",USA,829034.0,Morgan Sarah
+2020-02-13,"Robinson, Montoya and Walters",USA,697222.0,Morgan Sarah
+2020-02-27,Strong-Harrison,USA,172400.0,Morgan Sarah
+2020-01-03,"Taylor, Taylor and Davis",USA,1168554.0,Morgan Sarah
+2020-03-04,Anderson Group Ltd,United Kingdom,1030054.0,Morgan Sarah
+2020-04-16,Barton-Thomas and Sons,United Kingdom,689124.0,Morgan Sarah
+2020-01-21,Bradley-Henderson PLC,United Kingdom,866254.0,Morgan Sarah
+2020-02-07,Brady-Smith Ltd,United Kingdom,646602.0,Watts Emily
+2020-04-13,Browne-Reynolds Ltd,United Kingdom,556042.0,Morgan Sarah
+2020-02-20,Edwards Group and Sons,United Kingdom,216614.0,Watts Emily
+2020-04-23,Edwards-Poole Ltd,United Kingdom,650604.0,Morgan Sarah
+2020-01-20,Fisher-Cole PLC,United Kingdom,445737.0,Morgan Sarah
+2020-03-27,"Fraser, Hill and Jones PLC",United Kingdom,226488.0,Morgan Sarah
+2020-03-06,"Gardiner, Bell and Brooks Group",United Kingdom,316943.0,Morgan Sarah
+2020-01-29,Gray Ltd PLC,United Kingdom,1153066.0,Morgan Sarah
+2020-02-09,Hardy-Quinn and Sons,United Kingdom,812776.0,Watts Emily
+2020-03-21,"Hawkins, Pearce and Carroll Group",United Kingdom,998055.0,Morgan Sarah
+2020-05-29,Iqbal Group LLC,United Kingdom,283378.0,Morgan Sarah
+2020-05-07,McDonald LLC and Sons,United Kingdom,417051.0,Morgan Sarah
+2020-03-09,Murphy Inc LLC,United Kingdom,347913.0,Morgan Sarah
+2020-05-26,"O'Donnell, Williams and Evans Inc",United Kingdom,202904.0,Morgan Sarah
+2020-04-07,"Ryan, Stokes and Holmes and Sons",United Kingdom,705729.0,Morgan Sarah
+2020-01-24,Saunders-Smith and Sons,United Kingdom,770617.0,Morgan Sarah
+2020-03-23,"Swift, Clements and Ellis and Sons",United Kingdom,212197.0,Watts Emily
+2020-03-31,"Watkins, Parkinson and Barlow Ltd",United Kingdom,813608.0,Morgan Sarah
+2020-06-03,Webb PLC Group,United Kingdom,640981.0,Morgan Sarah

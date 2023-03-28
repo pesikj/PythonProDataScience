@@ -1,0 +1,1222 @@
+date,amount,recipient,sender
+2019-05-02,-3361.88,Salazar Ltd,
+2019-05-06,-1492.87,Villanueva PLC,
+2019-05-07,-8092.58,"Myers, Thornton and Hill",
+2019-05-09,1346.77,,Bell-Roberts
+2019-05-11,-4183.59,Levy Group,
+2019-05-16,6455.47,,Grimes-Green
+2019-05-18,3870.87,,Chang-Fisher
+2019-05-22,8155.1,,Gray-Hutchinson
+2019-05-22,8155.1,,Gray-Hutchinson
+2019-05-24,-1671.46,Archer-Patel,
+2019-05-24,-1671.46,Archer-Patel,
+2019-05-25,4230.21,,"Martinez, Clark and Owen"
+2019-05-27,-24.94,"Browning, Williams and Curry",
+2019-05-30,-8091.35,"Moore, Martin and Moreno",
+2019-05-30,-8091.35,"Moore, Martin and Moreno",
+2019-06-01,-8278.29,Chan-Johnson,
+2019-06-02,7784.08,,Bell-White
+2019-06-02,7784.08,,Bell-White
+2019-06-07,2243.56,,Sheppard-Tucker
+2019-06-07,-2455.43,"Myers, Thornton and Hill",
+2019-06-08,4775.12,,"Patrick, Barrera and Collins"
+2019-06-12,-9288.59,"Moore, Martin and Moreno",
+2019-06-17,8321.32,,Archer-Patel
+2019-06-22,7230.12,,"Summers, Barnett and Smith"
+2019-06-22,1339.29,,"Walker, Pratt and Thomas"
+2019-06-26,-1525.09,"Harris, Lloyd and Payne",
+2019-07-01,-3396.11,Miller-Salazar,
+2019-07-01,9660.59,,"Mcdonald, Carlson and Lyons"
+2019-07-04,2346.68,,Sheppard-Tucker
+2019-07-04,2346.68,,Sheppard-Tucker
+2019-07-05,1791.3,,Garza-Mcclain
+2019-07-05,1791.3,,Garza-Mcclain
+2019-07-08,-7342.03,Sanchez Ltd,
+2019-07-10,-3441.19,"Miller, Hill and Chavez",
+2019-07-11,-3027.56,Carlson Group,
+2019-07-15,-758.02,Alvarez Group,
+2019-07-15,-758.02,Alvarez Group,
+2019-07-19,-9257.25,Jones-Jones,
+2019-07-19,-9257.25,Jones-Jones,
+2019-07-23,7151.27,,Grant-Potts
+2019-07-26,459.29,,"Munoz, Smith and Williams"
+2019-07-29,-7482.14,"Mcdonald, Carlson and Lyons",
+2019-08-02,-6288.23,Brown-Miles,
+2019-08-02,-6288.23,Brown-Miles,
+2019-08-06,1993.45,,Levy Group
+2019-08-06,1993.45,,Levy Group
+2019-08-06,5022.69,,"Munoz, Smith and Williams"
+2019-08-07,-5801.36,Williams PLC,
+2019-08-11,5588.73,,Ramirez-Good
+2019-08-14,-6959.74,"Lawson, Simpson and Schneider",
+2019-08-19,-3639.68,"Golden, Lowery and Banks",
+2019-08-19,-3639.68,"Golden, Lowery and Banks",
+2019-08-19,2447.96,,"West, Miller and Flores"
+2019-08-20,4046.85,,Keller-Davies
+2019-08-25,-833.79,Martinez-Wilson,
+2019-08-29,-441.17,"Golden, Lowery and Banks",
+2019-09-02,3694.33,,"Miller, Wheeler and Hale"
+2019-09-02,4217.26,,"Irwin, Monroe and Anderson"
+2019-09-02,-4553.58,"Vazquez, Ellis and Miller",
+2019-09-02,-4553.58,"Vazquez, Ellis and Miller",
+2019-09-06,5750.59,,Matthews-Rogers
+2019-09-10,3423.6,,Monroe-King
+2019-09-10,9724.68,,Wallace-Carlson
+2019-09-12,-2268.43,Simmons-Turner,
+2019-09-12,5049.96,,"Bolton, Burns and Turner"
+2019-09-12,5049.96,,"Bolton, Burns and Turner"
+2019-09-14,-3948.9,Gonzalez-Howard,
+2019-09-18,-1892.41,Jones-Jones,
+2019-09-21,170.97,,"Thompson, Bennett and Carter"
+2019-09-25,-4992.21,Lopez-Key,
+2019-09-29,2975.48,,"Bolton, Burns and Turner"
+2019-09-29,-1802.56,Ramirez-Good,
+2019-09-30,-3046.57,Cook Inc,
+2019-10-03,5017.54,,Chan-Johnson
+2019-10-03,5017.54,,Chan-Johnson
+2019-10-03,6864.02,,Ramirez-Good
+2019-10-04,9895.19,,Carter Group
+2019-10-09,8165.57,,"Martinez, Clark and Owen"
+2019-10-09,7837.72,,Ward-Hays
+2019-10-09,7837.72,,Ward-Hays
+2019-10-14,-6865.73,"Walker, Pratt and Thomas",
+2019-10-19,7845.26,,"Williams, Campbell and Allen"
+2019-10-22,-3426.66,Alvarez Group,
+2019-10-22,-3426.66,Alvarez Group,
+2019-10-24,2492.55,,Alvarez-Davis
+2019-10-26,3610.46,,"Myers, Thornton and Hill"
+2019-10-31,1954.19,,Salazar Ltd
+2019-10-31,8886.31,,Archer-Patel
+2019-10-31,1593.79,,Alvarez Group
+2019-10-31,1593.79,,Alvarez Group
+2019-11-03,-9498.95,"Moon, Davis and Larsen",
+2019-11-03,-9498.95,"Moon, Davis and Larsen",
+2019-11-04,-1636.43,Martin-Holden,
+2019-11-05,406.33,,"Thompson, Bennett and Carter"
+2019-11-07,5017.83,,Levy Group
+2019-11-07,5017.83,,Levy Group
+2019-11-11,6529.17,,Simmons-Turner
+2019-11-13,8432.93,,Brown-Miles
+2019-11-13,8432.93,,Brown-Miles
+2019-11-13,5474.49,,"Baxter, Johnson and Savage"
+2019-11-16,-3823.51,Wilson-Robinson,
+2019-11-17,-1564.49,Chan-Johnson,
+2019-11-22,-3305.27,Woodward and Sons,
+2019-11-23,6511.42,,Lopez-Key
+2019-11-25,-199.81,"Moon, Davis and Larsen",
+2019-11-26,3025.12,,"Davis, Wilson and Banks"
+2019-11-26,-2995.05,Stewart-Allen,
+2019-12-01,-9263.62,"Barnes, Bates and Williams",
+2019-12-02,8764.5,,Perry-Garcia
+2019-12-02,8764.5,,Perry-Garcia
+2019-12-07,7280.92,,Cook Inc
+2019-12-07,8473.84,,Simmons-Turner
+2019-12-11,-8350.71,"Kent, Ferguson and Becker",
+2019-12-15,-3110.88,"Johnson, Coleman and Garcia",
+2019-12-17,-3464.05,Collins-Owens,
+2019-12-17,5880.2,,Morales Ltd
+2019-12-18,-2038.86,Carlson Group,
+2019-12-18,-2038.86,Carlson Group,
+2019-12-19,-5236.32,"Meyer, Curtis and Reed",
+2019-12-19,-1193.9,Johnson Inc,
+2019-12-21,3729.62,,Ramirez-Good
+2019-12-22,-6286.14,Sanchez Ltd,
+2019-12-23,-7543.28,Bowman-Watson,
+2019-12-26,7887.71,,Wagner LLC
+2019-12-30,-6906.91,Gray-Hutchinson,
+2019-12-31,-7413.43,"Mcdonald, Carlson and Lyons",
+2019-12-31,-7413.43,"Mcdonald, Carlson and Lyons",
+2020-01-02,5787.74,,"Harris, Lloyd and Payne"
+2020-01-06,-5011.39,Archer-Patel,
+2020-01-06,-5011.39,Archer-Patel,
+2020-01-07,-6085.59,"Anderson, Collins and Goodman",
+2020-01-11,6317.51,,Wagner LLC
+2020-01-11,2190.13,,"Barnes, Bates and Williams"
+2020-01-16,9374.12,,"Vazquez, Ellis and Miller"
+2020-01-20,371.97,,"Nguyen, Harrell and Lee"
+2020-01-20,-1658.56,Gonzalez-Howard,
+2020-01-20,-1658.56,Gonzalez-Howard,
+2020-01-21,-3849.15,Gonzalez-Howard,
+2020-01-24,-2952.03,"Munoz, Smith and Williams",
+2020-01-25,-2603.27,"Allen, Williams and White",
+2020-01-29,-9045.13,Archer-Patel,
+2020-01-29,-9045.13,Archer-Patel,
+2020-02-01,7156.78,,Wagner LLC
+2020-02-01,-7360.57,"Greer, Wilson and Davis",
+2020-02-06,-3499.15,Keller-Davies,
+2020-02-07,-2406.41,"Baxter, Johnson and Savage",
+2020-02-09,-2480.0,"Baxter, Johnson and Savage",
+2020-02-09,-2480.0,"Baxter, Johnson and Savage",
+2020-02-12,-6063.07,Sanchez Ltd,
+2020-02-12,-6063.07,Sanchez Ltd,
+2020-02-16,-2602.46,"Garcia, Hamilton and Carr",
+2020-02-16,-2602.46,"Garcia, Hamilton and Carr",
+2020-02-19,4859.41,,Brown-Miles
+2020-02-20,1013.86,,Villanueva PLC
+2020-02-22,2503.85,,"Baxter, Johnson and Savage"
+2020-02-25,-5783.54,Morales Ltd,
+2020-02-26,7548.64,,"Harris, Lloyd and Payne"
+2020-02-26,-4218.74,Ramirez-Good,
+2020-03-02,8683.86,,"Johnson, Coleman and Garcia"
+2020-03-04,7229.22,,Hernandez LLC
+2020-03-06,4925.08,,Grant-Potts
+2020-03-09,9219.45,,Alvarez Group
+2020-03-11,861.32,,"Bolton, Burns and Turner"
+2020-03-13,9307.26,,Wells-Randall
+2020-03-18,3075.69,,Mann-Kelley
+2020-03-23,-4654.17,Villanueva PLC,
+2020-03-26,-7421.54,Mcdowell Inc,
+2020-03-27,-6749.38,"West, Miller and Flores",
+2020-03-30,763.43,,Morales Ltd
+2020-03-31,3190.76,,"West, Miller and Flores"
+2020-03-31,3190.76,,"West, Miller and Flores"
+2020-04-01,4317.48,,"Baxter, Johnson and Savage"
+2020-04-06,1387.66,,"Kent, Ferguson and Becker"
+2020-04-08,9732.76,,"Chambers, Levy and Brown"
+2020-04-10,5223.81,,"Kent, Ferguson and Becker"
+2020-04-15,-596.61,Williams PLC,
+2020-04-15,-596.61,Williams PLC,
+2020-04-18,-4906.21,"Harrison, Barrera and Hudson",
+2020-04-18,-4906.21,"Harrison, Barrera and Hudson",
+2020-04-22,-6983.08,Mcdowell Inc,
+2020-04-22,-6983.08,Mcdowell Inc,
+2020-04-22,-5744.45,"Summers, Barnett and Smith",
+2020-04-22,-5744.45,"Summers, Barnett and Smith",
+2020-04-23,-3155.49,Levy Group,
+2020-04-25,4780.88,,"Kent, Ferguson and Becker"
+2020-04-25,4780.88,,"Kent, Ferguson and Becker"
+2020-04-28,6178.56,,Archer-Patel
+2020-04-28,4287.35,,"Patrick, Barrera and Collins"
+2020-04-30,4787.29,,"Kent, Ferguson and Becker"
+2020-05-02,7637.95,,"Miller, Hill and Chavez"
+2020-05-02,7637.95,,"Miller, Hill and Chavez"
+2020-05-04,-5874.35,"Vazquez, Ellis and Miller",
+2020-05-06,-2801.03,"Summers, Barnett and Smith",
+2020-05-06,-2801.03,"Summers, Barnett and Smith",
+2020-05-09,-287.26,"Munoz, Smith and Williams",
+2020-05-09,-5793.48,Carlson Group,
+2020-05-09,-5793.48,Carlson Group,
+2020-05-13,2863.73,,Miller-Salazar
+2020-05-18,-8684.8,"Chandler, Turner and Houston",
+2020-05-20,9551.91,,Woodward and Sons
+2020-05-21,-1535.22,"Nguyen, Harrell and Lee",
+2020-05-26,-2559.16,"Munoz, Smith and Williams",
+2020-05-26,-2559.16,"Munoz, Smith and Williams",
+2020-05-28,-1126.64,Sheppard-Tucker,
+2020-05-28,-2567.1,Keller-Davies,
+2020-05-28,5277.5,,"Bryan, Barnes and Hill"
+2020-05-30,-9157.31,"Thompson, Bennett and Carter",
+2020-06-04,1328.04,,"Patrick, Barrera and Collins"
+2020-06-07,-3165.67,Martinez-Wilson,
+2020-06-07,-3165.67,Martinez-Wilson,
+2020-06-07,-9988.33,"Nguyen, Harrell and Lee",
+2020-06-07,-2636.37,Martinez and Sons,
+2020-06-11,5959.46,,Wells-Randall
+2020-06-16,-5832.21,"Lawson, Simpson and Schneider",
+2020-06-16,-5832.21,"Lawson, Simpson and Schneider",
+2020-06-17,-1527.92,"Greer, Wilson and Davis",
+2020-06-18,7299.67,,Clarke-Higgins
+2020-06-21,419.72,,Chang-Fisher
+2020-06-22,4562.13,,"Browning, Williams and Curry"
+2020-06-24,4474.58,,"Davis, Wilson and Banks"
+2020-06-24,4474.58,,"Davis, Wilson and Banks"
+2020-06-26,1673.03,,"Allen, Williams and White"
+2020-06-26,1673.03,,"Allen, Williams and White"
+2020-06-29,3604.94,,Simmons-Turner
+2020-06-29,424.36,,Mann-Kelley
+2020-06-30,-2189.87,"Mcdonald, Carlson and Lyons",
+2020-06-30,-2189.87,"Mcdonald, Carlson and Lyons",
+2020-07-04,9947.1,,Grimes-Green
+2020-07-08,704.95,,Keller-Davies
+2020-07-11,4536.8,,"Johnson, Coleman and Garcia"
+2020-07-12,7588.55,,"Greer, Wilson and Davis"
+2020-07-13,-666.18,"Golden, Lowery and Banks",
+2020-07-13,-666.18,"Golden, Lowery and Banks",
+2020-07-13,9670.11,,"Martinez, Clark and Owen"
+2020-07-13,-9003.56,Wagner LLC,
+2020-07-16,9340.29,,Martinez-Wilson
+2020-07-16,9340.29,,Martinez-Wilson
+2020-07-19,1229.45,,Johnson Inc
+2020-07-24,-1090.65,Mann-Kelley,
+2020-07-24,-1090.65,Mann-Kelley,
+2020-07-28,6974.01,,Wells-Randall
+2020-07-30,2352.24,,"Vazquez, Ellis and Miller"
+2020-07-31,-9839.2,"Moore, Martin and Moreno",
+2020-08-03,-3866.06,Atkinson Ltd,
+2020-08-04,3299.37,,"Williams, Campbell and Allen"
+2020-08-05,-6295.31,Wallace-Carlson,
+2020-08-05,-6295.31,Wallace-Carlson,
+2020-08-10,9346.83,,Clarke-Higgins
+2020-08-15,-3034.06,Carter Group,
+2020-08-15,-3034.06,Carter Group,
+2020-08-16,6483.76,,Jones-Jones
+2020-08-16,6483.76,,Jones-Jones
+2020-08-17,-9322.28,Lopez-Key,
+2020-08-18,-2916.63,Martinez and Sons,
+2020-08-22,-7019.19,Cook Inc,
+2020-08-22,-7019.19,Cook Inc,
+2020-08-26,1732.56,,Wilson-Robinson
+2020-08-30,4228.34,,Chang-Fisher
+2020-09-04,-7509.67,"Walker, Pratt and Thomas",
+2020-09-08,-9663.41,"Anderson, Collins and Goodman",
+2020-09-08,-9663.41,"Anderson, Collins and Goodman",
+2020-09-10,-9041.73,"Summers, Barnett and Smith",
+2020-09-10,-9041.73,"Summers, Barnett and Smith",
+2020-09-12,7636.62,,Ramirez-Good
+2020-09-12,7636.62,,Ramirez-Good
+2020-09-16,6291.02,,"Kent, Ferguson and Becker"
+2020-09-16,6291.02,,"Kent, Ferguson and Becker"
+2020-09-16,-9180.63,Campos PLC,
+2020-09-16,-9180.63,Campos PLC,
+2020-09-16,-8743.52,Chan-Johnson,
+2020-09-21,-1865.99,Garza-Mcclain,
+2020-09-26,6178.45,,"Fischer, Baird and Lowe"
+2020-09-29,3650.04,,"Mcdonald, Carlson and Lyons"
+2020-10-02,-7873.16,Allen Ltd,
+2020-10-05,-2408.8,"Greer, Wilson and Davis",
+2020-10-07,-6718.59,Wells-Randall,
+2020-10-09,-3043.23,Rose-Freeman,
+2020-10-10,9026.7,,Lopez-Key
+2020-10-11,1954.14,,"Baxter, Johnson and Savage"
+2020-10-13,-1594.39,"Chandler, Turner and Houston",
+2020-10-13,-2564.9,Garza-Mcclain,
+2020-10-15,-1098.51,Lopez-Key,
+2020-10-17,-620.44,"Lawson, Simpson and Schneider",
+2020-10-22,-8041.53,"Lawson, Simpson and Schneider",
+2020-10-22,-8041.53,"Lawson, Simpson and Schneider",
+2020-10-25,-5292.54,Chan-Johnson,
+2020-10-30,7572.59,,Johnson Inc
+2020-10-30,7572.59,,Johnson Inc
+2020-11-03,-5.38,Sanchez Ltd,
+2020-11-03,-5.38,Sanchez Ltd,
+2020-11-08,-504.14,Gray-Hutchinson,
+2020-11-08,5400.87,,Salazar Ltd
+2020-11-08,370.69,,"Fischer, Baird and Lowe"
+2020-11-11,7574.34,,Miller-Salazar
+2020-11-15,-7351.57,Simmons-Turner,
+2020-11-18,2286.53,,"Nguyen, Harrell and Lee"
+2020-11-23,6563.44,,Hernandez LLC
+2020-11-26,7512.94,,"Summers, Barnett and Smith"
+2020-11-30,3080.31,,"Johnson, Coleman and Garcia"
+2020-12-05,235.87,,Alvarez Group
+2020-12-09,4777.7,,"Bryan, Barnes and Hill"
+2020-12-12,5295.69,,Callahan and Sons
+2020-12-14,-6788.16,Stewart-Lewis,
+2020-12-19,2928.08,,Wagner LLC
+2020-12-24,-9200.62,Williams PLC,
+2020-12-24,-9200.62,Williams PLC,
+2020-12-28,8890.58,,"Allen, Williams and White"
+2020-12-28,8890.58,,"Allen, Williams and White"
+2020-12-31,2024.28,,Morales Ltd
+2021-01-05,-921.97,"Vazquez, Ellis and Miller",
+2021-01-05,-921.97,"Vazquez, Ellis and Miller",
+2021-01-10,9863.65,,Gray-Hutchinson
+2021-01-15,-4422.16,Mcdowell Inc,
+2021-01-17,4461.93,,Callahan and Sons
+2021-01-17,4461.93,,Callahan and Sons
+2021-01-20,552.28,,Wilson-Robinson
+2021-01-20,552.28,,Wilson-Robinson
+2021-01-23,-8641.38,"Thompson, Bennett and Carter",
+2021-01-23,-8641.38,"Thompson, Bennett and Carter",
+2021-01-26,-6087.25,Bowman-Watson,
+2021-01-27,-652.48,Bell-Roberts,
+2021-01-31,7792.6,,Garza-Mcclain
+2021-01-31,7792.6,,Garza-Mcclain
+2021-02-02,8336.07,,Ward-Hays
+2021-02-06,1119.93,,"Barnes, Bates and Williams"
+2021-02-10,-5660.6,"Golden, Lowery and Banks",
+2021-02-10,-5660.6,"Golden, Lowery and Banks",
+2021-02-13,5816.41,,Hernandez LLC
+2021-02-16,-136.63,Alvarez-Davis,
+2021-02-19,1784.32,,Mcdowell Inc
+2021-02-19,1784.32,,Mcdowell Inc
+2021-02-20,-7515.67,"Miller, Wheeler and Hale",
+2021-02-20,5591.99,,Lopez-Key
+2021-02-25,3010.34,,"Garcia, Hamilton and Carr"
+2021-02-25,3010.34,,"Garcia, Hamilton and Carr"
+2021-03-02,5952.77,,Clayton-Cook
+2021-03-02,-2886.04,"Irwin, Monroe and Anderson",
+2021-03-02,-2886.04,"Irwin, Monroe and Anderson",
+2021-03-04,-3888.47,Sanchez Ltd,
+2021-03-05,-315.58,Sanchez Ltd,
+2021-03-05,-315.58,Sanchez Ltd,
+2021-03-07,5281.97,,Stewart-Allen
+2021-03-11,-1268.9,"Moon, Davis and Larsen",
+2021-03-11,-1268.9,"Moon, Davis and Larsen",
+2021-03-15,3389.63,,Miller-Salazar
+2021-03-15,4054.05,,Bell-Roberts
+2021-03-20,-3639.62,"Martinez, Clark and Owen",
+2021-03-21,-175.69,"Myers, Thornton and Hill",
+2021-03-21,-175.69,"Myers, Thornton and Hill",
+2021-03-21,9065.19,,Ward-Hays
+2021-03-22,-6653.51,Clarke-Higgins,
+2021-03-22,-6653.51,Clarke-Higgins,
+2021-03-26,198.93,,Ward-Hays
+2021-03-28,-4560.6,Bell-Roberts,
+2021-04-01,-2807.66,Carter Group,
+2021-04-06,7594.58,,Ramirez-Good
+2021-04-09,-760.08,"Nguyen, Harrell and Lee",
+2021-04-09,-8020.4,"Anderson, Collins and Goodman",
+2021-04-14,-9649.9,"Anderson, Collins and Goodman",
+2021-04-14,-9649.9,"Anderson, Collins and Goodman",
+2021-04-16,8698.78,,Alvarez Group
+2021-04-16,8698.78,,Alvarez Group
+2021-04-21,-1939.62,Mcdowell Inc,
+2021-04-23,-9538.05,Monroe-King,
+2021-04-26,-3060.62,"Patrick, Barrera and Collins",
+2021-04-27,-7519.6,"Baxter, Johnson and Savage",
+2021-05-01,-8446.5,"Thompson, Bennett and Carter",
+2021-05-01,9027.8,,Alvarez Group
+2021-05-01,-9965.72,"Golden, Lowery and Banks",
+2021-05-03,1780.96,,"Mcdonald, Carlson and Lyons"
+2021-05-06,-9800.39,"Chandler, Turner and Houston",
+2021-05-06,4871.12,,"Greer, Wilson and Davis"
+2021-05-10,-5294.94,"Miller, Wheeler and Hale",
+2021-05-10,-5294.94,"Miller, Wheeler and Hale",
+2021-05-10,-4540.51,"Bolton, Burns and Turner",
+2021-05-11,-9668.37,Collins-Owens,
+2021-05-16,9231.23,,Bell-Roberts
+2021-05-21,2932.33,,Garza-Mcclain
+2021-05-26,5372.81,,Bell-White
+2021-05-30,818.96,,"Greer, Wilson and Davis"
+2021-06-02,-7805.53,Gonzalez-Howard,
+2021-06-05,-255.06,Campos PLC,
+2021-06-05,-255.06,Campos PLC,
+2021-06-10,-6157.88,"West, Miller and Flores",
+2021-06-12,-2894.29,Stewart-Lewis,
+2021-06-12,-812.01,Bell-Roberts,
+2021-06-14,-6238.62,Clayton-Cook,
+2021-06-18,2530.54,,"Lawson, Simpson and Schneider"
+2021-06-20,6008.59,,"Mcdonald, Carlson and Lyons"
+2021-06-23,-5311.61,"Harrison, Barrera and Hudson",
+2021-06-25,-1318.35,"Johnson, Coleman and Garcia",
+2021-06-30,-9487.09,Martinez and Sons,
+2021-07-05,6980.75,,Morales Ltd
+2021-07-05,8669.71,,Allen Ltd
+2021-07-05,8669.71,,Allen Ltd
+2021-07-06,-6863.66,"Mcdonald, Carlson and Lyons",
+2021-07-08,608.04,,"Moore, Martin and Moreno"
+2021-07-08,608.04,,"Moore, Martin and Moreno"
+2021-07-13,-2153.33,"Summers, Barnett and Smith",
+2021-07-13,-2153.33,"Summers, Barnett and Smith",
+2021-07-15,-7700.03,Perry-Garcia,
+2021-07-18,2681.46,,Carter Group
+2021-07-21,6861.59,,"Allen, Williams and White"
+2021-07-22,-1962.35,Chan-Johnson,
+2021-07-27,9212.76,,Villanueva PLC
+2021-07-27,9212.76,,Villanueva PLC
+2021-07-29,-742.08,Allen Ltd,
+2021-07-30,-7903.85,"Harris, Lloyd and Payne",
+2021-07-31,9248.6,,Bell-Roberts
+2021-07-31,9248.6,,Bell-Roberts
+2021-08-01,-7788.91,"Miller, Wheeler and Hale",
+2021-08-03,8737.35,,Bell-Roberts
+2021-08-03,8737.35,,Bell-Roberts
+2021-08-03,-9804.07,Martinez-Wilson,
+2021-08-03,7330.72,,Levy Group
+2021-08-08,-36.96,"Browning, Williams and Curry",
+2021-08-08,-3434.01,"Fischer, Baird and Lowe",
+2021-08-11,-2666.92,Matthews-Rogers,
+2021-08-13,-9624.38,"Davis, Wilson and Banks",
+2021-08-13,6469.52,,"Walker, Pratt and Thomas"
+2021-08-14,-3520.36,Martinez-Wilson,
+2021-08-18,-4632.87,Faulkner-Howard,
+2021-08-21,2028.6,,Woodward and Sons
+2021-08-22,-5612.25,Grant-Potts,
+2021-08-27,-1963.34,"Barnes, Bates and Williams",
+2021-08-30,-6717.74,"Miller, Hill and Chavez",
+2021-08-30,-6717.74,"Miller, Hill and Chavez",
+2021-08-30,7728.05,,"Bryan, Barnes and Hill"
+2021-08-30,7728.05,,"Bryan, Barnes and Hill"
+2021-09-02,-9812.96,"Golden, Lowery and Banks",
+2021-09-02,-9812.96,"Golden, Lowery and Banks",
+2021-09-05,5124.86,,Ward-Hays
+2021-09-05,532.15,,"Patrick, Barrera and Collins"
+2021-09-06,2292.58,,"West, Miller and Flores"
+2021-09-11,8167.04,,Ramirez-Good
+2021-09-16,4845.29,,Carlson Group
+2021-09-16,4845.29,,Carlson Group
+2021-09-21,-8342.08,Monroe-King,
+2021-09-24,9136.54,,Salazar Ltd
+2021-09-24,9136.54,,Salazar Ltd
+2021-09-28,-3198.97,"Miller, Wheeler and Hale",
+2021-09-28,-3198.97,"Miller, Wheeler and Hale",
+2021-10-02,8125.82,,"West, Miller and Flores"
+2021-10-04,-8915.01,Martinez and Sons,
+2021-10-04,-8915.01,Martinez and Sons,
+2021-10-05,8975.59,,Grimes-Green
+2021-10-05,-9336.64,Mann-Kelley,
+2021-10-08,-4533.74,Carter Group,
+2021-10-08,-3740.46,Stewart-Allen,
+2021-10-12,8086.28,,Salazar Ltd
+2021-10-12,6750.04,,"Bryan, Barnes and Hill"
+2021-10-12,8956.15,,Lopez and Sons
+2021-10-17,5514.45,,"Vazquez, Ellis and Miller"
+2021-10-17,5514.45,,"Vazquez, Ellis and Miller"
+2021-10-22,-1257.93,"Allen, Williams and White",
+2021-10-26,3914.27,,"Martinez, Clark and Owen"
+2021-10-26,3914.27,,"Martinez, Clark and Owen"
+2021-10-30,8127.62,,Clarke-Higgins
+2021-10-30,8127.62,,Clarke-Higgins
+2021-10-31,2352.59,,Faulkner-Howard
+2021-10-31,5470.44,,Atkinson Ltd
+2021-11-05,5446.16,,Hernandez LLC
+2021-11-07,3956.11,,"Lawson, Simpson and Schneider"
+2021-11-11,8534.49,,Martinez-Wilson
+2021-11-16,6034.55,,"Lawson, Simpson and Schneider"
+2021-11-16,6034.55,,"Lawson, Simpson and Schneider"
+2021-11-18,7834.32,,Bell-Roberts
+2021-11-18,7834.32,,Bell-Roberts
+2021-11-21,4316.8,,"Chambers, Levy and Brown"
+2021-11-21,4316.8,,"Chambers, Levy and Brown"
+2021-11-21,6004.19,,"Patrick, Barrera and Collins"
+2021-11-25,-6806.87,"Chambers, Levy and Brown",
+2021-11-30,-3179.84,Jones-Jones,
+2021-12-02,1099.91,,Mann-Kelley
+2021-12-02,1099.91,,Mann-Kelley
+2021-12-02,-5990.89,"Moore, Martin and Moreno",
+2021-12-02,-4093.65,"Martinez, Clark and Owen",
+2021-12-07,-1088.32,Hernandez LLC,
+2021-12-09,-4223.18,"Thompson, Ruiz and Ortiz",
+2021-12-12,-5610.35,Atkinson Ltd,
+2021-12-12,-5610.35,Atkinson Ltd,
+2021-12-15,-408.52,"Bolton, Burns and Turner",
+2021-12-19,2439.97,,"Vazquez, Ellis and Miller"
+2021-12-22,-3148.19,Lopez-Key,
+2021-12-27,9387.91,,Johnson Inc
+2021-12-27,2692.13,,Mcdowell Inc
+2021-12-27,-7107.7,"Chambers, Levy and Brown",
+2021-12-31,-919.31,Wilson-Robinson,
+2021-12-31,9697.07,,Mann-Kelley
+2021-12-31,9697.07,,Mann-Kelley
+2022-01-05,4876.93,,"Greer, Wilson and Davis"
+2022-01-05,-2463.2,"West, Miller and Flores",
+2022-01-05,-1542.06,Wagner LLC,
+2022-01-05,-3391.17,Allen Ltd,
+2022-01-05,270.26,,"Irwin, Monroe and Anderson"
+2022-01-05,4569.7,,"Mcdonald, Carlson and Lyons"
+2022-01-10,1574.7,,Logan Ltd
+2022-01-10,1574.7,,Logan Ltd
+2022-01-10,-806.17,Hernandez LLC,
+2022-01-14,-3930.08,Martinez-Wilson,
+2022-01-19,-3889.53,"Williams, Campbell and Allen",
+2022-01-20,442.12,,"Bryan, Barnes and Hill"
+2022-01-22,729.53,,Garza-Mcclain
+2022-01-23,-8621.35,Wallace-Carlson,
+2022-01-26,-7089.38,Stewart-Lewis,
+2022-01-28,7397.94,,Wilson-Robinson
+2022-01-28,7397.94,,Wilson-Robinson
+2022-02-01,-847.12,"Summers, Barnett and Smith",
+2022-02-01,1164.04,,Martinez and Sons
+2022-02-01,1164.04,,Martinez and Sons
+2022-02-06,5206.05,,"Chambers, Levy and Brown"
+2022-02-09,-8807.67,Bell-White,
+2022-02-12,6508.28,,Grimes-Green
+2022-02-16,-3995.47,Sheppard-Tucker,
+2022-02-18,5340.99,,Mcdowell Inc
+2022-02-22,8459.4,,"Kent, Ferguson and Becker"
+2022-02-23,-7929.26,Martin-Holden,
+2022-02-23,-7929.26,Martin-Holden,
+2022-02-28,-7380.98,"Williams, Campbell and Allen",
+2022-02-28,780.03,,Collins-Owens
+2022-02-28,780.03,,Collins-Owens
+2022-03-03,-4681.18,Logan Ltd,
+2022-03-04,-4777.67,"Miller, Wheeler and Hale",
+2022-03-04,-4777.67,"Miller, Wheeler and Hale",
+2022-03-09,-9046.34,"Kent, Ferguson and Becker",
+2022-03-13,3778.06,,Atkinson Ltd
+2022-03-18,8423.92,,"Martinez, Clark and Owen"
+2022-03-23,-383.65,"Anderson, Collins and Goodman",
+2022-03-28,4449.51,,"Chambers, Levy and Brown"
+2022-03-28,-6103.55,"Thompson, Ruiz and Ortiz",
+2022-04-02,-479.93,Miller-Salazar,
+2022-04-06,-3386.94,Archer-Patel,
+2022-04-07,-1367.92,"Fischer, Baird and Lowe",
+2022-04-07,-7570.24,Archer-Patel,
+2022-04-07,-7570.24,Archer-Patel,
+2022-04-10,-9083.08,Alvarez-Davis,
+2022-04-15,7021.72,,"Patrick, Barrera and Collins"
+2022-04-18,-4437.65,Perry-Garcia,
+2022-04-22,2260.37,,"West, Miller and Flores"
+2022-04-24,333.76,,Archer-Patel
+2022-04-26,9479.87,,"Miller, Hill and Chavez"
+2022-04-26,7770.84,,Lopez and Sons
+2022-04-27,5649.05,,Chang-Fisher
+2022-04-30,-1134.97,"Williams, Campbell and Allen",
+2022-04-30,-1134.97,"Williams, Campbell and Allen",
+2022-05-03,8172.4,,"Meyer, Curtis and Reed"
+2022-05-06,-5018.97,"Baxter, Johnson and Savage",
+2022-05-06,-5018.97,"Baxter, Johnson and Savage",
+2022-05-06,-5967.8,"Harrison, Barrera and Hudson",
+2022-05-07,3585.07,,Martin-Holden
+2022-05-11,7364.98,,Hernandez LLC
+2022-05-11,7364.98,,Hernandez LLC
+2022-05-12,-1068.53,"Anderson, Collins and Goodman",
+2022-05-17,5950.39,,"Johnson, Coleman and Garcia"
+2022-05-17,-5663.39,"Johnson, Coleman and Garcia",
+2022-05-18,9119.03,,Miller-Salazar
+2022-05-21,-1494.24,"Baxter, Johnson and Savage",
+2022-05-26,-9987.48,Martin-Holden,
+2022-05-28,-796.07,Mann-Kelley,
+2022-06-01,9206.29,,"Johnson, Coleman and Garcia"
+2022-06-06,5984.03,,"Miller, Wheeler and Hale"
+2022-06-08,-8220.14,Wilson-Robinson,
+2022-06-10,-1902.16,Stewart-Allen,
+2022-06-11,-7520.83,"Golden, Lowery and Banks",
+2022-06-11,-7520.83,"Golden, Lowery and Banks",
+2022-06-16,272.14,,Sheppard-Tucker
+2022-06-16,272.14,,Sheppard-Tucker
+2022-06-19,8886.84,,"Patrick, Barrera and Collins"
+2022-06-19,7927.67,,Faulkner-Howard
+2022-06-19,-7502.9,Collins-Owens,
+2022-06-23,-536.76,Williams Ltd,
+2022-06-23,-536.76,Williams Ltd,
+2022-06-26,8321.72,,Grant-Potts
+2022-06-30,1717.0,,Johnson Inc
+2022-07-05,-930.96,Simmons-Turner,
+2022-07-07,-2540.88,Brown-Miles,
+2022-07-09,9721.54,,Alvarez-Davis
+2022-07-12,2951.33,,"Vazquez, Ellis and Miller"
+2022-07-17,4023.3,,Ramirez Inc
+2022-07-17,-2496.79,"Barnes, Bates and Williams",
+2022-07-18,-7585.67,Alvarez-Davis,
+2022-07-22,7384.53,,Wells-Randall
+2022-07-24,-8349.94,Martin-Holden,
+2022-07-24,-8349.94,Martin-Holden,
+2022-07-27,-8037.9,Sheppard-Tucker,
+2022-07-30,2683.08,,Bell-White
+2022-08-02,8106.4,,Ramirez-Good
+2022-08-07,6737.82,,"Lawson, Simpson and Schneider"
+2022-08-08,-1258.0,Wells-Randall,
+2022-08-10,-3817.16,Callahan and Sons,
+2022-08-10,-3817.16,Callahan and Sons,
+2022-08-13,-8269.61,Rose-Freeman,
+2022-08-13,-8269.61,Rose-Freeman,
+2022-08-18,153.78,,"Nguyen, Harrell and Lee"
+2022-08-20,-2163.86,Stewart-Lewis,
+2022-08-20,-2163.86,Stewart-Lewis,
+2022-08-20,-1658.05,Brown-Miles,
+2022-08-23,2876.24,,"Fischer, Baird and Lowe"
+2022-08-26,-1415.95,"Golden, Lowery and Banks",
+2022-08-31,-827.58,"Barnes, Bates and Williams",
+2022-09-03,-4791.09,"Barnes, Bates and Williams",
+2022-09-03,-9657.82,"Martinez, Clark and Owen",
+2022-09-05,-2347.28,Simmons-Turner,
+2022-09-05,-2347.28,Simmons-Turner,
+2022-09-07,-3214.22,Ramirez-Good,
+2022-09-11,189.15,,"Thompson, Bennett and Carter"
+2022-09-12,4629.53,,Campos PLC
+2022-09-13,-3201.2,Collins-Owens,
+2022-09-15,1762.17,,Miller-Salazar
+2022-09-18,1365.0,,Clayton-Cook
+2022-09-21,-3745.72,Sanchez Ltd,
+2022-09-21,5828.56,,Mcdowell Inc
+2022-09-21,-6773.62,Villanueva PLC,
+2022-09-24,-6091.2,Ramirez-Good,
+2022-09-29,-5396.83,"Thompson, Bennett and Carter",
+2022-10-02,8106.95,,"Baxter, Johnson and Savage"
+2022-10-07,4820.59,,Mann-Kelley
+2022-10-07,463.52,,Sheppard-Tucker
+2022-10-07,4119.96,,Martinez and Sons
+2022-10-11,-1897.7,Bell-Roberts,
+2022-10-11,-1897.7,Bell-Roberts,
+2022-10-15,24.22,,"Jones, Jefferson and Rivera"
+2022-10-19,3059.95,,"Munoz, Smith and Williams"
+2022-10-22,8879.76,,"Barnes, Bates and Williams"
+2022-10-27,-4080.11,"Garcia, Hamilton and Carr",
+2022-11-01,-2119.98,Carlson Group,
+2022-11-04,9273.83,,Wallace-Carlson
+2022-11-04,9169.05,,"Baxter, Johnson and Savage"
+2022-11-04,-7037.62,Lopez-Key,
+2022-11-05,6761.52,,"Walker, Pratt and Thomas"
+2022-11-08,-7406.95,Rose-Freeman,
+2022-11-08,-7406.95,Rose-Freeman,
+2022-11-08,6442.14,,Brown-Miles
+2022-11-13,9399.19,,"Walker, Pratt and Thomas"
+2022-11-13,9399.19,,"Walker, Pratt and Thomas"
+2022-11-14,-5543.89,"West, Miller and Flores",
+2022-11-15,-4646.71,Gonzalez-Howard,
+2022-11-19,-136.41,Simmons-Turner,
+2022-11-21,-8201.0,Chang-Fisher,
+2022-11-21,7683.63,,Logan Ltd
+2022-11-25,-9783.28,Bell-Roberts,
+2022-11-26,5729.04,,Callahan and Sons
+2022-12-01,4897.75,,Bell-White
+2022-12-06,-3449.16,Monroe-King,
+2022-12-09,4021.66,,"Walker, Pratt and Thomas"
+2022-12-09,-1855.73,Wagner LLC,
+2022-12-13,778.45,,Clayton-Cook
+2022-12-14,3561.2,,Chan-Johnson
+2022-12-14,-3306.29,Monroe-King,
+2022-12-18,1474.46,,"Walker, Pratt and Thomas"
+2022-12-18,1474.46,,"Walker, Pratt and Thomas"
+2022-12-22,-5397.3,"Martinez, Clark and Owen",
+2022-12-22,-7332.85,Ramirez Inc,
+2022-12-24,-4833.58,Ramirez Inc,
+2022-12-28,2602.06,,"Thompson, Ruiz and Ortiz"
+2023-01-01,-3201.64,Sheppard-Tucker,
+2023-01-04,6485.85,,Martinez and Sons
+2023-01-07,-9838.81,Grant-Potts,
+2023-01-11,5613.58,,Morales Ltd
+2023-01-14,-4972.74,Bell-Roberts,
+2023-01-14,-4972.74,Bell-Roberts,
+2023-01-15,-5470.13,Brown-Miles,
+2023-01-19,2911.9,,"Harrison, Barrera and Hudson"
+2023-01-23,243.02,,"Munoz, Smith and Williams"
+2023-01-25,8757.97,,Clarke-Higgins
+2023-01-30,-1511.06,Gray-Hutchinson,
+2023-02-02,-6127.15,"Chandler, Turner and Houston",
+2023-02-03,8060.96,,"Fischer, Baird and Lowe"
+2023-02-03,-1396.32,Alvarez-Davis,
+2023-02-03,8539.8,,Jones-Jones
+2023-02-03,8539.8,,Jones-Jones
+2023-02-05,5964.69,,Chang-Fisher
+2023-02-05,5964.69,,Chang-Fisher
+2023-02-10,-8573.86,Miller-Salazar,
+2023-02-10,-9620.83,"Fischer, Baird and Lowe",
+2023-02-12,-5926.22,Atkinson Ltd,
+2023-02-12,-1103.43,"Lawson, Simpson and Schneider",
+2023-02-13,-632.6,Williams PLC,
+2023-02-13,2974.75,,"Harrison, Barrera and Hudson"
+2023-02-13,2974.75,,"Harrison, Barrera and Hudson"
+2023-02-16,-1340.87,"Browning, Williams and Curry",
+2023-02-18,8825.68,,Keller-Davies
+2023-02-18,1604.53,,Ramirez Inc
+2023-02-22,8856.39,,Wells-Randall
+2023-02-23,9684.56,,Perry-Garcia
+2023-02-27,-7228.52,Wells-Randall,
+2023-03-04,-1461.52,"Davis, Wilson and Banks",
+2023-03-07,2117.09,,Martinez-Wilson
+2023-03-07,2117.09,,Martinez-Wilson
+2023-03-10,4476.37,,Wagner LLC
+2023-03-12,9955.46,,Callahan and Sons
+2023-03-16,-2910.08,"West, Miller and Flores",
+2023-03-18,6563.33,,"Johnson, Coleman and Garcia"
+2023-03-19,1815.29,,Woodward and Sons
+2023-03-21,-4782.73,Martinez and Sons,
+2023-03-21,-4782.73,Martinez and Sons,
+2023-03-23,6482.38,,"Harrison, Barrera and Hudson"
+2023-03-23,6482.38,,"Harrison, Barrera and Hudson"
+2023-03-25,-2819.54,"Bolton, Burns and Turner",
+2023-03-25,-2819.54,"Bolton, Burns and Turner",
+2023-03-25,-2911.2,"Miller, Hill and Chavez",
+2023-03-27,4260.53,,Johnson Inc
+2023-03-27,-1693.14,Martin-Holden,
+2023-04-01,7763.61,,Sheppard-Tucker
+2023-04-01,-3875.97,"Barnes, Bates and Williams",
+2023-04-03,-1271.73,"Miller, Wheeler and Hale",
+2023-04-03,-1271.73,"Miller, Wheeler and Hale",
+2023-04-04,1511.73,,Allen Ltd
+2023-04-04,-8611.29,Grant-Potts,
+2023-04-08,6844.75,,Miller-Salazar
+2023-04-12,-9941.14,"Barnes, Bates and Williams",
+2023-04-12,-9941.14,"Barnes, Bates and Williams",
+2023-04-12,539.41,,"Walker, Pratt and Thomas"
+2023-04-15,7389.51,,Martinez and Sons
+2023-04-15,7389.51,,Martinez and Sons
+2023-04-18,2010.93,,"Nguyen, Harrell and Lee"
+2023-04-18,2010.93,,"Nguyen, Harrell and Lee"
+2023-04-20,-1793.46,Atkinson Ltd,
+2023-04-22,-4716.81,Wells-Randall,
+2023-04-27,-1818.16,"Allen, Williams and White",
+2023-04-29,7408.22,,"Moon, Davis and Larsen"
+2023-05-01,-2056.38,Clarke-Higgins,
+2023-05-03,6331.06,,Sanchez Ltd
+2023-05-03,6331.06,,Sanchez Ltd
+2023-05-06,4969.21,,"Munoz, Smith and Williams"
+2023-05-10,2109.46,,"Miller, Hill and Chavez"
+2023-05-14,47.35,,Sanchez Ltd
+2023-05-14,47.35,,Sanchez Ltd
+2023-05-17,5754.32,,Martin-Holden
+2023-05-17,-5717.61,Morales Ltd,
+2023-05-19,-718.81,"Garcia, Hamilton and Carr",
+2023-05-24,6553.15,,Simmons-Turner
+2023-05-25,-4366.26,"Bolton, Burns and Turner",
+2023-05-25,3246.88,,"Mcdonald, Carlson and Lyons"
+2023-05-27,-2651.59,"Harris, Lloyd and Payne",
+2023-05-28,-5630.46,Mann-Kelley,
+2023-05-31,3614.42,,"Nguyen, Harrell and Lee"
+2023-05-31,3614.42,,"Nguyen, Harrell and Lee"
+2023-06-02,-4418.24,Campos PLC,
+2023-06-05,-529.77,"Vazquez, Ellis and Miller",
+2023-06-07,899.6,,Hernandez LLC
+2023-06-07,899.6,,Hernandez LLC
+2023-06-12,4982.54,,Chang-Fisher
+2023-06-13,1043.24,,"Mcdonald, Carlson and Lyons"
+2023-06-18,-3357.56,Williams PLC,
+2023-06-18,-3357.56,Williams PLC,
+2023-06-21,1226.34,,"Moore, Martin and Moreno"
+2023-06-21,1226.34,,"Moore, Martin and Moreno"
+2023-06-25,-2575.97,"Browning, Williams and Curry",
+2023-06-29,-2015.49,Williams PLC,
+2023-07-03,8315.32,,"Irwin, Monroe and Anderson"
+2023-07-08,-4811.0,Bell-Roberts,
+2023-07-11,6535.49,,Wagner LLC
+2023-07-14,1574.57,,Clayton-Cook
+2023-07-14,1574.57,,Clayton-Cook
+2023-07-14,6736.69,,"Harrison, Barrera and Hudson"
+2023-07-15,300.92,,Johnson Inc
+2023-07-18,-5050.97,"Davis, Wilson and Banks",
+2023-07-21,7919.27,,Sanchez Ltd
+2023-07-25,-1306.6,Wallace-Carlson,
+2023-07-26,-5451.91,Cook Inc,
+2023-07-27,9231.96,,Archer-Patel
+2023-07-28,-3432.51,Garza-Mcclain,
+2023-08-01,9102.81,,Gray-Hutchinson
+2023-08-01,-6067.5,"Chambers, Levy and Brown",
+2023-08-02,-910.69,Miller-Salazar,
+2023-08-03,1908.16,,"Miller, Hill and Chavez"
+2023-08-05,1944.66,,Williams PLC
+2023-08-05,1944.66,,Williams PLC
+2023-08-08,-5064.86,Chang-Fisher,
+2023-08-13,-1708.1,Clarke-Higgins,
+2023-08-16,-8812.76,"Chambers, Levy and Brown",
+2023-08-16,-8812.76,"Chambers, Levy and Brown",
+2023-08-20,3927.61,,Levy Group
+2023-08-20,3927.61,,Levy Group
+2023-08-25,8722.27,,"Kent, Ferguson and Becker"
+2023-08-26,1846.97,,"Jones, Jefferson and Rivera"
+2023-08-30,-3949.13,Alvarez-Davis,
+2023-08-30,-3949.13,Alvarez-Davis,
+2023-09-02,-1530.66,Archer-Patel,
+2023-09-04,467.01,,"Johnson, Coleman and Garcia"
+2023-09-04,-7982.24,"Golden, Lowery and Banks",
+2023-09-04,-7982.24,"Golden, Lowery and Banks",
+2023-09-05,2294.24,,Simmons-Turner
+2023-09-10,3199.53,,Woodward and Sons
+2023-09-12,8534.82,,Miller-Salazar
+2023-09-12,-3948.89,"West, Miller and Flores",
+2023-09-16,4982.39,,Levy Group
+2023-09-16,8249.96,,Wagner LLC
+2023-09-16,8249.96,,Wagner LLC
+2023-09-18,2118.65,,Collins-Owens
+2023-09-21,1108.23,,Williams Ltd
+2023-09-24,-3280.97,"Chandler, Turner and Houston",
+2023-09-27,-2096.84,Wilson-Robinson,
+2023-09-27,5901.78,,Grant-Potts
+2023-10-02,3742.74,,Williams PLC
+2023-10-02,3086.48,,Woodward and Sons
+2023-10-02,-4041.25,Matthews-Rogers,
+2023-10-07,5694.09,,Wallace-Carlson
+2023-10-07,5694.09,,Wallace-Carlson
+2023-10-10,-2820.32,Alvarez Group,
+2023-10-11,-3763.45,"Irwin, Monroe and Anderson",
+2023-10-15,5717.85,,"Harris, Lloyd and Payne"
+2023-10-15,5717.85,,"Harris, Lloyd and Payne"
+2023-10-18,4892.99,,Keller-Davies
+2023-10-18,4892.99,,Keller-Davies
+2023-10-21,2696.53,,Grant-Potts
+2023-10-24,5700.64,,Johnson Inc
+2023-10-24,1221.57,,"Thompson, Ruiz and Ortiz"
+2023-10-24,-6760.05,"Browning, Williams and Curry",
+2023-10-28,6978.22,,"Bryan, Barnes and Hill"
+2023-10-28,-2345.43,Bowman-Watson,
+2023-11-02,-7272.26,Brown-Miles,
+2023-11-06,-5946.02,Atkinson Ltd,
+2023-11-06,-5946.02,Atkinson Ltd,
+2023-11-11,8607.25,,Chang-Fisher
+2023-11-11,8607.25,,Chang-Fisher
+2023-11-11,-8960.71,Sanchez Ltd,
+2023-11-16,2923.3,,Gonzalez-Howard
+2023-11-18,7329.89,,"Munoz, Smith and Williams"
+2023-11-23,3694.3,,"Meyer, Curtis and Reed"
+2023-11-27,2429.92,,Stewart-Allen
+2023-11-27,2429.92,,Stewart-Allen
+2023-12-02,-4521.02,Martinez and Sons,
+2023-12-07,640.04,,"Davis, Wilson and Banks"
+2023-12-07,-9207.43,"Kent, Ferguson and Becker",
+2023-12-09,1933.74,,Rose-Freeman
+2023-12-14,9058.8,,"Garcia, Hamilton and Carr"
+2023-12-14,-9863.44,"Chandler, Turner and Houston",
+2023-12-18,-2979.24,Archer-Patel,
+2023-12-18,-4515.19,"Munoz, Smith and Williams",
+2023-12-20,-5487.22,Bowman-Watson,
+2023-12-21,-2875.26,Johnson Inc,
+2023-12-21,-3815.79,Callahan and Sons,
+2023-12-21,-3815.79,Callahan and Sons,
+2023-12-25,-3840.68,"Miller, Hill and Chavez",
+2023-12-25,-3840.68,"Miller, Hill and Chavez",
+2023-12-25,9783.87,,Sheppard-Tucker
+2023-12-30,4924.43,,Ramirez-Good
+2024-01-03,-5095.68,Wilson-Robinson,
+2024-01-04,-9008.29,Gonzalez-Howard,
+2024-01-04,-9008.29,Gonzalez-Howard,
+2024-01-09,-3642.85,"Myers, Thornton and Hill",
+2024-01-09,-3642.85,"Myers, Thornton and Hill",
+2024-01-14,5085.69,,Sanchez Ltd
+2024-01-18,4099.36,,"Patrick, Barrera and Collins"
+2024-01-21,-3552.66,Brown-Miles,
+2024-01-25,-671.74,"Irwin, Monroe and Anderson",
+2024-01-28,-1325.67,Bell-Roberts,
+2024-01-28,977.69,,Wells-Randall
+2024-01-29,-3650.02,Wilson-Robinson,
+2024-01-29,6883.38,,"Harris, Lloyd and Payne"
+2024-01-30,-9212.15,"Chambers, Levy and Brown",
+2024-01-30,1990.38,,"Anderson, Collins and Goodman"
+2024-01-30,1348.4,,Mann-Kelley
+2024-02-03,-6322.54,Sheppard-Tucker,
+2024-02-03,-8049.46,Williams Ltd,
+2024-02-08,3948.23,,"Thompson, Ruiz and Ortiz"
+2024-02-09,-9053.05,"Harrison, Barrera and Hudson",
+2024-02-09,-7624.48,"Greer, Wilson and Davis",
+2024-02-14,2259.31,,"Johnson, Coleman and Garcia"
+2024-02-16,-3799.3,Wilson-Robinson,
+2024-02-16,-3799.3,Wilson-Robinson,
+2024-02-18,-4746.39,Hernandez LLC,
+2024-02-20,-6387.57,"Nguyen, Harrell and Lee",
+2024-02-24,-8241.54,Callahan and Sons,
+2024-02-26,-5104.93,Ramirez Inc,
+2024-02-29,-7876.5,"Anderson, Collins and Goodman",
+2024-02-29,-4624.05,Perry-Garcia,
+2024-03-04,2589.06,,"West, Miller and Flores"
+2024-03-04,8205.72,,Clarke-Higgins
+2024-03-09,233.98,,Brown-Miles
+2024-03-11,-824.29,Ramirez Inc,
+2024-03-11,-824.29,Ramirez Inc,
+2024-03-16,4043.73,,Wilson-Robinson
+2024-03-17,-8689.89,Lopez-Key,
+2024-03-17,-8689.89,Lopez-Key,
+2024-03-18,-3920.36,Levy Group,
+2024-03-18,-3920.36,Levy Group,
+2024-03-22,6724.4,,Jones-Jones
+2024-03-26,-7441.86,"Moore, Martin and Moreno",
+2024-03-26,1230.7,,Simmons-Turner
+2024-03-26,1230.7,,Simmons-Turner
+2024-03-26,3725.72,,Alvarez-Davis
+2024-03-26,3725.72,,Alvarez-Davis
+2024-03-28,8458.28,,Miller-Salazar
+2024-03-29,6867.52,,"Summers, Barnett and Smith"
+2024-04-03,-1095.8,"Thompson, Bennett and Carter",
+2024-04-07,-7213.77,Cook Inc,
+2024-04-10,6074.41,,Carter Group
+2024-04-10,6074.41,,Carter Group
+2024-04-12,-6056.66,Bell-Roberts,
+2024-04-13,5676.52,,Wells-Randall
+2024-04-13,-3484.76,Wells-Randall,
+2024-04-13,9708.0,,"Nguyen, Harrell and Lee"
+2024-04-13,9708.0,,"Nguyen, Harrell and Lee"
+2024-04-16,1698.09,,"Moore, Martin and Moreno"
+2024-04-16,1698.09,,"Moore, Martin and Moreno"
+2024-04-19,9844.3,,"Vazquez, Ellis and Miller"
+2024-04-24,8753.65,,"Bryan, Barnes and Hill"
+2024-04-24,8753.65,,"Bryan, Barnes and Hill"
+2024-04-29,226.25,,Ramirez Inc
+2024-04-29,226.25,,Ramirez Inc
+2024-05-01,1045.87,,"Browning, Williams and Curry"
+2024-05-05,8341.38,,Salazar Ltd
+2024-05-06,-6407.03,Mcdowell Inc,
+2024-05-09,518.47,,Perry-Garcia
+2024-05-12,-8381.76,"Browning, Williams and Curry",
+2024-05-16,-1198.39,Keller-Davies,
+2024-05-16,-1198.39,Keller-Davies,
+2024-05-21,-2366.0,"Moon, Davis and Larsen",
+2024-05-21,-2366.0,"Moon, Davis and Larsen",
+2024-05-24,7420.98,,Stewart-Lewis
+2024-05-26,-8401.38,"Irwin, Monroe and Anderson",
+2024-05-28,2083.76,,Bell-Roberts
+2024-06-01,-7837.39,Matthews-Rogers,
+2024-06-04,6655.67,,"Jones, Jefferson and Rivera"
+2024-06-08,-9901.19,Sanchez Ltd,
+2024-06-08,-9901.19,Sanchez Ltd,
+2024-06-08,5875.58,,"Anderson, Collins and Goodman"
+2024-06-09,6101.43,,"Barnes, Bates and Williams"
+2024-06-09,-2488.41,Perry-Garcia,
+2024-06-13,8248.9,,Sheppard-Tucker
+2024-06-13,-135.98,"Miller, Wheeler and Hale",
+2024-06-13,-7202.84,"Kent, Ferguson and Becker",
+2024-06-13,-7202.84,"Kent, Ferguson and Becker",
+2024-06-18,9718.69,,Callahan and Sons
+2024-06-22,5291.35,,"Walker, Pratt and Thomas"
+2024-06-27,-4420.96,Mcdowell Inc,
+2024-06-28,669.44,,"Greer, Wilson and Davis"
+2024-07-01,8489.52,,Hernandez LLC
+2024-07-04,-3868.17,Chang-Fisher,
+2024-07-09,-7107.81,Cook Inc,
+2024-07-09,-7107.81,Cook Inc,
+2024-07-14,1883.02,,Carlson Group
+2024-07-15,4945.21,,Morales Ltd
+2024-07-18,4744.83,,Bowman-Watson
+2024-07-21,7442.56,,Clarke-Higgins
+2024-07-25,4676.01,,"Irwin, Monroe and Anderson"
+2024-07-30,7096.14,,Bell-White
+2024-07-31,-8919.93,Ward-Hays,
+2024-07-31,-8919.93,Ward-Hays,
+2024-07-31,2007.22,,Perry-Garcia
+2024-08-05,885.24,,Cook Inc
+2024-08-05,885.24,,Cook Inc
+2024-08-08,-4754.86,Wallace-Carlson,
+2024-08-13,5383.84,,Perry-Garcia
+2024-08-15,4177.55,,"West, Miller and Flores"
+2024-08-15,2569.09,,Rose-Freeman
+2024-08-19,-1070.51,Morales Ltd,
+2024-08-23,-2577.77,Grimes-Green,
+2024-08-23,-2577.77,Grimes-Green,
+2024-08-26,9458.52,,Clayton-Cook
+2024-08-27,2031.72,,Morales Ltd
+2024-08-27,2031.72,,Morales Ltd
+2024-08-31,-9118.04,Archer-Patel,
+2024-08-31,-9118.04,Archer-Patel,
+2024-09-03,-7849.47,Clarke-Higgins,
+2024-09-04,-4293.63,Grimes-Green,
+2024-09-04,8964.05,,"Golden, Lowery and Banks"
+2024-09-04,-5196.86,Martinez-Wilson,
+2024-09-07,6852.59,,Lopez-Key
+2024-09-12,2688.53,,Stewart-Allen
+2024-09-12,2688.53,,Stewart-Allen
+2024-09-16,-279.3,Keller-Davies,
+2024-09-17,-1286.52,Collins-Owens,
+2024-09-22,3944.5,,Stewart-Lewis
+2024-09-27,-4605.7,Ramirez Inc,
+2024-10-02,-8931.48,"Kent, Ferguson and Becker",
+2024-10-03,-476.76,Rose-Freeman,
+2024-10-03,-476.76,Rose-Freeman,
+2024-10-03,-7532.35,Gonzalez-Howard,
+2024-10-08,-3314.69,Clayton-Cook,
+2024-10-09,7007.65,,Chan-Johnson
+2024-10-09,9340.24,,"Garcia, Hamilton and Carr"
+2024-10-12,-7805.17,"Thompson, Ruiz and Ortiz",
+2024-10-14,9751.29,,Stewart-Lewis
+2024-10-17,-3039.49,Bowman-Watson,
+2024-10-17,-3039.49,Bowman-Watson,
+2024-10-19,783.18,,"Fischer, Baird and Lowe"
+2024-10-19,-609.41,Miller-Salazar,
+2024-10-19,8604.62,,Gonzalez-Howard
+2024-10-19,8604.62,,Gonzalez-Howard
+2024-10-22,-7171.07,Rose-Freeman,
+2024-10-25,2065.11,,"Barnes, Bates and Williams"
+2024-10-27,8987.16,,"Mcdonald, Carlson and Lyons"
+2024-10-27,3460.97,,Wagner LLC
+2024-10-27,3460.97,,Wagner LLC
+2024-11-01,4336.79,,"Fischer, Baird and Lowe"
+2024-11-01,4336.79,,"Fischer, Baird and Lowe"
+2024-11-06,-7173.26,Bell-Roberts,
+2024-11-09,613.61,,"Golden, Lowery and Banks"
+2024-11-10,6356.94,,Ramirez-Good
+2024-11-11,-8256.24,"Garcia, Hamilton and Carr",
+2024-11-12,-9648.68,"Chambers, Levy and Brown",
+2024-11-12,-9648.68,"Chambers, Levy and Brown",
+2024-11-12,2895.05,,"West, Miller and Flores"
+2024-11-15,-9392.31,"Myers, Thornton and Hill",
+2024-11-15,-9392.31,"Myers, Thornton and Hill",
+2024-11-16,5021.21,,"Myers, Thornton and Hill"
+2024-11-17,103.84,,Stewart-Lewis
+2024-11-17,6753.74,,Atkinson Ltd
+2024-11-19,1304.26,,"Summers, Barnett and Smith"
+2024-11-19,1304.26,,"Summers, Barnett and Smith"
+2024-11-24,3382.17,,Mcdowell Inc
+2024-11-25,-9864.29,"West, Miller and Flores",
+2024-11-30,4878.36,,Morales Ltd
+2024-11-30,4878.36,,Morales Ltd
+2024-12-02,-2002.28,Clarke-Higgins,
+2024-12-04,-1680.92,Mann-Kelley,
+2024-12-06,-782.22,Campos PLC,
+2024-12-11,9845.57,,"Browning, Williams and Curry"
+2024-12-11,9845.57,,"Browning, Williams and Curry"
+2024-12-15,5968.73,,"Baxter, Johnson and Savage"
+2024-12-20,4336.43,,Grant-Potts
+2024-12-21,-2589.62,Bell-Roberts,
+2024-12-24,-4626.3,Wells-Randall,
+2024-12-24,-4626.3,Wells-Randall,
+2024-12-29,-9932.49,Mcdowell Inc,
+2024-12-29,-9932.49,Mcdowell Inc,
+2025-01-03,-2882.34,"Golden, Lowery and Banks",
+2025-01-08,-9995.21,"Garcia, Hamilton and Carr",
+2025-01-09,-9158.53,Levy Group,
+2025-01-12,2124.83,,Alvarez Group
+2025-01-16,6403.11,,Woodward and Sons
+2025-01-16,6403.11,,Woodward and Sons
+2025-01-16,-4171.85,"Chandler, Turner and Houston",
+2025-01-16,-4171.85,"Chandler, Turner and Houston",
+2025-01-19,-497.64,Garza-Mcclain,
+2025-01-24,-9712.57,"Greer, Wilson and Davis",
+2025-01-28,-6024.42,"Lawson, Simpson and Schneider",
+2025-02-01,-1307.98,Grant-Potts,
+2025-02-05,374.28,,Collins-Owens
+2025-02-10,-1464.87,Grant-Potts,
+2025-02-10,-2283.44,Wallace-Carlson,
+2025-02-10,-4741.51,Archer-Patel,
+2025-02-12,9193.38,,"Miller, Wheeler and Hale"
+2025-02-12,606.33,,"Walker, Pratt and Thomas"
+2025-02-12,8046.39,,"Anderson, Collins and Goodman"
+2025-02-16,-2037.75,"Browning, Williams and Curry",
+2025-02-21,7435.64,,"Baxter, Johnson and Savage"
+2025-02-21,2051.88,,Clayton-Cook
+2025-02-21,2051.88,,Clayton-Cook
+2025-02-25,-7953.71,Atkinson Ltd,
+2025-02-28,-1553.22,Mcdowell Inc,
+2025-03-03,6998.9,,"Miller, Hill and Chavez"
+2025-03-05,6023.56,,Lopez and Sons
+2025-03-05,6023.56,,Lopez and Sons
+2025-03-08,-7352.49,"Moore, Martin and Moreno",
+2025-03-11,5137.46,,"Kent, Ferguson and Becker"
+2025-03-11,-9130.6,Rose-Freeman,
+2025-03-15,8651.23,,Chan-Johnson
+2025-03-16,-3685.54,"Thompson, Ruiz and Ortiz",
+2025-03-17,-3096.98,Lopez and Sons,
+2025-03-19,-4422.92,"Meyer, Curtis and Reed",
+2025-03-21,-9952.31,Stewart-Allen,
+2025-03-24,3909.54,,Williams Ltd
+2025-03-25,-1359.76,"Myers, Thornton and Hill",
+2025-03-29,-504.32,"Bryan, Barnes and Hill",
+2025-04-03,2359.44,,Sanchez Ltd
+2025-04-07,-3309.66,"Vazquez, Ellis and Miller",
+2025-04-07,-9234.04,"Davis, Wilson and Banks",
+2025-04-10,-4313.83,"Fischer, Baird and Lowe",
+2025-04-14,-7750.24,Carlson Group,
+2025-04-18,-8441.03,Collins-Owens,
+2025-04-23,9676.27,,Wagner LLC
+2025-04-23,9676.27,,Wagner LLC
+2025-04-26,-9296.38,"Harris, Lloyd and Payne",
+2025-04-27,-3724.63,Woodward and Sons,
+2025-04-27,4463.05,,Wilson-Robinson
+2025-04-27,4463.05,,Wilson-Robinson
+2025-04-30,-8392.95,Grant-Potts,
+2025-05-04,-5478.4,"Summers, Barnett and Smith",
+2025-05-04,6448.02,,Villanueva PLC
+2025-05-09,3237.86,,Martin-Holden
+2025-05-13,-2221.28,Ramirez-Good,
+2025-05-13,-2221.28,Ramirez-Good,
+2025-05-16,-9440.83,Hernandez LLC,
+2025-05-21,8354.08,,"Golden, Lowery and Banks"
+2025-05-23,-1324.28,"Nguyen, Harrell and Lee",
+2025-05-23,8130.84,,"Baxter, Johnson and Savage"
+2025-05-27,-8601.78,Atkinson Ltd,
+2025-05-29,8569.16,,Allen Ltd
+2025-06-02,-3650.72,Wells-Randall,
+2025-06-02,6505.91,,"Lawson, Simpson and Schneider"
+2025-06-05,-2072.0,"Jones, Jefferson and Rivera",
+2025-06-07,-1571.87,"Mcdonald, Carlson and Lyons",
+2025-06-09,-1183.78,"Browning, Williams and Curry",
+2025-06-09,-1183.78,"Browning, Williams and Curry",
+2025-06-09,-708.98,Stewart-Allen,
+2025-06-10,8211.69,,Chang-Fisher
+2025-06-10,8211.69,,Chang-Fisher
+2025-06-14,-7308.86,"Harrison, Barrera and Hudson",
+2025-06-19,9063.52,,"Nguyen, Harrell and Lee"
+2025-06-23,5694.23,,"Chandler, Turner and Houston"
+2025-06-23,5694.23,,"Chandler, Turner and Houston"
+2025-06-25,170.68,,Matthews-Rogers
+2025-06-25,170.68,,Matthews-Rogers
+2025-06-30,4442.71,,Simmons-Turner
+2025-06-30,4442.71,,Simmons-Turner
+2025-06-30,-9684.06,Bowman-Watson,
+2025-06-30,-9684.06,Bowman-Watson,
+2025-07-01,7525.38,,"Fischer, Baird and Lowe"
+2025-07-06,-4939.27,"Barnes, Bates and Williams",
+2025-07-08,7852.83,,"Moon, Davis and Larsen"
+2025-07-09,4417.3,,Martin-Holden
+2025-07-12,481.46,,Sheppard-Tucker
+2025-07-12,481.46,,Sheppard-Tucker
+2025-07-15,6467.26,,"Fischer, Baird and Lowe"
+2025-07-20,-1022.69,"Fischer, Baird and Lowe",
+2025-07-24,2581.5,,Villanueva PLC
+2025-07-24,3671.75,,Simmons-Turner
+2025-07-29,-3945.15,"Anderson, Collins and Goodman",
+2025-08-03,2841.25,,"Kent, Ferguson and Becker"
+2025-08-06,-1063.87,Martin-Holden,
+2025-08-06,7770.74,,Chan-Johnson
+2025-08-10,-1374.59,"Walker, Pratt and Thomas",
+2025-08-13,3090.03,,Carter Group
+2025-08-16,-4734.22,Clarke-Higgins,
+2025-08-20,-3753.67,"Munoz, Smith and Williams",
+2025-08-20,-5150.93,Grimes-Green,
+2025-08-20,-5150.93,Grimes-Green,
+2025-08-21,8696.27,,"Myers, Thornton and Hill"
+2025-08-21,8696.27,,"Myers, Thornton and Hill"
+2025-08-22,-3239.68,Archer-Patel,
+2025-08-25,-7896.99,"Johnson, Coleman and Garcia",
+2025-08-28,7651.91,,"Thompson, Ruiz and Ortiz"
+2025-08-28,-2923.33,Lopez-Key,
+2025-08-28,6697.06,,Matthews-Rogers
+2025-09-02,3362.15,,"Thompson, Bennett and Carter"
+2025-09-02,3362.15,,"Thompson, Bennett and Carter"
+2025-09-02,-4233.62,Matthews-Rogers,
+2025-09-04,-7619.57,Atkinson Ltd,
+2025-09-04,-8360.91,"Chambers, Levy and Brown",
+2025-09-09,7215.85,,Jones-Jones
+2025-09-09,7215.85,,Jones-Jones
+2025-09-13,5898.23,,"Garcia, Hamilton and Carr"
+2025-09-13,7172.16,,Grant-Potts
+2025-09-13,7172.16,,Grant-Potts
+2025-09-18,-7760.95,Williams PLC,
+2025-09-21,-2686.76,Martinez-Wilson,
+2025-09-25,9231.09,,"West, Miller and Flores"
+2025-09-25,-9509.49,"West, Miller and Flores",
+2025-09-27,3095.76,,Garza-Mcclain
+2025-09-28,1133.62,,"Barnes, Bates and Williams"
+2025-10-03,-852.83,"West, Miller and Flores",
+2025-10-04,-7414.21,Campos PLC,
+2025-10-05,-3758.03,Logan Ltd,
+2025-10-08,-8814.06,Martinez-Wilson,
+2025-10-08,-8814.06,Martinez-Wilson,
+2025-10-13,7360.6,,"Davis, Wilson and Banks"
+2025-10-13,-3071.09,Brown-Miles,
+2025-10-16,-6865.32,Monroe-King,
+2025-10-21,-265.55,Archer-Patel,
+2025-10-21,-265.55,Archer-Patel,
+2025-10-24,-8107.29,"Fischer, Baird and Lowe",
+2025-10-24,-8107.29,"Fischer, Baird and Lowe",
+2025-10-28,-2599.49,Chang-Fisher,
+2025-10-28,-2599.49,Chang-Fisher,
+2025-11-02,9681.38,,Logan Ltd
+2025-11-04,-8989.86,Alvarez Group,
+2025-11-04,9165.47,,Alvarez-Davis
+2025-11-05,5676.5,,Stewart-Allen
+2025-11-05,5676.5,,Stewart-Allen
+2025-11-10,8805.17,,Logan Ltd
+2025-11-10,8805.17,,Logan Ltd
+2025-11-10,-3844.78,"Browning, Williams and Curry",
+2025-11-12,9463.75,,"Summers, Barnett and Smith"
+2025-11-12,-530.11,"Davis, Wilson and Banks",
+2025-11-17,9102.45,,Callahan and Sons
+2025-11-20,2200.31,,Grant-Potts
+2025-11-20,607.43,,Woodward and Sons
+2025-11-22,-4368.73,Gonzalez-Howard,
+2025-11-26,-5795.67,Logan Ltd,
+2025-11-27,6582.29,,Clayton-Cook
+2025-11-30,7560.01,,Grant-Potts
+2025-12-04,-3979.53,Sheppard-Tucker,
+2025-12-04,-3979.53,Sheppard-Tucker,
+2025-12-05,5160.43,,Gray-Hutchinson
+2025-12-05,-5146.45,Garza-Mcclain,
+2025-12-09,-8335.47,Sheppard-Tucker,
+2025-12-13,4730.06,,Woodward and Sons
+2025-12-13,5658.41,,"Johnson, Coleman and Garcia"
+2025-12-14,-5119.79,Collins-Owens,
+2025-12-16,-3113.55,Wells-Randall,
+2025-12-20,-4662.52,Logan Ltd,
+2025-12-20,-4662.52,Logan Ltd,
+2025-12-22,3767.26,,"Barnes, Bates and Williams"
+2025-12-24,5504.9,,"Patrick, Barrera and Collins"
+2025-12-25,2302.27,,"Golden, Lowery and Banks"
+2025-12-25,2302.27,,"Golden, Lowery and Banks"
+2025-12-25,-5420.31,Wagner LLC,
+2025-12-27,-843.99,Bell-White,
+2025-12-30,8371.47,,"Summers, Barnett and Smith"
+2026-01-02,-4913.65,Perry-Garcia,
+2026-01-07,5141.37,,Sheppard-Tucker
+2026-01-08,-3767.48,Mcdowell Inc,
+2026-01-12,5630.32,,"Williams, Campbell and Allen"
+2026-01-12,5630.32,,"Williams, Campbell and Allen"
+2026-01-15,6586.62,,Grimes-Green
+2026-01-16,6785.02,,Carlson Group
+2026-01-20,-8811.63,"Fischer, Baird and Lowe",
+2026-01-25,-5979.22,"Barnes, Bates and Williams",
+2026-01-29,4263.01,,"Allen, Williams and White"
+2026-01-29,7042.54,,Faulkner-Howard
+2026-02-03,-1399.42,"Mcdonald, Carlson and Lyons",
+2026-02-08,5815.99,,"Martinez, Clark and Owen"
+2026-02-08,5815.99,,"Martinez, Clark and Owen"
+2026-02-11,1352.55,,"Summers, Barnett and Smith"
+2026-02-12,-7406.62,Wells-Randall,
+2026-02-15,4805.14,,Clayton-Cook
+2026-02-18,9793.0,,Lopez and Sons
+2026-02-21,397.4,,"Chambers, Levy and Brown"
+2026-02-21,-2666.26,"Barnes, Bates and Williams",
+2026-02-21,-6220.39,Lopez and Sons,
+2026-02-24,-6880.62,"Bryan, Barnes and Hill",
+2026-02-28,-6537.46,Williams PLC,
+2026-03-01,-6223.1,Matthews-Rogers,
+2026-03-01,-6223.1,Matthews-Rogers,
+2026-03-01,9809.1,,Wells-Randall
+2026-03-05,-1853.05,"Miller, Wheeler and Hale",
