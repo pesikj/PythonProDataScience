@@ -2,13 +2,13 @@
 
 * Informace o kurzu [na webu Czechitas](https://www.czechitas.cz/kurzy/python-2).
 
-| Týden | Blok | Téma                                                           | Odkaz                   | 
-|------:|---|----------------------------------------------------------------|-------------------------|
-|    1. | Pandas a vizualizace | Running total, pivot, unpivot, duplicity                       | [odkaz](01/lekce.ipynb) | 
-|    2. | Pandas a vizualizace  | Práce s datem a časem, funkce shift, formát XML                |                         |
-|    3. | Pandas a vizualizace  | Použití cyklů a funkcí v Pandas                                |                         |
-|    4. | Pandas a vizualizace  | Práce s databází                                               |                         |
-|    5. | Statistické metody  | Popisná statistika, ukazatele polohy a variability modul numpy |                         |
+| Týden | Blok | Téma                                                            | Odkaz                   | 
+|------:|---|--------------------------------------------------------------------|-------------------------|
+|    1. | Pandas a vizualizace  | Running total, duplicity                       | [odkaz](01/lekce.ipynb) | 
+|    2. | Pandas a vizualizace  | Pivot tabulky                                  | [odkaz](02/lekce.ipynb) |
+|    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            |                         |
+|    4. | Pandas a vizualizace  | Použití vlastních funkcí                       |                         |
+|    5. | Statistické metody  | Popisná statistika                               |                         |
 |    6. | Statistické metody  | Testování statistických hypotéz                                |                         |
 |    7. | Statistické metody  | Korelace a regrese                                             |                         |
 |    8. | Strojové učení a umělá inteligence  | Obecná technika strojového učení, binární klasifikace          |                         |
