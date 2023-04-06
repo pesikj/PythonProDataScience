@@ -17,6 +17,16 @@
 |   11. | Strojové učení a umělá inteligence  | Clustering                                                     |                         |
 |   12. | Strojové učení a umělá inteligence  | NLP                                                            |                         |
 
+## Podmínky absolvování kurzu
+
+- Účast na lekcích (min. 80 %)
+- Odevzdání domácích úkolů:
+  * Úkol z bloku *pandas a vizualizace* (bude zadán po 4. lekci, na zpracování budou dva týdny).
+  * Jeden ze dvou úkolů z bloku *statistické metody* (bude zadán po 7. lekci, na zpracování budou dva týdny).
+  * Jeden ze dvou úkolů z bloku *strojové učení a umělá inteligence* (bude zadán po 10. lekci, na zpracování budou dva týdny).
+
+Návod na odevzdávání úkolů bude zveřejněn po druhé lekci, úkoly se budou odevzdávat na GitHub.
+
 ## Další zdroje
 
 - [Mapping with Matplotlib, Pandas, Geopandas and Basemap in Python
