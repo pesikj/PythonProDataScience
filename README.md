@@ -17,6 +17,8 @@
 |   11. | Strojové učení a umělá inteligence  | Clustering                                                     |                         |
 |   12. | Strojové učení a umělá inteligence  | NLP                                                            |                         |
 
+
+
 ## Podmínky absolvování kurzu
 
 - Účast na lekcích (min. 80 %)
