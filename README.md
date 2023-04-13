@@ -1,6 +1,7 @@
 # Python 2
 
 * Informace o kurzu [na webu Czechitas](https://www.czechitas.cz/kurzy/python-2).
+* Návod na odevzdávání úkolů na GitHub je [zde](ukoly.md).
 
 | Týden | Blok | Téma                                                            | Odkaz                   | 
 |------:|---|--------------------------------------------------------------------|-------------------------|
