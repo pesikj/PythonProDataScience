@@ -1,0 +1,264 @@
+invoice_date,customer,amount,payment_date
+01. 05. 2016,Campos PLC,29366,25. 06. 2016
+10. 05. 2016,"Garcia, Hamilton and Carr",61145,16. 07. 2016
+20. 05. 2016,"Garcia, Hamilton and Carr",92659,26. 07. 2016
+25. 05. 2016,"Nguyen, Harrell and Lee",40076,05. 08. 2016
+04. 06. 2016,"Garcia, Hamilton and Carr",54854,06. 08. 2016
+09. 06. 2016,"Summers, Barnett and Smith",88492,08. 08. 2016
+15. 06. 2016,Archer-Patel,76497,01. 08. 2016
+21. 06. 2016,Faulkner-Howard,73834,08. 09. 2016
+28. 06. 2016,"Patrick, Barrera and Collins",46965,22. 08. 2016
+06. 07. 2016,Archer-Patel,80496,26. 08. 2016
+11. 07. 2016,Clayton-Cook,52664,24. 09. 2016
+18. 07. 2016,Chang-Fisher,73769,16. 09. 2016
+26. 07. 2016,"Nguyen, Harrell and Lee",81734,29. 09. 2016
+31. 07. 2016,Grimes-Green,72428,20. 09. 2016
+09. 08. 2016,Grimes-Green,88217,25. 09. 2016
+19. 08. 2016,"Nguyen, Harrell and Lee",62682,27. 10. 2016
+26. 08. 2016,Chang-Fisher,80137,26. 10. 2016
+04. 09. 2016,"Moon, Davis and Larsen",79071,24. 10. 2016
+11. 09. 2016,Archer-Patel,53231,22. 10. 2016
+20. 09. 2016,"Moon, Davis and Larsen",85298,09. 11. 2016
+25. 09. 2016,Chang-Fisher,90357,30. 11. 2016
+05. 10. 2016,Clayton-Cook,73326,19. 12. 2016
+12. 10. 2016,"Jones, Jefferson and Rivera",38468,24. 12. 2016
+20. 10. 2016,Clayton-Cook,90643,03. 01. 2017
+30. 10. 2016,"Nguyen, Harrell and Lee",34898,03. 01. 2017
+04. 11. 2016,Grimes-Green,93484,28. 12. 2016
+12. 11. 2016,Campos PLC,82935,06. 01. 2017
+19. 11. 2016,Levy Group,89537,20. 01. 2017
+28. 11. 2016,"Jones, Jefferson and Rivera",30193,06. 02. 2017
+06. 12. 2016,Faulkner-Howard,44112,19. 02. 2017
+13. 12. 2016,Archer-Patel,61305,24. 01. 2017
+22. 12. 2016,Clayton-Cook,57187,03. 03. 2017
+27. 12. 2016,Wagner LLC,42189,26. 02. 2017
+01. 01. 2017,Wagner LLC,59670,03. 03. 2017
+07. 01. 2017,Clayton-Cook,61908,15. 03. 2017
+13. 01. 2017,"Garcia, Hamilton and Carr",69891,23. 03. 2017
+19. 01. 2017,"Garcia, Hamilton and Carr",74600,23. 03. 2017
+26. 01. 2017,"Patrick, Barrera and Collins",70040,13. 03. 2017
+01. 02. 2017,Chang-Fisher,42995,08. 04. 2017
+09. 02. 2017,"Moon, Davis and Larsen",98202,06. 04. 2017
+16. 02. 2017,"Summers, Barnett and Smith",81688,19. 04. 2017
+22. 02. 2017,Wagner LLC,59489,16. 04. 2017
+03. 03. 2017,"Garcia, Hamilton and Carr",64030,09. 05. 2017
+09. 03. 2017,"Nguyen, Harrell and Lee",58030,17. 05. 2017
+15. 03. 2017,Chang-Fisher,33033,19. 05. 2017
+23. 03. 2017,Wagner LLC,89907,16. 05. 2017
+29. 03. 2017,Wagner LLC,48712,29. 05. 2017
+04. 04. 2017,Faulkner-Howard,54814,22. 06. 2017
+13. 04. 2017,Wagner LLC,34085,08. 06. 2017
+20. 04. 2017,Archer-Patel,57484,01. 06. 2017
+30. 04. 2017,Chang-Fisher,30463,06. 07. 2017
+05. 05. 2017,Clayton-Cook,49815,11. 07. 2017
+13. 05. 2017,"Summers, Barnett and Smith",71325,16. 07. 2017
+18. 05. 2017,"Summers, Barnett and Smith",92662,11. 07. 2017
+27. 05. 2017,"Garcia, Hamilton and Carr",33986,30. 07. 2017
+05. 06. 2017,"Nguyen, Harrell and Lee",99551,11. 08. 2017
+13. 06. 2017,Faulkner-Howard,38020,25. 08. 2017
+22. 06. 2017,Faulkner-Howard,73265,31. 08. 2017
+01. 07. 2017,Chang-Fisher,40378,03. 09. 2017
+07. 07. 2017,Archer-Patel,60024,25. 08. 2017
+15. 07. 2017,Sheppard-Tucker,65768,10. 09. 2017
+21. 07. 2017,Archer-Patel,66057,07. 09. 2017
+28. 07. 2017,Campos PLC,47850,25. 09. 2017
+04. 08. 2017,Levy Group,56743,11. 10. 2017
+13. 08. 2017,"Nguyen, Harrell and Lee",50865,20. 10. 2017
+20. 08. 2017,Sheppard-Tucker,45963,24. 10. 2017
+29. 08. 2017,Wagner LLC,98775,29. 10. 2017
+05. 09. 2017,Chang-Fisher,56323,10. 11. 2017
+14. 09. 2017,Levy Group,37957,20. 11. 2017
+22. 09. 2017,Sheppard-Tucker,79860,25. 11. 2017
+30. 09. 2017,"Patrick, Barrera and Collins",75548,23. 11. 2017
+06. 10. 2017,"Nguyen, Harrell and Lee",94342,08. 12. 2017
+14. 10. 2017,Archer-Patel,27431,29. 11. 2017
+23. 10. 2017,"Nguyen, Harrell and Lee",78386,04. 01. 2018
+30. 10. 2017,"Summers, Barnett and Smith",29344,30. 12. 2017
+09. 11. 2017,Faulkner-Howard,84860,20. 01. 2018
+19. 11. 2017,Chang-Fisher,84728,26. 01. 2018
+27. 11. 2017,Grimes-Green,66171,22. 01. 2018
+02. 12. 2017,"Patrick, Barrera and Collins",89229,20. 01. 2018
+09. 12. 2017,Chang-Fisher,70975,06. 02. 2018
+17. 12. 2017,"Nguyen, Harrell and Lee",63992,20. 02. 2018
+27. 12. 2017,Clayton-Cook,58725,03. 03. 2018
+02. 01. 2018,Grimes-Green,25479,25. 02. 2018
+08. 01. 2018,Clayton-Cook,60330,19. 03. 2018
+17. 01. 2018,"Summers, Barnett and Smith",78925,20. 03. 2018
+27. 01. 2018,Levy Group,28269,02. 04. 2018
+03. 02. 2018,Levy Group,97868,10. 04. 2018
+09. 02. 2018,Sheppard-Tucker,35871,14. 04. 2018
+14. 02. 2018,"Summers, Barnett and Smith",74263,16. 04. 2018
+23. 02. 2018,Chang-Fisher,50028,28. 04. 2018
+02. 03. 2018,Sheppard-Tucker,80223,29. 04. 2018
+11. 03. 2018,"Moon, Davis and Larsen",39436,29. 04. 2018
+17. 03. 2018,"Summers, Barnett and Smith",96701,17. 05. 2018
+22. 03. 2018,Chang-Fisher,99111,19. 05. 2018
+28. 03. 2018,Chang-Fisher,35807,25. 05. 2018
+04. 04. 2018,"Patrick, Barrera and Collins",41203,30. 05. 2018
+12. 04. 2018,"Jones, Jefferson and Rivera",84709,22. 06. 2018
+19. 04. 2018,Levy Group,95893,22. 06. 2018
+29. 04. 2018,Sheppard-Tucker,98078,29. 06. 2018
+05. 05. 2018,Levy Group,72793,13. 07. 2018
+14. 05. 2018,Clayton-Cook,80088,20. 07. 2018
+22. 05. 2018,Campos PLC,52546,22. 07. 2018
+30. 05. 2018,Clayton-Cook,52638,12. 08. 2018
+08. 06. 2018,"Moon, Davis and Larsen",69194,30. 07. 2018
+15. 06. 2018,"Nguyen, Harrell and Lee",71260,22. 08. 2018
+22. 06. 2018,Sheppard-Tucker,37043,19. 08. 2018
+01. 07. 2018,"Summers, Barnett and Smith",48263,03. 09. 2018
+10. 07. 2018,"Garcia, Hamilton and Carr",72651,11. 09. 2018
+18. 07. 2018,Archer-Patel,88942,28. 08. 2018
+26. 07. 2018,Wagner LLC,53055,22. 09. 2018
+31. 07. 2018,Clayton-Cook,36000,08. 10. 2018
+05. 08. 2018,Campos PLC,64078,03. 10. 2018
+14. 08. 2018,"Nguyen, Harrell and Lee",47848,23. 10. 2018
+20. 08. 2018,Campos PLC,61465,18. 10. 2018
+28. 08. 2018,"Summers, Barnett and Smith",64586,22. 10. 2018
+07. 09. 2018,Sheppard-Tucker,56880,09. 11. 2018
+14. 09. 2018,"Jones, Jefferson and Rivera",28146,28. 11. 2018
+24. 09. 2018,"Nguyen, Harrell and Lee",32685,28. 11. 2018
+01. 10. 2018,Clayton-Cook,84682,10. 12. 2018
+10. 10. 2018,Levy Group,62155,16. 12. 2018
+18. 10. 2018,Levy Group,77235,18. 12. 2018
+23. 10. 2018,Clayton-Cook,72348,27. 12. 2018
+30. 10. 2018,"Nguyen, Harrell and Lee",93971,04. 01. 2019
+08. 11. 2018,"Garcia, Hamilton and Carr",70303,12. 01. 2019
+16. 11. 2018,Chang-Fisher,74322,14. 01. 2019
+26. 11. 2018,Archer-Patel,46624,15. 01. 2019
+02. 12. 2018,"Patrick, Barrera and Collins",93010,23. 01. 2019
+09. 12. 2018,Grimes-Green,90419,02. 02. 2019
+15. 12. 2018,Campos PLC,85097,12. 02. 2019
+25. 12. 2018,Campos PLC,48027,26. 02. 2019
+04. 01. 2019,"Moon, Davis and Larsen",97058,03. 03. 2019
+09. 01. 2019,"Nguyen, Harrell and Lee",53129,20. 03. 2019
+14. 01. 2019,"Garcia, Hamilton and Carr",53948,18. 03. 2019
+24. 01. 2019,"Summers, Barnett and Smith",86739,28. 03. 2019
+29. 01. 2019,Grimes-Green,65890,17. 03. 2019
+03. 02. 2019,Grimes-Green,62016,26. 03. 2019
+11. 02. 2019,"Garcia, Hamilton and Carr",94767,11. 04. 2019
+16. 02. 2019,Clayton-Cook,57993,26. 04. 2019
+26. 02. 2019,"Nguyen, Harrell and Lee",76545,02. 05. 2019
+04. 03. 2019,"Summers, Barnett and Smith",26169,29. 04. 2019
+09. 03. 2019,Wagner LLC,81265,09. 05. 2019
+15. 03. 2019,Clayton-Cook,63959,28. 05. 2019
+24. 03. 2019,"Moon, Davis and Larsen",87459,16. 05. 2019
+01. 04. 2019,Sheppard-Tucker,90459,30. 05. 2019
+07. 04. 2019,Chang-Fisher,66242,06. 06. 2019
+16. 04. 2019,"Nguyen, Harrell and Lee",62812,20. 06. 2019
+21. 04. 2019,Levy Group,52517,29. 06. 2019
+30. 04. 2019,"Nguyen, Harrell and Lee",81650,07. 07. 2019
+07. 05. 2019,"Nguyen, Harrell and Lee",91726,14. 07. 2019
+13. 05. 2019,"Patrick, Barrera and Collins",28827,04. 07. 2019
+21. 05. 2019,Sheppard-Tucker,45159,24. 07. 2019
+29. 05. 2019,"Nguyen, Harrell and Lee",48688,05. 08. 2019
+03. 06. 2019,"Summers, Barnett and Smith",47413,06. 08. 2019
+08. 06. 2019,Clayton-Cook,59145,16. 08. 2019
+14. 06. 2019,Faulkner-Howard,39288,23. 08. 2019
+19. 06. 2019,Sheppard-Tucker,51741,19. 08. 2019
+29. 06. 2019,Sheppard-Tucker,91241,26. 08. 2019
+07. 07. 2019,Clayton-Cook,90152,13. 09. 2019
+17. 07. 2019,Campos PLC,42613,17. 09. 2019
+24. 07. 2019,Sheppard-Tucker,74736,22. 09. 2019
+30. 07. 2019,Wagner LLC,74152,28. 09. 2019
+09. 08. 2019,Chang-Fisher,78854,12. 10. 2019
+18. 08. 2019,"Nguyen, Harrell and Lee",92515,21. 10. 2019
+26. 08. 2019,"Jones, Jefferson and Rivera",80396,04. 11. 2019
+05. 09. 2019,"Jones, Jefferson and Rivera",98331,17. 11. 2019
+10. 09. 2019,Levy Group,34908,09. 11. 2019
+18. 09. 2019,Grimes-Green,40454,04. 11. 2019
+26. 09. 2019,Levy Group,68683,05. 12. 2019
+06. 10. 2019,Campos PLC,52744,05. 12. 2019
+16. 10. 2019,Sheppard-Tucker,28737,19. 12. 2019
+23. 10. 2019,Levy Group,30442,24. 12. 2019
+31. 10. 2019,"Moon, Davis and Larsen",28380,27. 12. 2019
+05. 11. 2019,"Patrick, Barrera and Collins",47922,25. 12. 2019
+11. 11. 2019,Clayton-Cook,33146,25. 01. 2020
+16. 11. 2019,Sheppard-Tucker,49475,18. 01. 2020
+22. 11. 2019,Levy Group,58723,31. 01. 2020
+02. 12. 2019,Archer-Patel,76832,15. 01. 2020
+11. 12. 2019,Archer-Patel,36683,27. 01. 2020
+16. 12. 2019,Archer-Patel,73020,02. 02. 2020
+26. 12. 2019,"Summers, Barnett and Smith",68655,18. 02. 2020
+31. 12. 2019,Archer-Patel,56022,16. 02. 2020
+05. 01. 2020,Campos PLC,75954,10. 03. 2020
+15. 01. 2020,Wagner LLC,63116,08. 03. 2020
+22. 01. 2020,Clayton-Cook,95490,03. 04. 2020
+28. 01. 2020,Wagner LLC,97191,28. 03. 2020
+02. 02. 2020,"Summers, Barnett and Smith",72757,28. 03. 2020
+08. 02. 2020,Archer-Patel,54720,26. 03. 2020
+14. 02. 2020,"Summers, Barnett and Smith",80712,10. 04. 2020
+24. 02. 2020,Sheppard-Tucker,82749,24. 04. 2020
+03. 03. 2020,Archer-Patel,62940,17. 04. 2020
+12. 03. 2020,"Garcia, Hamilton and Carr",90228,10. 05. 2020
+21. 03. 2020,Clayton-Cook,75751,02. 06. 2020
+29. 03. 2020,Archer-Patel,66772,17. 05. 2020
+08. 04. 2020,"Moon, Davis and Larsen",44784,29. 05. 2020
+14. 04. 2020,"Garcia, Hamilton and Carr",35123,15. 06. 2020
+21. 04. 2020,Levy Group,98271,25. 06. 2020
+26. 04. 2020,Grimes-Green,30208,19. 06. 2020
+06. 05. 2020,Sheppard-Tucker,51507,02. 07. 2020
+12. 05. 2020,Chang-Fisher,81008,19. 07. 2020
+22. 05. 2020,Clayton-Cook,74020,28. 07. 2020
+01. 06. 2020,"Nguyen, Harrell and Lee",92171,07. 08. 2020
+10. 06. 2020,"Jones, Jefferson and Rivera",31643,19. 08. 2020
+19. 06. 2020,Campos PLC,81674,17. 08. 2020
+26. 06. 2020,Levy Group,40419,30. 08. 2020
+01. 07. 2020,Faulkner-Howard,41800,08. 09. 2020
+06. 07. 2020,Clayton-Cook,63623,11. 09. 2020
+13. 07. 2020,"Garcia, Hamilton and Carr",76527,19. 09. 2020
+18. 07. 2020,"Garcia, Hamilton and Carr",58900,23. 09. 2020
+27. 07. 2020,Clayton-Cook,70821,01. 10. 2020
+06. 08. 2020,"Garcia, Hamilton and Carr",31045,07. 10. 2020
+15. 08. 2020,Levy Group,85589,17. 10. 2020
+22. 08. 2020,"Garcia, Hamilton and Carr",95319,22. 10. 2020
+28. 08. 2020,Wagner LLC,37092,23. 10. 2020
+04. 09. 2020,"Moon, Davis and Larsen",47821,25. 10. 2020
+09. 09. 2020,"Jones, Jefferson and Rivera",82115,19. 11. 2020
+15. 09. 2020,Faulkner-Howard,25570,27. 11. 2020
+21. 09. 2020,Campos PLC,54286,25. 11. 2020
+30. 09. 2020,"Patrick, Barrera and Collins",71624,24. 11. 2020
+10. 10. 2020,Chang-Fisher,35836,14. 12. 2020
+19. 10. 2020,Clayton-Cook,74985,23. 12. 2020
+28. 10. 2020,Archer-Patel,53574,17. 12. 2020
+05. 11. 2020,Faulkner-Howard,27146,22. 01. 2021
+10. 11. 2020,Sheppard-Tucker,85852,13. 01. 2021
+18. 11. 2020,Levy Group,42263,21. 01. 2021
+28. 11. 2020,"Summers, Barnett and Smith",47525,30. 01. 2021
+08. 12. 2020,"Nguyen, Harrell and Lee",63955,13. 02. 2021
+13. 12. 2020,"Nguyen, Harrell and Lee",47312,16. 02. 2021
+19. 12. 2020,Faulkner-Howard,53864,08. 03. 2021
+25. 12. 2020,Clayton-Cook,72494,10. 03. 2021
+03. 01. 2021,"Nguyen, Harrell and Lee",51087,16. 03. 2021
+11. 01. 2021,Sheppard-Tucker,71308,16. 03. 2021
+19. 01. 2021,Archer-Patel,47272,10. 03. 2021
+26. 01. 2021,Levy Group,39499,30. 03. 2021
+04. 02. 2021,"Nguyen, Harrell and Lee",78495,08. 04. 2021
+12. 02. 2021,"Nguyen, Harrell and Lee",71387,20. 04. 2021
+20. 02. 2021,Levy Group,50236,23. 04. 2021
+28. 02. 2021,Clayton-Cook,91993,06. 05. 2021
+08. 03. 2021,Levy Group,35350,14. 05. 2021
+17. 03. 2021,Sheppard-Tucker,59398,14. 05. 2021
+24. 03. 2021,"Moon, Davis and Larsen",60262,17. 05. 2021
+01. 04. 2021,"Patrick, Barrera and Collins",91841,26. 05. 2021
+09. 04. 2021,Grimes-Green,64672,01. 06. 2021
+15. 04. 2021,Archer-Patel,64446,03. 06. 2021
+21. 04. 2021,"Moon, Davis and Larsen",50458,18. 06. 2021
+26. 04. 2021,Campos PLC,38397,24. 06. 2021
+04. 05. 2021,"Moon, Davis and Larsen",95451,01. 07. 2021
+12. 05. 2021,"Garcia, Hamilton and Carr",93762,13. 07. 2021
+18. 05. 2021,Archer-Patel,42133,08. 07. 2021
+28. 05. 2021,"Summers, Barnett and Smith",81810,26. 07. 2021
+03. 06. 2021,Wagner LLC,52467,02. 08. 2021
+13. 06. 2021,"Nguyen, Harrell and Lee",44942,20. 08. 2021
+18. 06. 2021,Grimes-Green,81156,14. 08. 2021
+26. 06. 2021,Levy Group,40464,26. 08. 2021
+02. 07. 2021,"Nguyen, Harrell and Lee",93301,
+09. 07. 2021,Levy Group,43621,
+16. 07. 2021,Wagner LLC,65064,
+22. 07. 2021,"Jones, Jefferson and Rivera",98317,
+30. 07. 2021,Faulkner-Howard,90209,
+05. 08. 2021,Levy Group,39651,
+10. 08. 2021,"Jones, Jefferson and Rivera",86792,
+16. 08. 2021,"Garcia, Hamilton and Carr",89646,
+21. 08. 2021,Grimes-Green,85635,
+31. 08. 2021,Campos PLC,44393,
