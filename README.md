@@ -8,7 +8,7 @@
 |    1. | Pandas a vizualizace  | Running total, duplicity                       | [odkaz](01/lekce.ipynb) | 
 |    2. | Pandas a vizualizace  | Pivot tabulky                                  | [odkaz](02/lekce.ipynb) |
 |    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            | [odkaz](03/lekce.ipynb) |
-|    4. | Pandas a vizualizace  | Použití vlastních funkcí                       |                         |
+|    4. | Pandas a vizualizace  | Použití vlastních funkcí                       | [odkaz](04/lekce.ipynb) |
 |    5. | Statistické metody  | Popisná statistika                               |                         |
 |    6. | Statistické metody  | Testování statistických hypotéz                                |                         |
 |    7. | Statistické metody  | Korelace a regrese                                             |                         |
