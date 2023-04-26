@@ -1,123 +1,123 @@
 ,index,prijmeni,krestni_jmeno,obor,body_aj,body_mat,body_cj,letni_skola,souteze,body
-0,1,Jan,Moravec,Technické lyceum,81,74,66,ne,7. místo (matematická olympiáda),83.66666666666667
-1,2,Denis,Fiala,Informatika,63,69,65,ne,,75.66666666666667
-2,3,Luboš,Šimek,Informatika,78,79,65,ne,,84.0
-3,4,Vilém,Novotný,Informatika,84,68,78,ano,,91.66666666666667
-4,5,Drahomíra,Štěpánková,Elektrotechnika,69,74,60,ne,,77.66666666666667
-5,7,Šimon,Pospíšil,Technické lyceum,70,66,68,ne,,78.0
-6,8,Jaroslav,Říha,Elektrotechnika,79,71,63,ne,,81.0
-7,9,Renata,Malá,Elektrotechnika,71,66,75,ano,,85.66666666666667
-8,10,Vilém,Dvořák,Elektrotechnika,98,92,80,ne,,100.0
-9,11,Radka,Dušková,Technické lyceum,88,70,66,ne,,84.66666666666667
-10,12,Luděk,Kratochvíl,Elektrotechnika,92,89,93,ne,,101.33333333333333
-11,15,Erik,Dvořák,Technické lyceum,68,71,61,ne,,76.66666666666667
-12,17,Rudolf,Dvořák,Elektrotechnika,83,62,85,ne,,86.66666666666667
-13,18,Eduard,Doležal,Elektrotechnika,84,69,68,ne,,83.66666666666667
-14,21,Vítězslav,Jelínek,Elektrotechnika,79,63,70,ne,,80.66666666666667
-15,22,Richard,Fiala,Elektrotechnika,85,79,75,ne,,89.66666666666667
-16,23,Sára,Blažková,Technické lyceum,88,79,76,ne,,91.0
-17,27,Marek,Kratochvíl,Elektrotechnika,70,76,71,ne,,82.33333333333333
-18,28,Anežka,Marešová,Elektrotechnika,73,76,77,ano,,90.33333333333333
-19,29,Aleš,Novotný,Technické lyceum,81,81,77,ne,,89.66666666666667
-20,30,Rudolf,Veselý,Technické lyceum,83,66,70,ano,,88.0
-21,31,Jan,Kadlec,Technické lyceum,61,67,62,ne,,73.33333333333334
-22,34,Romana,Marešová,Informatika,70,64,72,ne,,78.66666666666667
-23,36,Alexandr,Polák,Elektrotechnika,74,79,77,ne,,86.66666666666667
-24,37,Erik,Procházka,Informatika,88,70,87,ano,,96.66666666666667
-25,38,Monika,Kratochvílová,Technické lyceum,60,76,65,ne,,77.0
-26,39,Pavel,Kratochvíl,Elektrotechnika,69,63,63,ne,5. místo (zeměpisná olympiáda),75.0
-27,40,Markéta,Kratochvílová,Informatika,79,75,68,ne,,84.0
-28,41,Tomáš,Marek,Elektrotechnika,79,68,74,ne,,83.66666666666667
-29,42,Vojtěch,Doležal,Elektrotechnika,83,80,86,ne,,93.0
-30,45,Jarmila,Zemanová,Technické lyceum,84,76,71,ne,,87.0
-31,46,Zdenka,Dušková,Technické lyceum,79,77,75,ne,,87.0
-32,47,Danuše,Kopecká,Informatika,64,80,64,ano,,84.33333333333333
-33,48,Marie,Říhová,Elektrotechnika,91,71,78,ano,,95.0
-34,53,Kateřina,Zemanová,Informatika,69,61,75,ne,,78.33333333333333
-35,55,Mária,Kadlecová,Technické lyceum,78,82,88,ne,,92.66666666666667
-36,57,René,Pospíšil,Elektrotechnika,88,67,90,ano,,96.66666666666667
-37,59,Alena,Fialová,Informatika,103,101,93,ne,,109.0
-38,61,Vilém,Jelínek,Elektrotechnika,81,62,66,ne,,79.66666666666667
-39,63,Marta,Marková,Elektrotechnika,80,64,62,ne,,78.66666666666667
-40,64,Eva,Křížová,Technické lyceum,77,78,67,ne,,84.0
-41,65,Eduard,Polák,Elektrotechnika,83,60,66,ano,,84.66666666666667
-42,66,Leoš,Dvořák,Elektrotechnika,69,79,67,ne,,81.66666666666667
-43,70,Kamila,Novotná,Informatika,63,71,74,ne,,79.33333333333333
-44,71,Klára,Machová,Technické lyceum,76,62,74,ne,,80.66666666666667
-45,72,Lubomír,Holub,Elektrotechnika,96,90,82,ne,,99.33333333333333
-46,73,Kamil,Zeman,Informatika,84,72,79,ano,8. místo (matematická olympiáda),93.33333333333333
-47,76,Lukáš,Soukup,Informatika,76,74,75,ne,,85.0
-48,77,Erik,Zeman,Informatika,69,68,83,ne,,83.33333333333333
-49,78,Dominik,Šimek,Informatika,87,85,82,ne,,94.66666666666667
-50,79,Ladislava,Marková,Elektrotechnika,72,71,75,ne,,82.66666666666667
-51,81,Milena,Dvořáková,Elektrotechnika,70,89,71,ne,4. místo (matematická olympiáda),86.66666666666667
-52,83,Ondřej,Štěpánek,Informatika,76,73,62,ne,,80.33333333333333
-53,84,Miroslava,Soukupová,Informatika,72,74,83,ne,,86.33333333333333
-54,87,Veronika,Poláková,Technické lyceum,68,68,61,ano,,80.66666666666667
-55,88,Vratislav,Procházka,Elektrotechnika,62,74,61,ne,,75.66666666666667
-56,89,Milada,Vaňková,Elektrotechnika,77,75,66,ne,,82.66666666666667
-57,92,Alexandra,Šimková,Informatika,72,80,68,ano,,88.33333333333333
-58,93,Julie,Šťastná,Elektrotechnika,83,78,75,ne,,88.66666666666667
-59,95,Aleš,Marek,Technické lyceum,65,77,69,ne,5. místo (fyzikální olympiáda),80.33333333333333
-60,96,Patrik,Malý,Technické lyceum,78,62,81,ano,,88.66666666666667
-61,98,Ivana,Vávrová,Elektrotechnika,71,70,62,ne,,77.66666666666667
-62,101,Vladimír,Novotný,Elektrotechnika,72,80,84,ne,,88.66666666666667
-63,105,Markéta,Horáková,Elektrotechnika,74,61,73,ne,6. místo (zeměpisná olympiáda),79.33333333333333
-64,106,Radek,Urban,Informatika,76,83,79,ne,,89.33333333333333
-65,107,Lukáš,Malý,Elektrotechnika,79,79,77,ne,,88.33333333333333
-66,108,Iva,Holubová,Technické lyceum,81,63,71,ne,,81.66666666666667
-67,109,Erik,Kopecký,Informatika,83,73,81,ne,,89.0
-68,110,Jarmila,Šťastná,Technické lyceum,88,65,85,ano,,94.33333333333333
-69,112,Kateřina,Horáková,Informatika,80,76,74,ano,,91.66666666666667
-70,113,Nela,Benešová,Elektrotechnika,64,63,65,ano,,79.0
-71,114,Otakar,Kolář,Informatika,87,98,91,ne,1. místo (přírodopisná olympiáda),102.0
-72,115,Klára,Procházková,Technické lyceum,68,72,81,ne,,83.66666666666667
-73,116,Soňa,Dušková,Technické lyceum,76,80,63,ne,,83.0
-74,118,Erik,Beneš,Elektrotechnika,73,87,86,ano,,97.0
-75,120,Michal,Kratochvíl,Informatika,99,89,82,ne,10. místo (fyzikální olympiáda),100.0
-76,121,Hana,Šťastná,Elektrotechnika,76,77,76,ano,,91.33333333333333
-77,122,René,Veselý,Informatika,79,76,81,ne,,88.66666666666667
-78,123,Karolína,Nováková,Elektrotechnika,84,95,79,ne,,96.0
-79,127,Vlasta,Marková,Elektrotechnika,71,66,67,ne,,78.0
-80,130,Alexander,Vaněk,Informatika,63,76,74,ne,6. místo (matematická olympiáda),81.0
-81,132,Bohumír,Dušek,Technické lyceum,81,62,70,ne,,81.0
-82,133,Aneta,Kolářová,Elektrotechnika,72,73,80,ano,,90.0
-83,134,Aneta,Jandová,Elektrotechnika,81,63,82,ne,,85.33333333333333
-84,136,Rudolf,Holub,Technické lyceum,76,75,63,ne,,81.33333333333333
-85,138,Anežka,Kolářová,Elektrotechnika,92,78,91,ne,,97.0
-86,139,Stanislava,Kolářová,Elektrotechnika,81,72,67,ne,,83.33333333333333
-87,140,Richard,Kopecký,Elektrotechnika,74,67,74,ne,,81.66666666666667
-88,142,Marta,Krejčová,Informatika,75,63,74,ne,,80.66666666666667
-89,143,Daniela,Poláková,Elektrotechnika,102,78,94,ne,,101.33333333333333
-90,144,Marie,Horáková,Elektrotechnika,75,84,84,ne,,91.0
-91,147,Bedřich,Dušek,Elektrotechnika,90,65,75,ne,,86.66666666666667
-92,148,Jaromír,Svoboda,Technické lyceum,71,72,79,ne,,84.0
-93,150,Vítězslav,Kadlec,Elektrotechnika,79,66,68,ne,,81.0
-94,152,Roman,Mareš,Elektrotechnika,67,62,61,ne,,73.33333333333334
-95,153,Ladislav,Urban,Technické lyceum,95,93,95,ne,,104.33333333333333
-96,155,Renáta,Malá,Informatika,90,77,76,ne,,91.0
-97,157,Mária,Hájková,Elektrotechnika,63,79,64,ne,,78.66666666666667
-98,160,Barbora,Vacková,Elektrotechnika,90,83,87,ne,2. místo (přírodopisná olympiáda),96.66666666666667
-99,161,Romana,Kratochvílová,Elektrotechnika,77,63,73,ne,,81.0
-100,162,Matyáš,Marek,Elektrotechnika,79,77,83,ano,,94.66666666666667
-101,164,Emilie,Marešová,Elektrotechnika,89,77,74,ne,,90.0
-102,165,Františka,Procházková,Informatika,64,69,72,ne,,78.33333333333333
-103,166,Radek,Bláha,Elektrotechnika,103,73,83,ne,,96.33333333333333
-104,167,Milada,Králová,Informatika,76,62,75,ne,,81.0
-105,168,Ján,Dvořák,Informatika,95,94,92,ne,,103.66666666666667
-106,169,Vít,Šťastný,Informatika,66,72,80,ne,,82.66666666666667
-107,171,Robin,Zeman,Technické lyceum,86,66,67,ne,1. místo (fyzikální olympiáda),83.0
-108,173,Eduard,Hájek,Technické lyceum,67,70,68,ne,,78.33333333333333
-109,174,Olga,Kadlecová,Technické lyceum,78,72,74,ne,,84.66666666666667
-110,175,Karel,Čermák,Elektrotechnika,76,72,82,ne,8. místo (fyzikální olympiáda),86.66666666666667
-111,176,Daniel,Mašek,Elektrotechnika,74,81,77,ne,,87.33333333333333
-112,177,Vilém,Říha,Informatika,62,70,78,ne,,80.0
-113,182,Blanka,Horáková,Technické lyceum,84,71,95,ne,,93.33333333333333
-114,183,Blanka,Němcová,Informatika,84,87,89,ne,,96.66666666666667
-115,186,Vilém,Marek,Elektrotechnika,92,85,79,ne,,95.33333333333333
-116,187,Radomír,Vlček,Elektrotechnika,77,75,71,ne,,84.33333333333333
-117,191,Růžena,Vlčková,Technické lyceum,72,79,70,ne,,83.66666666666667
-118,193,Alexandra,Mašková,Informatika,88,79,83,ne,,93.33333333333333
-119,195,Naděžda,Čermáková,Technické lyceum,71,61,67,ne,,76.33333333333333
-120,198,Emil,Černý,Elektrotechnika,78,71,70,ne,7. místo (fyzikální olympiáda),83.0
-121,199,Miluše,Novotná,Informatika,67,79,75,ano,,88.66666666666667
+0,1,Jan,Moravec,Technické lyceum,81,74,66,ne,7. místo (matematická olympiáda),231
+1,2,Denis,Fiala,Informatika,63,69,65,ne,,197
+2,3,Luboš,Šimek,Informatika,78,79,65,ne,,222
+3,4,Vilém,Novotný,Informatika,84,68,78,ano,,235
+4,5,Drahomíra,Štěpánková,Elektrotechnika,69,74,60,ne,,203
+5,7,Šimon,Pospíšil,Technické lyceum,70,66,68,ne,,204
+6,8,Jaroslav,Říha,Elektrotechnika,79,71,63,ne,,213
+7,9,Renata,Malá,Elektrotechnika,71,66,75,ano,,217
+8,10,Vilém,Dvořák,Elektrotechnika,98,92,80,ne,,270
+9,11,Radka,Dušková,Technické lyceum,88,70,66,ne,,224
+10,12,Luděk,Kratochvíl,Elektrotechnika,92,89,93,ne,,274
+11,15,Erik,Dvořák,Technické lyceum,68,71,61,ne,,200
+12,17,Rudolf,Dvořák,Elektrotechnika,83,62,85,ne,,230
+13,18,Eduard,Doležal,Elektrotechnika,84,69,68,ne,,221
+14,21,Vítězslav,Jelínek,Elektrotechnika,79,63,70,ne,,212
+15,22,Richard,Fiala,Elektrotechnika,85,79,75,ne,,239
+16,23,Sára,Blažková,Technické lyceum,88,79,76,ne,,243
+17,27,Marek,Kratochvíl,Elektrotechnika,70,76,71,ne,,217
+18,28,Anežka,Marešová,Elektrotechnika,73,76,77,ano,,231
+19,29,Aleš,Novotný,Technické lyceum,81,81,77,ne,,239
+20,30,Rudolf,Veselý,Technické lyceum,83,66,70,ano,,224
+21,31,Jan,Kadlec,Technické lyceum,61,67,62,ne,,190
+22,34,Romana,Marešová,Informatika,70,64,72,ne,,206
+23,36,Alexandr,Polák,Elektrotechnika,74,79,77,ne,,230
+24,37,Erik,Procházka,Informatika,88,70,87,ano,,250
+25,38,Monika,Kratochvílová,Technické lyceum,60,76,65,ne,,201
+26,39,Pavel,Kratochvíl,Elektrotechnika,69,63,63,ne,5. místo (zeměpisná olympiáda),205
+27,40,Markéta,Kratochvílová,Informatika,79,75,68,ne,,222
+28,41,Tomáš,Marek,Elektrotechnika,79,68,74,ne,,221
+29,42,Vojtěch,Doležal,Elektrotechnika,83,80,86,ne,,249
+30,45,Jarmila,Zemanová,Technické lyceum,84,76,71,ne,,231
+31,46,Zdenka,Dušková,Technické lyceum,79,77,75,ne,,231
+32,47,Danuše,Kopecká,Informatika,64,80,64,ano,,213
+33,48,Marie,Říhová,Elektrotechnika,91,71,78,ano,,245
+34,53,Kateřina,Zemanová,Informatika,69,61,75,ne,,205
+35,55,Mária,Kadlecová,Technické lyceum,78,82,88,ne,,248
+36,57,René,Pospíšil,Elektrotechnika,88,67,90,ano,,250
+37,59,Alena,Fialová,Informatika,103,101,93,ne,,297
+38,61,Vilém,Jelínek,Elektrotechnika,81,62,66,ne,,209
+39,63,Marta,Marková,Elektrotechnika,80,64,62,ne,,206
+40,64,Eva,Křížová,Technické lyceum,77,78,67,ne,,222
+41,65,Eduard,Polák,Elektrotechnika,83,60,66,ano,,214
+42,66,Leoš,Dvořák,Elektrotechnika,69,79,67,ne,,215
+43,70,Kamila,Novotná,Informatika,63,71,74,ne,,208
+44,71,Klára,Machová,Technické lyceum,76,62,74,ne,,212
+45,72,Lubomír,Holub,Elektrotechnika,96,90,82,ne,,268
+46,73,Kamil,Zeman,Informatika,84,72,79,ano,8. místo (matematická olympiáda),250
+47,76,Lukáš,Soukup,Informatika,76,74,75,ne,,225
+48,77,Erik,Zeman,Informatika,69,68,83,ne,,220
+49,78,Dominik,Šimek,Informatika,87,85,82,ne,,254
+50,79,Ladislava,Marková,Elektrotechnika,72,71,75,ne,,218
+51,81,Milena,Dvořáková,Elektrotechnika,70,89,71,ne,4. místo (matematická olympiáda),240
+52,83,Ondřej,Štěpánek,Informatika,76,73,62,ne,,211
+53,84,Miroslava,Soukupová,Informatika,72,74,83,ne,,229
+54,87,Veronika,Poláková,Technické lyceum,68,68,61,ano,,202
+55,88,Vratislav,Procházka,Elektrotechnika,62,74,61,ne,,197
+56,89,Milada,Vaňková,Elektrotechnika,77,75,66,ne,,218
+57,92,Alexandra,Šimková,Informatika,72,80,68,ano,,225
+58,93,Julie,Šťastná,Elektrotechnika,83,78,75,ne,,236
+59,95,Aleš,Marek,Technické lyceum,65,77,69,ne,5. místo (fyzikální olympiáda),221
+60,96,Patrik,Malý,Technické lyceum,78,62,81,ano,,226
+61,98,Ivana,Vávrová,Elektrotechnika,71,70,62,ne,,203
+62,101,Vladimír,Novotný,Elektrotechnika,72,80,84,ne,,236
+63,105,Markéta,Horáková,Elektrotechnika,74,61,73,ne,6. místo (zeměpisná olympiáda),218
+64,106,Radek,Urban,Informatika,76,83,79,ne,,238
+65,107,Lukáš,Malý,Elektrotechnika,79,79,77,ne,,235
+66,108,Iva,Holubová,Technické lyceum,81,63,71,ne,,215
+67,109,Erik,Kopecký,Informatika,83,73,81,ne,,237
+68,110,Jarmila,Šťastná,Technické lyceum,88,65,85,ano,,243
+69,112,Kateřina,Horáková,Informatika,80,76,74,ano,,235
+70,113,Nela,Benešová,Elektrotechnika,64,63,65,ano,,197
+71,114,Otakar,Kolář,Informatika,87,98,91,ne,1. místo (přírodopisná olympiáda),286
+72,115,Klára,Procházková,Technické lyceum,68,72,81,ne,,221
+73,116,Soňa,Dušková,Technické lyceum,76,80,63,ne,,219
+74,118,Erik,Beneš,Elektrotechnika,73,87,86,ano,,251
+75,120,Michal,Kratochvíl,Informatika,99,89,82,ne,10. místo (fyzikální olympiáda),280
+76,121,Hana,Šťastná,Elektrotechnika,76,77,76,ano,,234
+77,122,René,Veselý,Informatika,79,76,81,ne,,236
+78,123,Karolína,Nováková,Elektrotechnika,84,95,79,ne,,258
+79,127,Vlasta,Marková,Elektrotechnika,71,66,67,ne,,204
+80,130,Alexander,Vaněk,Informatika,63,76,74,ne,6. místo (matematická olympiáda),223
+81,132,Bohumír,Dušek,Technické lyceum,81,62,70,ne,,213
+82,133,Aneta,Kolářová,Elektrotechnika,72,73,80,ano,,230
+83,134,Aneta,Jandová,Elektrotechnika,81,63,82,ne,,226
+84,136,Rudolf,Holub,Technické lyceum,76,75,63,ne,,214
+85,138,Anežka,Kolářová,Elektrotechnika,92,78,91,ne,,261
+86,139,Stanislava,Kolářová,Elektrotechnika,81,72,67,ne,,220
+87,140,Richard,Kopecký,Elektrotechnika,74,67,74,ne,,215
+88,142,Marta,Krejčová,Informatika,75,63,74,ne,,212
+89,143,Daniela,Poláková,Elektrotechnika,102,78,94,ne,,274
+90,144,Marie,Horáková,Elektrotechnika,75,84,84,ne,,243
+91,147,Bedřich,Dušek,Elektrotechnika,90,65,75,ne,,230
+92,148,Jaromír,Svoboda,Technické lyceum,71,72,79,ne,,222
+93,150,Vítězslav,Kadlec,Elektrotechnika,79,66,68,ne,,213
+94,152,Roman,Mareš,Elektrotechnika,67,62,61,ne,,190
+95,153,Ladislav,Urban,Technické lyceum,95,93,95,ne,,283
+96,155,Renáta,Malá,Informatika,90,77,76,ne,,243
+97,157,Mária,Hájková,Elektrotechnika,63,79,64,ne,,206
+98,160,Barbora,Vacková,Elektrotechnika,90,83,87,ne,2. místo (přírodopisná olympiáda),270
+99,161,Romana,Kratochvílová,Elektrotechnika,77,63,73,ne,,213
+100,162,Matyáš,Marek,Elektrotechnika,79,77,83,ano,,244
+101,164,Emilie,Marešová,Elektrotechnika,89,77,74,ne,,240
+102,165,Františka,Procházková,Informatika,64,69,72,ne,,205
+103,166,Radek,Bláha,Elektrotechnika,103,73,83,ne,,259
+104,167,Milada,Králová,Informatika,76,62,75,ne,,213
+105,168,Ján,Dvořák,Informatika,95,94,92,ne,,281
+106,169,Vít,Šťastný,Informatika,66,72,80,ne,,218
+107,171,Robin,Zeman,Technické lyceum,86,66,67,ne,1. místo (fyzikální olympiáda),229
+108,173,Eduard,Hájek,Technické lyceum,67,70,68,ne,,205
+109,174,Olga,Kadlecová,Technické lyceum,78,72,74,ne,,224
+110,175,Karel,Čermák,Elektrotechnika,76,72,82,ne,8. místo (fyzikální olympiáda),240
+111,176,Daniel,Mašek,Elektrotechnika,74,81,77,ne,,232
+112,177,Vilém,Říha,Informatika,62,70,78,ne,,210
+113,182,Blanka,Horáková,Technické lyceum,84,71,95,ne,,250
+114,183,Blanka,Němcová,Informatika,84,87,89,ne,,260
+115,186,Vilém,Marek,Elektrotechnika,92,85,79,ne,,256
+116,187,Radomír,Vlček,Elektrotechnika,77,75,71,ne,,223
+117,191,Růžena,Vlčková,Technické lyceum,72,79,70,ne,,221
+118,193,Alexandra,Mašková,Informatika,88,79,83,ne,,250
+119,195,Naděžda,Čermáková,Technické lyceum,71,61,67,ne,,199
+120,198,Emil,Černý,Elektrotechnika,78,71,70,ne,7. místo (fyzikální olympiáda),229
+121,199,Miluše,Novotná,Informatika,67,79,75,ano,,226
