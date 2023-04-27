@@ -24,11 +24,13 @@
 
 - Účast na lekcích (min. 80 %)
 - Odevzdání domácích úkolů:
-  * Úkol z bloku *pandas a vizualizace* (bude zadán po 4. lekci, na zpracování budou dva týdny).
+  * Úkol z bloku *pandas a vizualizace*.
   * Jeden ze dvou úkolů z bloku *statistické metody* (bude zadán po 7. lekci, na zpracování budou dva týdny).
   * Jeden ze dvou úkolů z bloku *strojové učení a umělá inteligence* (bude zadán po 10. lekci, na zpracování budou dva týdny).
 
-Návod na odevzdávání úkolů bude zveřejněn po druhé lekci, úkoly se budou odevzdávat na GitHub.
+## Zadání úkolů
+
+- [Úkol č. 1](domaci_ukoly/01.ipynb) (povinný, je nutné jej zpracovat do **12. května 2023**)
 
 ## Další zdroje
 
