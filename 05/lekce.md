@@ -1,16 +1,16 @@
 # Lekce 5
 
-Základní otázkou je, proč se statistikou vůbec zabýváme a co statistika nabízí navíc oproti datové analýze. Hlavní rozdíl mezi statistiko a datovou analýzou je, že u statistiky se zpravidla zabýváme vzorkem dat a na základě vzorku dat usuzujeme, jaké má vlastnosti nějaký větší celek. Srovnejme si například volby a předvolební průzkum. Ve volbách se ptáme všech lidí, jaké jsou jejich volební preference. V předvolebním průzkumu se ptáme nějakého malého vzorku lidí (obvykle kolem tisíce lidí) a z toho, co nám odpoví, usuzujeme, jaké politické preference má celá populace. Předvolební průzkum tedy vyžaduje nějaké statistické znalosti, které nám řeknou, jak sestavit vzorek respondentů, jak přesný je náš odhad atd.
+Základní otázkou je, proč se statistikou vůbec zabýváme a co statistika nabízí navíc oproti datové analýze. Hlavní rozdíl mezi statistikou a datovou analýzou je, že u statistiky se zpravidla zabýváme vzorkem dat a na základě vzorku dat usuzujeme, jaké má vlastnosti nějaký větší celek. Srovnejme si například volby a předvolební průzkum. Ve volbách se ptáme všech lidí, jaké jsou jejich volební preference. V předvolebním průzkumu se ptáme nějakého malého vzorku lidí (obvykle kolem tisíce lidí) a z toho, co nám odpoví, usuzujeme, jaké politické preference má celá populace. Předvolební průzkum tedy vyžaduje nějaké statistické znalosti, které nám řeknou, jak sestavit vzorek respondentů, jak přesný je náš odhad atd.
 
 ## Základní statistické ukazatele
 
 Máme-li k dispozici nějaký soubor dat, často nás zajímají různé statistické ukazatele. Nejčastěji nás zajímají ukazatele **úrovně (polohy)** a ukazatele **variability**. Ty s přehledem zvládne například modul `statistics`, který je součástí základních modulů Pythonu. My pro zpracování dat využijeme modul `pandas`.
 
-Budeme využívat data o cenách domů, která jsou v souboru `house_prices.csv`. V souboru je důležitý sloupec `SalePrice`, tj. cena domu, a poté různé parametry domu, jako obytná plocha, typ čtvrti, ve které se dům nachází atd. Data načteme ze souboru `clean_train.csv` pomocí metody `read_csv()`. Data jsou uložena do struktury, kterou nazýváme `DataFrame` (tabulka) a je v podstatě obdoba SQL tabulky. U každé tabulky máme různě pojmenované sloupečky a můžeme vždy vybrat jeden sloupeček a pracovat jen s ním.
+Budeme využívat data o cenách domů, která jsou v souboru `house_prices.csv`. V souboru je důležitý sloupec `SalePrice`, tj. cena domu, a poté různé parametry domu, jako obytná plocha, typ čtvrti, ve které se dům nachází atd. Data načteme ze souboru `house_prices.csv` pomocí metody `read_csv()`. Data jsou uložena do struktury, kterou nazýváme `DataFrame` (tabulka) a je v podstatě obdoba SQL tabulky. U každé tabulky máme různě pojmenované sloupečky a můžeme vždy vybrat jeden sloupeček a pracovat jen s ním.
 
 ```py
 import pandas
-data = pandas.read_csv("clean_train.csv")
+data = pandas.read_csv("house_prices.csv")
 ```
 
 ### Průměr a medián
@@ -24,18 +24,13 @@ print(data["SalePrice"].mean())
 print(data["SalePrice"].median())
 ```
 
-V jakých případech nás může průměr zmáast?
-
-- V novinových titulcích se často uvádí průměrná mzda. Dvě třetiny obyvatel ale mají plat nižší než průměrná mzda. O životní úrovni v ekonomice více vypovídá medián mezd.
-- Ve středověku byla průměrná délka života asi 30 let, ale byla výrazně ovlivněná úmrtností v raných fázích života. Pokud se člověk dožil 5 let, měl vysokou šanci dožít se 50 let.
-
 ### Rozptyl
 
 Ukazatele variability říkají, jak **různorodé** jsou hodnoty v rámci jedné skupiny. Funkci rozptylu si nejlépe ukážeme, když ho spočítáme pro dva různé soubory dat. Uvažujme, že rozdělíme domy do dvou skupin, a to podle typu obytné zóny, ve které se nacházejí. Máme nyní dva nové soubory - `house_prices_RM.csv` s domy v zónách se středně hustou zástavbou a `house_prices_RH.csv` s domy v zónách s velmi hustou zástavbou.
 
 ```py
 # Načteme data
-data_RM = pandas.read_csv("house_prices_RM.csv")
+data_RM = data[data["]] pandas.read_csv("house_prices_RM.csv")
 data_RH = pandas.read_csv("house_prices_RH.csv")
 # Zjistíme průměry
 print(data_RM["SalePrice"].mean())
@@ -45,7 +40,7 @@ print(data_RH["SalePrice"].var())
 print(data_RM["SalePrice"].var())
 ```
 
-Průměr zjistíme pomocí metody `var()`.
+Průměr zjistíme pomocí metody `var()`. Jde o zkratku anglického výrazu *variance*.
 
 Z výsledků vidíme, že průměrná cena domů v obou typech zón je skoro stejná, domy se středně hustou zástavbou však mají výrazně větší rozptyl. To znamená, že ceny domů v zónách se středně hustou zástavbou jsou mnohem více různorodé.
 
@@ -54,20 +49,10 @@ Abychom si popsali význam rozptylu (a variability obecně), ukážeme si ho na 
 - Uvažujme například známky z testu pro dvě třídy. Obě třídy mají průměr velmi blízký trojce. První třída má velmi malý rozptyl a druhá obrovský. Co to znamená? V první třídě měli skoro všichni trojku, ve druhé třídě měla velká skupina žáků jedničku a jiná velká skupina pětku.
 - Vysoký rozptyl u cen akcií většinou znamená, že je akcie riziková. Její cena se totiž v čase hodně mění a může se stát, že prudce klesne ve chvíli, kdy ji budeme potřebovat prodat.
 - Vysoký rozptyl výkonů u sportovního oddílu znamená, že jsou jejich výkony nevyrovnané. Pokud by nejlepší sportovec nemohl nastoupit do závodu, výrazně to ovlivní výsledek celého týmu.
-- Uvažujme dotazník spokojenosti ve firmě. Pokud má vysoký rozptyl výsledků, jsou někteří zaměstnanci nadšení, ale jiní jsou velmi frustrovaní. Nelze tedy být v klidu, protože průzkum dopadl "jakž takž", frustrovaní zaměstnanci totiž dříve či později odejdou.
+- Uvažujme dotazník spokojenosti ve firmě. Pokud má vysoký rozptyl výsledků, jsou někteří zaměstnanci nadšení, ale jiní jsou velmi frustrovaní. Nelze tedy být v klidu, protože průzkum dopadl "jakž takž", frustrovaní zaměstnanci totiž dříve či později odejdou. Není třeba rozdíl v kvalitě jednotlivých team leaderů?
 
 ![](images/grafik-11.png)
 
-### Varianční rozpětí
-
-Podobnou informaci jako rozptyl nám řekne třeba i **rozdíl nejvyšší a nejnižší hodnoty**, který nazýváme varianční rozpětí. Výhodou variančního rozpětí, kterou dnes už moc neoceníme, je jednoduchost výpočtu, který lze u menších souborů provést z hlavy.
-
-K určení variančního rozpětí potřebujeme zjistit maximum a minimum, k tomu vyžijeme metody `max()` a `min()`.
-
-```py
-print(data_RM["SalePrice"].max() - data_RM["SalePrice"].min())
-print(data_RH["SalePrice"].max() - data_RH["SalePrice"].min())
-```
 
 ### Kvantil
 
@@ -81,13 +66,6 @@ Jaké otázky můžeme zodpovědět:
 - V jakém rozmezí se pohybuje příjem 10 % nejchudších nebo 10 % nejbohatších lidí?
 - Jak rychle musím uběhnout maraton, abych patřil mezi 10 % nejlepších závodníků?
 - Pokud přijímáme na školu 60 % nejlepších studentů v příjmacím řízení, od jakého počtu bodů budeme přijímat.
-
-Kvantily můžeme využít i jako ukazatel variability - můžeme například vypočítat rozdíl mezi 90%ním a 10%ním kvantilem, případně mezi 75%ním a 25%ním kvantilem. Druhý jmenovaný ukazatel je označován jako **kvartilové rozpětí**.
-
-```py
-print(data["SalePrice"].quantile(0.9) - data["SalePrice"].quantile(0.1))
-print(data["SalePrice"].quantile(0.75) - data["SalePrice"].quantile(0.25))
-```
 
 ### Inverzní kvantilová funkce
 
@@ -159,6 +137,8 @@ Na grafu vidíme, že cena domu má skutečně tendenci růst s velikostí obytn
 - Hodnoty blízko +1 znamenají silnou přímou lineární závislost, tj. hodnoty v obou sloupcích rostou současně.
 - Hodnoty blízko 0 znamenají lineární nezávislost.
 - Hodnoty blízko -1 znamenají silnou nepřímou lineární závislost, tj. jedna hodnota roste a současně druhá klesá.
+
+Příklady přímé závislosti: čas strávený studiem a výsledek v testu, délka tréninku a výsledek v závodě, délka praxe a výše mzdy atd. Příklady nepřímé závislosti: množství vypitého alkoholu a kognitivní schopnosti, zimní teploty a spotřeba energie na vytápění.
 
 Hodnotu korelace zjistíme pomocí metody `corr()` pro zvolenou tabulku. Tato metoda vytvoří tzv. korelační matici, tj. matici, která obsahuje korelace pro všechny dvojice dat v tabulce. Abychom se v obří tabulce neztratili, vybereme si pouze sloupečky `GrLivArea` a `SalePrice`. Protože tentokrát nevybíráme pouze jeden sloupeček, ale seznam sloupců, musíme použít další dvojici hranatých závorek.
 
