@@ -12,7 +12,7 @@
 |    5. | Statistické metody  | Popisná statistika                               | [odkaz](05/lekce.ipynb) |
 |    6. | Statistické metody  | Testování statistických hypotéz                  | [odkaz](06/lekce.ipynb) |
 |    7. | Statistické metody  | Korelace a regrese                               | [odkaz](07/lekce.ipynb) |
-|    8. | Strojové učení a umělá inteligence  | Obecná technika strojového učení, binární klasifikace |    |
+|    8. | Strojové učení a umělá inteligence  | Obecná technika strojového učení, binární klasifikace | [odkaz](08/lekce.ipynb) |
 |    9. | Strojové učení a umělá inteligence  | Klasifikace do více tříd, grid search |                    |
 |   10. | Strojové učení a umělá inteligence  | Rozhodovací stromy               |                         |
 |   11. | Strojové učení a umělá inteligence  | Clustering                       |                         |
