@@ -1,0 +1,25 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="sex_male <= 0.5\ngini = 0.463\nsamples = 623\nvalue = [396, 227]", fillcolor="#f4c9aa"] ;
+1 [label="class_Third <= 0.5\ngini = 0.387\nsamples = 217\nvalue = [57, 160]", fillcolor="#80c0ee"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="class_Second <= 0.5\ngini = 0.097\nsamples = 117\nvalue = [6, 111]", fillcolor="#44a2e6"] ;
+1 -> 2 ;
+3 [label="gini = 0.061\nsamples = 64\nvalue = [2, 62]", fillcolor="#3fa0e6"] ;
+2 -> 3 ;
+4 [label="gini = 0.14\nsamples = 53\nvalue = [4, 49]", fillcolor="#49a5e7"] ;
+2 -> 4 ;
+5 [label="gini = 0.5\nsamples = 100\nvalue = [51, 49]", fillcolor="#fefaf7"] ;
+1 -> 5 ;
+6 [label="class_First <= 0.5\ngini = 0.276\nsamples = 406\nvalue = [339, 67]", fillcolor="#ea9a60"] ;
+0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+7 [label="class_Third <= 0.5\ngini = 0.22\nsamples = 326\nvalue = [285, 41]", fillcolor="#e99355"] ;
+6 -> 7 ;
+8 [label="gini = 0.275\nsamples = 73\nvalue = [61, 12]", fillcolor="#ea9a60"] ;
+7 -> 8 ;
+9 [label="gini = 0.203\nsamples = 253\nvalue = [224, 29]", fillcolor="#e89153"] ;
+7 -> 9 ;
+10 [label="gini = 0.439\nsamples = 80\nvalue = [54, 26]", fillcolor="#f2be98"] ;
+6 -> 10 ;
+}
