@@ -14,7 +14,7 @@
 |    7. | Statistické metody  | Korelace a regrese                               | [odkaz](07/lekce.ipynb) |
 |    8. | Strojové učení a umělá inteligence  | Obecná technika strojového učení, binární klasifikace | [odkaz](08/lekce.ipynb) |
 |    9. | Strojové učení a umělá inteligence  | Klasifikace do více tříd, grid search | [odkaz](09/lekce.ipynb) |
-|   10. | Strojové učení a umělá inteligence  | Rozhodovací stromy               |                         |
+|   10. | Strojové učení a umělá inteligence  | Rozhodovací stromy               | [odkaz](10/lekce.ipynb) |
 |   11. | Strojové učení a umělá inteligence  | Clustering                       |                         |
 |   12. | Strojové učení a umělá inteligence  | NLP                              |                         |
 
