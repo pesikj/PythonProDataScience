@@ -33,6 +33,8 @@
 - [Úkol č. 1](domaci_ukoly/01.ipynb) (povinný, je nutné jej zpracovat do **12. května 2023**)
 - [Úkol č. 2](domaci_ukoly/02.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**)
 - [Úkol č. 3](domaci_ukoly/03.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**)
+- [Úkol č. 4](domaci_ukoly/03.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**)
+- [Úkol č. 5](domaci_ukoly/03.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**)
 
 Pro získání certifikátu je nutné zpracovat minimálně tři úkoly:
 
