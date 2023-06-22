@@ -50,6 +50,8 @@ Mapa světa, lze použít např. pro analýzu tržeb firmy.
 - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide) 
 - [Visualization and Interactive Dashboard in Python
 ](https://towardsdatascience.com/visualization-and-interactive-dashboard-in-python-c2f2a88b2ba3)
+- [Data Analyst vs Data Engineer vs Data Scientist: Skills, Responsibilities, Salary](https://www.edureka.co/blog/data-analyst-vs-data-engineer-vs-data-scientist/)
+- [Data Scientist vs Data Analyst vs Data Engineer](https://towardsdatascience.com/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41)
 
 ### Pandas a vizualizace
 
