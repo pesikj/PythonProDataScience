@@ -30,11 +30,11 @@
 
 ## Zadání úkolů
 
-- [Úkol č. 1](domaci_ukoly/01.ipynb) (povinný, je nutné jej zpracovat do **12. května 2023**)
-- [Úkol č. 2](domaci_ukoly/02.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**)
-- [Úkol č. 3](domaci_ukoly/03.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**)
-- [Úkol č. 4](domaci_ukoly/04.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**)
-- [Úkol č. 5](domaci_ukoly/05.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**)
+- [Úkol č. 1](domaci_ukoly/01.ipynb) (povinný, je nutné jej zpracovat do **12. května 2023**), příklad řešení úkolu je [zde](domaci_ukoly/reseni_01.ipynb)
+- [Úkol č. 2](domaci_ukoly/02.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/soubory_02/reseni_02.ipynb)
+- [Úkol č. 3](domaci_ukoly/03.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/soubory_03/reseni_03.ipynb)
+- [Úkol č. 4](domaci_ukoly/04.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/reseni_04.ipynb)
+- [Úkol č. 5](domaci_ukoly/05.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/reseni_05.ipynb)
 
 Pro získání certifikátu je nutné zpracovat minimálně tři úkoly:
 
