@@ -5,7 +5,7 @@
 
 | Týden | Blok | Téma                                                            | Odkaz                   | 
 |------:|---|--------------------------------------------------------------------|-------------------------|
-|    1. | Pandas a vizualizace  | Running total, duplicity                       | [odkaz](01/lekce.ipynb) | 
+|    1. | Pandas a vizualizace  | Opakování pandas, duplicity, Jupyter notebooky | [odkaz](01/lekce.ipynb) | 
 |    2. | Pandas a vizualizace  | Pivot tabulky                                  | [odkaz](02/lekce.ipynb) |
 |    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            | [odkaz](03/lekce.ipynb) |
 |    4. | Pandas a vizualizace  | Použití vlastních funkcí                       | [odkaz](04/lekce.ipynb) |
@@ -23,18 +23,12 @@
 ## Podmínky absolvování kurzu
 
 - Účast na lekcích (min. 80 %)
+- Vyplnění opakovacího testu (bude zadán po každé lekci, na vyplnění budou dva týdny, je třeba mít správně alespoň 80 % otázek, všechny testy musí být odevzdány nejpozději týden po poslední lekci).
 - Odevzdání domácích úkolů:
-  * Úkol z bloku *pandas a vizualizace*.
-  * Jeden ze dvou úkolů z bloku *statistické metody* (bude zadán po 7. lekci, na zpracování budou dva týdny).
-  * Jeden ze dvou úkolů z bloku *strojové učení a umělá inteligence* (bude zadán po 10. lekci, na zpracování budou dva týdny).
+  * Úkol z bloku *statistické metody* (bude zadán po 7. lekci, na zpracování budou dva týdny).
+  * Úkol z bloku *strojové učení a umělá inteligence* (bude zadán po 10. lekci, na zpracování budou dva týdny).
 
-## Zadání úkolů
 
-- [Úkol č. 1](domaci_ukoly/01.ipynb) (povinný, je nutné jej zpracovat do **12. května 2023**), příklad řešení úkolu je [zde](domaci_ukoly/reseni_01.ipynb)
-- [Úkol č. 2](domaci_ukoly/02.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/soubory_02/reseni_02.ipynb)
-- [Úkol č. 3](domaci_ukoly/03.ipynb) (povinný, je nutné jej zpracovat do **9. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/soubory_03/reseni_03.ipynb)
-- [Úkol č. 4](domaci_ukoly/04.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/reseni_04.ipynb)
-- [Úkol č. 5](domaci_ukoly/05.ipynb) (povinný, je nutné jej zpracovat do **26. června 2023**), příklad řešení úkolu je [zde](domaci_ukoly/reseni_05.ipynb)
 
 Pro získání certifikátu je nutné zpracovat minimálně tři úkoly:
 

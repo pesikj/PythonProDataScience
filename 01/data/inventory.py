@@ -19,11 +19,11 @@ def generate_inventory_movement(num_movements):
                 received_quantity = int(average_demand * 20 * random.uniform(0.7, 1.2) * suppy_coefficient)
                 print(received_quantity)
                 quantity += received_quantity
-                inventory_movement.append({"date": current_date, "product_code": product_code, "quantity": received_quantity})
+                inventory_movement.append({"date": current_date, "product_code": product_code, "quantity_change": received_quantity})
             if current_date.weekday() < 5:
                 issued_quantity = min(int(random.randint(int(average_demand * 0.5), int(average_demand * 1.5)) * month_coefficient.get(current_date.month, 1)), quantity)
                 quantity -= issued_quantity
-                inventory_movement.append({"date": current_date, "product_code": product_code, "quantity": - issued_quantity})
+                inventory_movement.append({"date": current_date, "product_code": product_code, "quantity_change": - issued_quantity})
             quantity_dict[product_code] = quantity
         current_date += datetime.timedelta(days=1)
     return inventory_movement
@@ -32,5 +32,5 @@ def generate_inventory_movement(num_movements):
 sample_inventory_movement = generate_inventory_movement(365)  # Generate 31 days of movement data for March 2023
 
 df = pandas.DataFrame(sample_inventory_movement)
-df.to_csv("01/data/inventory.csv")
+df.to_csv("01/data/inventory.csv", index=False)
 
