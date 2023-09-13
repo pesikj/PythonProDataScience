@@ -6,17 +6,17 @@
 | Týden | Blok | Téma                                                            | Odkaz                   | 
 |------:|---|--------------------------------------------------------------------|-------------------------|
 |    1. | Pandas a vizualizace  | Opakování pandas, duplicity, Jupyter notebooky | [odkaz](01/lekce.ipynb) | 
-|    2. | Pandas a vizualizace  | Pivot tabulky                                  | [odkaz](02/lekce.ipynb) |
-|    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            | [odkaz](03/lekce.ipynb) |
-|    4. | Pandas a vizualizace  | Použití vlastních funkcí                       | [odkaz](04/lekce.ipynb) |
-|    5. | Statistické metody  | Popisná statistika                               | [odkaz](05/lekce.ipynb) |
-|    6. | Statistické metody  | Testování statistických hypotéz                  | [odkaz](06/lekce.ipynb) |
-|    7. | Statistické metody  | Korelace a regrese                               | [odkaz](07/lekce.ipynb) |
-|    8. | Strojové učení a umělá inteligence  | Obecná technika strojového učení, binární klasifikace | [odkaz](08/lekce.ipynb) |
-|    9. | Strojové učení a umělá inteligence  | Klasifikace do více tříd, grid search | [odkaz](09/lekce.ipynb) |
-|   10. | Strojové učení a umělá inteligence  | Rozhodovací stromy               | [odkaz](10/lekce.ipynb) |
-|   11. | Strojové učení a umělá inteligence  | Clustering                       | [odkaz](11/lekce.ipynb) |
-|   12. | Strojové učení a umělá inteligence  | NLP                              | [odkaz](12/lekce.ipynb) |
+|    2. | Pandas a vizualizace  | Pivot tabulky, použití vlastních funkcí        |                         |
+|    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            |                         |
+|    4. | Statistické metody  | Popisná statistika                               |                         |
+|    5. | Statistické metody  | Testování statistických hypotéz                  |                         |
+|    6. | Statistické metody  | Korelace a regrese                               |                         |
+|    7. | Strojové učení a umělá inteligence  |                                  |                         |
+|    8. | Strojové učení a umělá inteligence  |                                  |                         |
+|    9. | Strojové učení a umělá inteligence  |                                  |                         |
+|   10. | Strojové učení a umělá inteligence  |                                  |                         |
+|   11. | Strojové učení a umělá inteligence  |                                  |                         |
+|   12. | Strojové učení a umělá inteligence  |                                  |                         |
 
 
 
@@ -30,11 +30,10 @@
 
 
 
-Pro získání certifikátu je nutné zpracovat minimálně tři úkoly:
+Pro získání certifikátu je nutné zpracovat dva úkoly:
 
-- úkol 1,
-- úkol 2 nebo úkol 3 (je samozřejmě možné zpracovat oba),
-- úkol 4 nebo úkol 5 (je samozřejmě možné zpracovat oba).
+- úkol 1 (bude zadán po 6. lekci),
+- úkol 1 (bude zadán po 10. lekci),.
 
 ## Další zdroje
 
