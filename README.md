@@ -23,17 +23,11 @@
 ## Podmínky absolvování kurzu
 
 - Účast na lekcích (min. 80 %)
-- Vyplnění opakovacího testu (bude zadán po každé lekci, na vyplnění budou dva týdny, je třeba mít správně alespoň 80 % otázek, všechny testy musí být odevzdány nejpozději týden po poslední lekci).
+- Vyplnění opakovacího kvízu (bude zadán po každé lekci, na vyplnění budou dva týdny, je třeba mít správně alespoň 50 % otázek, všechny testy musí být odevzdány nejpozději týden po poslední lekci).
 - Odevzdání domácích úkolů:
-  * Úkol z bloku *statistické metody* (bude zadán po 7. lekci, na zpracování budou dva týdny).
+  * Úkol z bloku *statistické metody* (bude zadán po 6. lekci, na zpracování budou dva týdny).
   * Úkol z bloku *strojové učení a umělá inteligence* (bude zadán po 10. lekci, na zpracování budou dva týdny).
 
-
-
-Pro získání certifikátu je nutné zpracovat dva úkoly:
-
-- úkol 1 (bude zadán po 6. lekci),
-- úkol 1 (bude zadán po 10. lekci),.
 
 ## Další zdroje
 
