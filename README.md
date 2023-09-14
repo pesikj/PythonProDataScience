@@ -5,7 +5,7 @@
 
 | Týden | Blok | Téma                                                            | Odkaz                   | 
 |------:|---|--------------------------------------------------------------------|-------------------------|
-|    1. | Pandas a vizualizace  | Opakování pandas, duplicity, Jupyter notebooky | [odkaz](01/lekce.ipynb) | 
+|    1. | Pandas a vizualizace  | Úvod, Jupyter notebooky, vizualizace           | [odkaz](01/lekce.ipynb) | 
 |    2. | Pandas a vizualizace  | Pivot tabulky, použití vlastních funkcí        |                         |
 |    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            |                         |
 |    4. | Statistické metody  | Popisná statistika                               |                         |
