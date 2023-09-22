@@ -6,8 +6,8 @@
 | Týden | Blok | Téma                                                            | Odkaz                   | 
 |------:|---|--------------------------------------------------------------------|-------------------------|
 |    1. | Pandas a vizualizace  | Úvod, Jupyter notebooky, vizualizace           | [odkaz](01/lekce.ipynb) | 
-|    2. | Pandas a vizualizace  | Pivot tabulky, použití vlastních funkcí        |                         |
-|    3. | Pandas a vizualizace  | Práce s datem a časem, funkce shift            |                         |
+|    2. | Pandas a vizualizace  | Pivot tabulky, práce s datem a časem           | [odkaz](02/lekce.ipynb) |
+|    3. | Pandas a vizualizace  | Použití vlastních funkcí, funkce shift         | [odkaz](03/lekce.ipynb) |
 |    4. | Statistické metody  | Popisná statistika                               |                         |
 |    5. | Statistické metody  | Testování statistických hypotéz                  |                         |
 |    6. | Statistické metody  | Korelace a regrese                               |                         |
