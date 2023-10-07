@@ -8,8 +8,8 @@
 |    1. | Pandas a vizualizace  | Úvod, Jupyter notebooky, vizualizace           | [odkaz](01/lekce.ipynb) | 
 |    2. | Pandas a vizualizace  | Pivot tabulky, práce s datem a časem           | [odkaz](02/lekce.ipynb) |
 |    3. | Pandas a vizualizace  | Použití vlastních funkcí, funkce shift         | [odkaz](03/lekce.ipynb) |
-|    4. | Statistické metody  | Popisná statistika                               |                         |
-|    5. | Statistické metody  | Testování statistických hypotéz                  |                         |
+|    4. | Statistické metody  | Popisná statistika a testování hypotéz           | [odkaz](04/lekce.ipynb) |
+|    5. | Statistické metody  | Hypotézy a statistická rozdělení                 |                         |
 |    6. | Statistické metody  | Korelace a regrese                               |                         |
 |    7. | Strojové učení a umělá inteligence  |                                  |                         |
 |    8. | Strojové učení a umělá inteligence  |                                  |                         |
