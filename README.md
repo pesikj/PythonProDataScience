@@ -3,20 +3,20 @@
 * Informace o kurzu [na webu Czechitas](https://www.czechitas.cz/kurzy/python-2).
 * Návod na odevzdávání úkolů na GitHub je [zde](ukoly.md).
 
-| Týden | Blok | Téma                                                            | Odkaz                   | 
-|------:|---|--------------------------------------------------------------------|-------------------------|
-|    1. | Pandas a vizualizace  | Úvod, Jupyter notebooky, vizualizace           | [odkaz](01/lekce.ipynb) | 
-|    2. | Pandas a vizualizace  | Pivot tabulky, práce s datem a časem           | [odkaz](02/lekce.ipynb) |
-|    3. | Pandas a vizualizace  | Použití vlastních funkcí, funkce shift         | [odkaz](03/lekce.ipynb) |
-|    4. | Statistické metody  | Popisná statistika a testování hypotéz           | [odkaz](04/lekce.ipynb) |
-|    5. | Statistické metody  | Hypotézy a statistická rozdělení                 | [odkaz](05/lekce.ipynb) |
-|    6. | Statistické metody  | Korelace a regrese                               |                         |
-|    7. | Strojové učení a umělá inteligence  |                                  |                         |
-|    8. | Strojové učení a umělá inteligence  |                                  |                         |
-|    9. | Strojové učení a umělá inteligence  |                                  |                         |
-|   10. | Strojové učení a umělá inteligence  |                                  |                         |
-|   11. | Strojové učení a umělá inteligence  |                                  |                         |
-|   12. | Strojové učení a umělá inteligence  |                                  |                         |
+| Týden | Blok | Téma                                                             | Odkaz                   | 
+|------:|---|---------------------------------------------------------------------|-------------------------|
+|    1. | Pandas a vizualizace  | Úvod, Jupyter notebooky, vizualizace            | [odkaz](01/lekce.ipynb) | 
+|    2. | Pandas a vizualizace  | Pivot tabulky, práce s datem a časem            | [odkaz](02/lekce.ipynb) |
+|    3. | Pandas a vizualizace  | Použití vlastních funkcí, funkce shift          | [odkaz](03/lekce.ipynb) |
+|    4. | Statistické metody  | Popisná statistika a testování hypotéz            | [odkaz](04/lekce.ipynb) |
+|    5. | Statistické metody  | Hypotézy a statistická rozdělení                  | [odkaz](05/lekce.ipynb) |
+|    6. | Statistické metody  | Korelace a regrese                                | [odkaz](06/lekce.ipynb) |
+|    7. | Strojové učení a umělá inteligence | Binární klasifikace s využitím KNN |                         |
+|    8. | Strojové učení a umělá inteligence | Klasifikace s využitím SVC         |                         |
+|    9. | Strojové učení a umělá inteligence | Rozhodovací stromy                 |                         |
+|   10. | Strojové učení a umělá inteligence |                                    |                         |
+|   11. | Strojové učení a umělá inteligence |                                    |                         |
+|   12. | Strojové učení a umělá inteligence |                                    |                         |
 
 
 
