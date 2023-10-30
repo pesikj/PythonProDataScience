@@ -60,9 +60,9 @@ Poté vytvoř nové Issue ve svém repozitáři. Do názvu zadej název úkolu a
 
 ### Úkol 1
 
-V souboru [data.csv](data.csv) máš data o hodnotách finančních indikátorů 100 největších společností obchodovaných na americké burze. Naším cílem je zjistit, které indikátory nejvíce ovlivňují cenu a vytvořit model, který odhadne cenu akcie na základě hodnot finančních indikátorů.
+V souboru s daty na Slacku máš data o hodnotách finančních indikátorů 100 největších společností obchodovaných na americké burze. Naším cílem je zjistit, které indikátory nejvíce ovlivňují cenu, a vytvořit model, který odhadne cenu akcie na základě hodnot finančních indikátorů.
 
-Jeden z indikátorů je označený jako *Y* a je poměrem ceny a účetní hodnoty akcie. Ostatní indikátory jso následující:
+Jeden z indikátorů je označený jako *Y* a je poměrem ceny a účetní hodnoty akcie. Hodnota indikátoru je odrazem ceny akcie. Ostatní indikátory jso následující:
 
 * běžná likvidita (Current Ratio, *CR*),
 * zadluženost (Debt to Assets, *DA*),
@@ -71,15 +71,18 @@ Jeden z indikátorů je označený jako *Y* a je poměrem ceny a účetní hodno
 * obrat pohledávek (Receivables Turnover, *RT*),
 * obrat celkových aktiv (Total Assets Turnover, *TAT*).
 
+- Úkol můžeš odevzdat jako Jupyter notebook.
+- Nenahrávej prosím datový soubor na GitHub (neobsahuje veřejně dostupná data). Ze stejného důvodu jsou data anonymizovaná, tj. není v nich obsažen konkrétní název firmy.
+
 #### Část 1
 
-Vytvoř korelační matici a podívej se, který ukazatel má největší hodnotu na cenu akcie.
+- Vytvoř korelační matici a podívej se, který ukazatel má největší vliv na indikátor *Y* akcie.
 
 #### Část 2
 
-Vytvoř regresní model, který bude mít koeficient *Y* jako vysvětlovanou proměnnou. Do modelu vlož hodnoty ostatních indikátorů jako vysvětlující proměnné. Dále přidej Sektor (poslední sloupec) jako vysvětlující proměnnou s využitím One Hot Encoding.
-
+- Vytvoř regresní model, který bude mít koeficient *Y* jako vysvětlovanou proměnnou. Do modelu vlož hodnoty ostatních indikátorů jako vysvětlující proměnné.
 - S využitím modulu `scipy` vytvoř regresní model a zobraz si tabulku se souhrnem významů. Podívej se na hodnoty koeficientů a na výsledky testu statistické významnosti koeficientů. Pokud je některý koeficient (nebo více koeficientů) nevýznamný, sestav nový model bez tohoto koeficientů (případně beze všech nevýznamných koeficientů).
 - Pro všechna data odhadni ukazatel *Y* s využitím tvého modelu a odhadnuté ceny vlož do původní tabulky s daty. Dále vypočítej rozdíl mezi odhadem koeficientu a jeho skutečnou hodnotou. Najdi akcii, kde je tento rozdíl největší (tj. hledáme akcii, které náš model predikuje výrazně vyšší cenu než jaká je ve skutečnosti, tato akcie je potenciálně na trhu podhodnocená).
 - **Bonus 1:** Sestav model s využitím robustní regrese. Opět proveď vyřazení koeficinetů, které nejsou statisticky významné, a sestav model pouze s významnými koeficienty. Vlož odhady cen do původních dat a opět najdi potenciálně nejvíce podhodnocenou akcii. Jde v případě robustní regese o stejnou akcii, nebo se akcie liší?
 - **Bonus 2:** Použij původní (tedy "nerobustní") model a vyčísli Cookovu vzdálenost pro všechny hodnoty. Vyřaď všechny akcie s Cookovou vzdáleností vyšší než 1 a přepočítej regresní model. Nakonec opět najdi potenciálně nejvíce podhodnocenou akcii a podívej se, jestli jde o stejnou akcii jako u předchozích modelů.
+- **Bonus 3:** Přidej Sektor (poslední sloupec) jako vysvětlující proměnnou s využitím One Hot Encoding. Podívej se, které sektory mají kladný koeficient a které sektory mají záporný koeficient.
