@@ -55,3 +55,31 @@ Poté můžeš kliknout `Sync Changes`, alternativně (např. pokud vidíš něj
 Poté vytvoř nové Issue ve svém repozitáři. Do názvu zadej název úkolu a v textu napiš přezdívku tvého kouče/koučky se zavináčem. Tím zajistíš, že kouč/koučka bude informován o založení issue e-mailem. Dále můžeš využít možnost `Assignees` a vybrat svého kouče/koučku. Pokud svého kouče/koučku nevidíš, je potřeba jej přidat do repozitáře, viz postup v podkapitole **Přidání kouče/koučky do repozitáře**.
 
 ![](images/6.png)
+
+## Zadání úkolů
+
+### Úkol 1
+
+V souboru [data.csv](data.csv) máš data o hodnotách finančních indikátorů 100 největších společností obchodovaných na americké burze. Naším cílem je zjistit, které indikátory nejvíce ovlivňují cenu a vytvořit model, který odhadne cenu akcie na základě hodnot finančních indikátorů.
+
+Jeden z indikátorů je označený jako *Y* a je poměrem ceny a účetní hodnoty akcie. Ostatní indikátory jso následující:
+
+* běžná likvidita (Current Ratio, *CR*),
+* zadluženost (Debt to Assets, *DA*),
+* finanční páka (Financial Leverage, *FL*)
+* provozní zisková marže (Operating Profit Margin, *OPM*),
+* obrat pohledávek (Receivables Turnover, *RT*),
+* obrat celkových aktiv (Total Assets Turnover, *TAT*).
+
+#### Část 1
+
+Vytvoř korelační matici a podívej se, který ukazatel má největší hodnotu na cenu akcie.
+
+#### Část 2
+
+Vytvoř regresní model, který bude mít koeficient *Y* jako vysvětlovanou proměnnou. Do modelu vlož hodnoty ostatních indikátorů jako vysvětlující proměnné. Dále přidej Sektor (poslední sloupec) jako vysvětlující proměnnou s využitím One Hot Encoding.
+
+- S využitím modulu `scipy` vytvoř regresní model a zobraz si tabulku se souhrnem významů. Podívej se na hodnoty koeficientů a na výsledky testu statistické významnosti koeficientů. Pokud je některý koeficient (nebo více koeficientů) nevýznamný, sestav nový model bez tohoto koeficientů (případně beze všech nevýznamných koeficientů).
+- Pro všechna data odhadni ukazatel *Y* s využitím tvého modelu a odhadnuté ceny vlož do původní tabulky s daty. Dále vypočítej rozdíl mezi odhadem koeficientu a jeho skutečnou hodnotou. Najdi akcii, kde je tento rozdíl největší (tj. hledáme akcii, které náš model predikuje výrazně vyšší cenu než jaká je ve skutečnosti, tato akcie je potenciálně na trhu podhodnocená).
+- **Bonus 1:** Sestav model s využitím robustní regrese. Opět proveď vyřazení koeficinetů, které nejsou statisticky významné, a sestav model pouze s významnými koeficienty. Vlož odhady cen do původních dat a opět najdi potenciálně nejvíce podhodnocenou akcii. Jde v případě robustní regese o stejnou akcii, nebo se akcie liší?
+- **Bonus 2:** Použij původní (tedy "nerobustní") model a vyčísli Cookovu vzdálenost pro všechny hodnoty. Vyřaď všechny akcie s Cookovou vzdáleností vyšší než 1 a přepočítej regresní model. Nakonec opět najdi potenciálně nejvíce podhodnocenou akcii a podívej se, jestli jde o stejnou akcii jako u předchozích modelů.
