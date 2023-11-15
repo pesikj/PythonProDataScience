@@ -13,9 +13,9 @@
 |    6. | Statistické metody  | Korelace a regrese                                | [odkaz](06/lekce.ipynb) |
 |    7. | Strojové učení a umělá inteligence | Binární klasifikace s využitím KNN | [odkaz](07/lekce.ipynb) |
 |    8. | Strojové učení a umělá inteligence | Klasifikace s využitím SVC         | [odkaz](08/lekce.ipynb) |
-|    9. | Strojové učení a umělá inteligence | Rozhodovací stromy                 |                         |
-|   10. | Strojové učení a umělá inteligence |                                    |                         |
-|   11. | Strojové učení a umělá inteligence |                                    |                         |
+|    9. | Strojové učení a umělá inteligence | Rozhodovací stromy                 | [odkaz](09/lekce.ipynb) |
+|   10. | Strojové učení a umělá inteligence | Shlukování                         |                         |
+|   11. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      |                         |
 |   12. | Strojové učení a umělá inteligence |                                    |                         |
 
 
