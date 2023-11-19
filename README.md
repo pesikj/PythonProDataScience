@@ -14,8 +14,8 @@
 |    7. | Strojové učení a umělá inteligence | Binární klasifikace s využitím KNN | [odkaz](07/lekce.ipynb) |
 |    8. | Strojové učení a umělá inteligence | Klasifikace s využitím SVC         | [odkaz](08/lekce.ipynb) |
 |    9. | Strojové učení a umělá inteligence | Rozhodovací stromy                 | [odkaz](09/lekce.ipynb) |
-|   10. | Strojové učení a umělá inteligence | Shlukování                         |                         |
-|   11. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      |                         |
+|   10. | Strojové učení a umělá inteligence | Shlukování                         | [odkaz](10/lekce.ipynb) |
+|   11. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      | [odkaz](11/lekce.ipynb) |
 |   12. | Strojové učení a umělá inteligence |                                    |                         |
 
 
