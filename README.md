@@ -26,7 +26,7 @@
 - Vyplnění opakovacího kvízu (bude zadán po každé lekci, na vyplnění budou dva týdny, je třeba mít správně alespoň 50 % otázek, všechny testy musí být odevzdány nejpozději týden po poslední lekci).
 - Odevzdání domácích úkolů:
   * Úkol z bloku *statistické metody* (zadání úkolu je [zde](ukoly.md)).
-  * Úkol z bloku *strojové učení a umělá inteligence* (bude zadán po 10. lekci, na zpracování budou dva týdny).
+  * Úkol z bloku *strojové učení a umělá inteligence* (zadání úkolu je [zde](ukoly.md), termína na odevzdání je **14. 12. 2023**).
 
 
 ## Další zdroje
