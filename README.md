@@ -16,7 +16,7 @@
 |    9. | Strojové učení a umělá inteligence | Rozhodovací stromy                 | [odkaz](09/lekce.ipynb) |
 |   10. | Strojové učení a umělá inteligence | Shlukování                         | [odkaz](10/lekce.ipynb) |
 |   11. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      | [odkaz](11/lekce.ipynb) |
-|   12. | Strojové učení a umělá inteligence |                                    |                         |
+|   12. | Strojové učení a umělá inteligence | Doporučování obsahu                | [odkaz](12/lekce.ipynb) |
 
 
 
