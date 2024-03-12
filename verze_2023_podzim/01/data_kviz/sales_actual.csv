@@ -1,0 +1,583 @@
+date,company,country,contract_value,sales_manager
+2021-11-09,Allard LLC Inc,Canada,374511.0,Jones Leon
+2023-01-03,Asselin and Sons Group,Canada,170005.19999999998,Jones Leon
+2023-01-19,Audet Group Ltd,Canada,465253.2,Jones Leon
+2022-07-14,Audet-Cyr Group,Canada,747392.1,Jones Leon
+2021-02-16,Beauchamp Inc Group,Canada,140489.0,Jones Leon
+2023-02-17,"Beaudry, Proulx and Boudreau Group",Canada,156922.8,Jones Leon
+2023-01-16,Beaulieu-Rivard Inc,Canada,561734.4,Jones Leon
+2022-12-21,"Beauregard, Tanguay and Drouin Ltd",Canada,845618.8,Morgan Sarah
+2021-02-08,Bernard-Béland Inc,Canada,651471.0,Jones Leon
+2021-04-02,Blais Inc PLC,Canada,466183.0,Morgan Sarah
+2021-09-20,"Boisvert, Leduc and Champagne Ltd",Canada,100989.0,Jones Leon
+2022-08-15,"Boucher, Desbiens and Carrier PLC",Canada,283576.8,Jones Leon
+2021-12-31,"Boucher, Landry and Thibodeau and Sons",Canada,306870.0,Jones Leon
+2022-04-06,Boucher-Pépin Group,Canada,834228.2000000001,Jones Leon
+2022-06-15,Boulanger PLC Ltd,Canada,234052.0,Jones Leon
+2022-12-08,Champagne-Charbonneau Ltd,Canada,263497.0,Jones Leon
+2022-09-26,Charbonneau Inc and Sons,Canada,517462.4,Jones Leon
+2022-04-01,Charbonneau PLC and Sons,Canada,112127.6,Jones Leon
+2022-04-26,Charbonneau-Gagnon Inc,Canada,574815.8,Jones Leon
+2022-12-02,Charette-Germain Inc,Canada,691984.8,Jones Leon
+2021-01-27,Cloutier Ltd and Sons,Canada,189601.0,Jones Leon
+2023-03-02,Couture-Arsenault and Sons,Canada,716978.4,Jones Leon
+2021-06-04,Côté-Plourde Group,Canada,428658.0,Jones Leon
+2021-05-19,Demers-Marcoux Inc,Canada,665249.0,Jones Leon
+2021-07-15,"Denis, Dumont and Moreau PLC",Canada,172357.0,Jones Leon
+2023-02-15,"Denis, Rivard and Renaud LLC",Canada,780489.6,Jones Leon
+2022-07-13,Desrosiers Group and Sons,Canada,625487.2000000001,Morgan Sarah
+2021-01-08,Dionne-Fréchette PLC,Canada,356837.0,Jones Leon
+2022-04-11,Dumas Group Ltd,Canada,586827.8,Morgan Sarah
+2022-10-31,Duval Group Inc,Canada,420407.0,Jones Leon
+2022-05-19,Duval PLC LLC,Canada,587802.8,Jones Leon
+2021-04-23,"Fortier, Charbonneau and Trudel PLC",Canada,658681.0,Jones Leon
+2021-06-28,Fortin PLC PLC,Canada,570609.0,Jones Leon
+2022-06-29,"Gagnon, Grégoire and Larouche Ltd",Canada,107640.0,Jones Leon
+2022-07-11,Gendron-Boudreau PLC,Canada,426474.10000000003,Jones Leon
+2021-06-22,Germain-Fréchette PLC,Canada,262391.0,Jones Leon
+2023-02-27,"Giroux, Fréchette and Lapierre Inc",Canada,625291.2,Jones Leon
+2022-08-25,Giroux-Larouche Group,Canada,557497.2000000001,Jones Leon
+2021-05-14,"Godin, Hébert and Desrosiers and Sons",Canada,481661.0,Jones Leon
+2022-07-21,"Gravel, Lafontaine and Brassard Group",Canada,271343.8,Jones Leon
+2022-07-05,"Grenier, Desbiens and Bernier Ltd",Canada,615317.3,Jones Leon
+2022-12-12,"Grégoire, Cloutier and Blais LLC",Canada,608455.9,Jones Leon
+2023-03-23,Harvey LLC LLC,Canada,136268.4,Jones Leon
+2022-03-03,Jean-Trépanier LLC,Canada,188299.80000000002,Morgan Sarah
+2022-08-10,Labrecque LLC and Sons,Canada,539719.7000000001,Jones Leon
+2022-04-13,Labrecque-Thériault Inc,Canada,933998.0,Jones Leon
+2022-06-23,Lacasse LLC LLC,Canada,674337.3,Jones Leon
+2022-10-27,Laflamme-Grégoire Inc,Canada,196796.6,Jones Leon
+2021-11-23,Laliberté and Sons LLC,Canada,491843.0,Jones Leon
+2022-10-03,Laliberté-Houle LLC,Canada,261428.7,Jones Leon
+2021-12-22,Lamontagne-Bilodeau Inc,Canada,479989.0,Jones Leon
+2021-10-21,Lamontagne-Ferland Ltd,Canada,358283.0,Jones Leon
+2021-11-08,Langlois-Blouin Group,Canada,196768.0,Jones Leon
+2021-03-24,Lapierre PLC Group,Canada,307604.0,Jones Leon
+2022-02-01,Larivière-Therrien PLC,Canada,176546.5,Jones Leon
+2021-11-18,Larivière-Thériault LLC,Canada,699737.0,Jones Leon
+2022-01-10,"Larocque, Michaud and Auger Group",Canada,663863.2000000001,Morgan Sarah
+2023-02-28,Lauzon-Paré Group,Canada,199777.19999999998,Morgan Sarah
+2022-04-14,Lavoie-Drouin Inc,Canada,765077.3,Jones Leon
+2022-06-10,Lavoie-Lamontagne PLC,Canada,607024.6,Jones Leon
+2023-03-17,Lavoie-Mercier Inc,Canada,600091.2,Jones Leon
+2021-10-12,Legault-Germain Inc,Canada,85584.0,Jones Leon
+2022-12-07,Lepage-Bédard and Sons,Canada,923380.9,Jones Leon
+2021-11-10,Lévesque and Sons LLC,Canada,691212.0,Jones Leon
+2021-11-04,Lévesque-Pouliot Ltd,Canada,631974.0,Jones Leon
+2022-05-31,Lévesque-Renaud LLC,Canada,398739.9,Jones Leon
+2022-10-25,"Maltais, Tanguay and Lemieux Ltd",Canada,312128.7,Jones Leon
+2021-08-30,Marchand Inc LLC,Canada,212166.0,Morgan Sarah
+2021-09-01,Marchand Ltd Group,Canada,202042.0,Jones Leon
+2021-03-29,Marcotte Group and Sons,Canada,599998.0,Jones Leon
+2022-08-12,Marcoux Ltd Ltd,Canada,857664.6,Morgan Sarah
+2022-11-17,Marcoux-Landry PLC,Canada,124679.1,Jones Leon
+2022-02-07,"Martel, Chouinard and Lafontaine Ltd",Canada,895208.6,Jones Leon
+2023-03-27,Martineau PLC LLC,Canada,730348.7999999999,Jones Leon
+2021-12-02,Mercier Inc and Sons,Canada,603580.0,Morgan Sarah
+2021-04-27,"Mercier, Lamoureux and Bélanger LLC",Canada,132163.0,Jones Leon
+2023-03-10,Moreau-Dubois PLC,Canada,725290.7999999999,Jones Leon
+2023-03-09,Ménard PLC Inc,Canada,812326.7999999999,Jones Leon
+2021-09-27,"Noël, Demers and Paré Inc",Canada,143042.0,Jones Leon
+2022-08-05,"Ouellet, Fortier and Lussier Group",Canada,311750.4,Morgan Sarah
+2021-05-10,Paquette Inc and Sons,Canada,385717.0,Jones Leon
+2021-07-20,Paquette-Fournier Group,Canada,109495.0,Jones Leon
+2021-10-19,"Paradis, Blais and Lapointe Group",Canada,500025.0,Jones Leon
+2021-08-17,"Pelletier, Houde and Martin PLC",Canada,535075.0,Jones Leon
+2022-09-19,Perron PLC LLC,Canada,723856.9,Jones Leon
+2021-10-14,Poulin PLC Inc,Canada,613310.0,Jones Leon
+2021-02-03,"Poulin, Rioux and Lavallée Ltd",Canada,601563.0,Jones Leon
+2021-05-18,"Proulx, Thibault and Harvey Group",Canada,451674.0,Jones Leon
+2021-03-01,"Racine, Beaudoin and Duguay Inc",Canada,269316.0,Jones Leon
+2022-11-16,"Raymond, Archambault and Allard Ltd",Canada,886468.7000000001,Jones Leon
+2022-06-17,Richard-Bégin PLC,Canada,122509.40000000001,Morgan Sarah
+2021-12-03,Richer-Provost and Sons,Canada,368859.0,Jones Leon
+2023-02-10,Rioux Inc PLC,Canada,863727.6,Jones Leon
+2022-05-06,"Rivard, Denis and Pouliot Group",Canada,687765.0,Jones Leon
+2021-07-29,Roberge Ltd Ltd,Canada,463662.0,Jones Leon
+2022-12-14,Robert PLC and Sons,Canada,667622.8,Jones Leon
+2021-03-17,"Robert, Richard and Mercier and Sons",Canada,91943.0,Jones Leon
+2021-08-06,Robert-Lepage LLC,Canada,151722.0,Jones Leon
+2022-01-20,"Robitaille, Bergeron and Létourneau Ltd",Canada,495965.60000000003,Jones Leon
+2022-11-01,"St-Laurent, Ouellet and Labelle Inc",Canada,772060.9,Jones Leon
+2021-07-23,St-Onge-Boisvert Inc,Canada,563398.0,Morgan Sarah
+2021-12-15,"Tessier, Paquin and Lacasse LLC",Canada,446641.0,Jones Leon
+2021-09-15,Thibault LLC Ltd,Canada,366092.0,Jones Leon
+2022-03-02,Thibodeau PLC PLC,Canada,249087.80000000002,Jones Leon
+2021-09-14,"Thibodeau, Picard and Dubois Ltd",Canada,385917.0,Jones Leon
+2021-03-26,Thériault-Houle Group,Canada,541110.0,Jones Leon
+2021-03-31,Tremblay-Perreault Inc,Canada,540730.0,Morgan Sarah
+2021-04-30,Veilleux Group Group,Canada,282732.0,Jones Leon
+2022-02-10,"Veilleux, Desjardins and Beauchamp Inc",Canada,440469.9,Jones Leon
+2021-03-25,"Vézina, St-Jean and Tremblay Inc",Canada,336127.0,Jones Leon
+2022-03-30,Alves S.A.R.L.,France,857948.0,Thomas Denise
+2023-01-24,Andre S.A.S.,France,347793.6,Thomas Denise
+2022-06-07,Antoine Chauvet et Fils et Fils,France,876366.4,Jones Leon
+2021-06-09,Baudry SA et Fils,France,644110.0,Jones Leon
+2021-01-14,Berger et Fils,France,303918.0,Jones Leon
+2021-10-05,Bernier S.A.R.L.,France,645263.0,Thomas Denise
+2022-09-22,Berthelot SA,France,315205.8,Jones Leon
+2022-01-18,Bertin Barre et Fils S.A.,France,445718.0,Jones Leon
+2023-03-15,Besson S.A.,France,604686.0,Jones Leon
+2021-07-02,Bonneau et Fils,France,566635.0,Jones Leon
+2021-01-11,Bonnet S.A.S.,France,420256.0,Thomas Denise
+2021-05-04,Bonnin S.A.R.L. S.A.R.L.,France,620636.0,Jones Leon
+2022-07-28,Bouchet S.A.,France,340704.0,Thomas Denise
+2021-12-13,Bourdon S.A.S.,France,641475.0,Thomas Denise
+2022-03-10,Breton S.A.R.L.,France,781769.3,Thomas Denise
+2023-02-02,Buisson S.A.S.,France,701245.2,Jones Leon
+2021-10-22,Caron S.A.R.L.,France,341144.0,Thomas Denise
+2021-11-11,Charpentier et Fils SA,France,456555.0,Thomas Denise
+2022-06-03,Chevallier Andre SARL SA,France,686419.5,Morgan Sarah
+2022-08-04,Collet S.A.R.L.,France,375739.0,Jones Leon
+2021-08-19,De Oliveira Ribeiro S.A.S. S.A.R.L.,France,271239.0,Jones Leon
+2021-03-05,Delahaye SARL,France,716785.0,Thomas Denise
+2022-11-29,Delattre Adam S.A.R.L. SA,France,124415.2,Thomas Denise
+2021-02-01,Delorme SARL,France,669117.0,Jones Leon
+2023-03-22,Denis S.A.S.,France,440654.39999999997,Jones Leon
+2021-03-08,Descamps SARL,France,707274.0,Jones Leon
+2023-01-20,Dumas S.A.S.,France,178441.19999999998,Thomas Denise
+2021-01-18,Dupuis Blanchard S.A.S. S.A.R.L.,France,316067.0,Jones Leon
+2022-01-19,Durand SARL,France,139018.1,Jones Leon
+2022-03-22,Faivre S.A.R.L.,France,362051.3,Jones Leon
+2021-06-02,François SA,France,272233.0,Thomas Denise
+2023-03-21,Garcia SARL,France,655197.6,Thomas Denise
+2021-12-10,Gautier S.A.S.,France,368822.0,Jones Leon
+2023-01-25,Gay SARL,France,477774.0,Thomas Denise
+2021-08-27,Georges SA,France,219538.0,Morgan Sarah
+2023-01-09,Gimenez S.A.,France,477924.0,Morgan Sarah
+2021-12-21,Girard SA,France,562176.0,Jones Leon
+2022-06-24,Gomez Benard S.A. S.A.,France,181257.7,Thomas Denise
+2021-08-10,Gonzalez S.A.S.,France,268132.0,Thomas Denise
+2022-08-02,Gosselin S.A.R.L.,France,236637.7,Jones Leon
+2022-04-19,Grenier SA,France,181096.5,Thomas Denise
+2023-03-16,Grondin et Fils S.A.R.L.,France,230755.19999999998,Jones Leon
+2022-07-01,Gros SA,France,928158.4,Jones Leon
+2022-01-25,Guibert Millet SA SA,France,744528.2000000001,Thomas Denise
+2022-12-29,Guichard Pascal SARL et Fils,France,480415.0,Morgan Sarah
+2021-10-08,Hebert SARL S.A.,France,467548.0,Jones Leon
+2021-04-05,Hernandez Guyot et Fils S.A.,France,608906.0,Jones Leon
+2022-09-20,Hernandez Raynaud S.A. S.A.R.L.,France,267597.2,Thomas Denise
+2022-10-10,Hervé Bourgeois et Fils S.A.R.L.,France,462347.60000000003,Jones Leon
+2022-02-17,Huet S.A.S.,France,258923.6,Jones Leon
+2022-07-15,Imbert Leduc S.A.R.L. S.A.S.,France,426578.10000000003,Thomas Denise
+2022-12-09,Joseph S.A.,France,879823.1,Thomas Denise
+2021-11-17,Julien SARL S.A.S.,France,458454.0,Thomas Denise
+2022-03-09,Klein et Fils,France,135445.7,Thomas Denise
+2022-03-23,Langlois SARL,France,687554.4,Thomas Denise
+2021-06-08,Laporte S.A.S.,France,559274.0,Thomas Denise
+2021-04-20,Le Roux SARL,France,225579.0,Thomas Denise
+2021-04-13,Leclerc et Fils SARL,France,210103.0,Jones Leon
+2022-05-04,Leduc Munoz et Fils et Fils,France,186717.7,Thomas Denise
+2021-06-21,Leduc S.A.R.L. S.A.,France,466723.0,Thomas Denise
+2021-07-09,Lefort SA,France,690006.0,Jones Leon
+2022-10-14,Lefort SARL,France,820276.6,Jones Leon
+2021-03-22,Leleu et Fils,France,441328.0,Thomas Denise
+2021-08-09,Lenoir et Fils,France,709855.0,Thomas Denise
+2022-11-04,Leroy S.A.,France,779560.6,Thomas Denise
+2021-07-30,Letellier SA SARL,France,540607.0,Morgan Sarah
+2022-12-13,Lopez S.A. SARL,France,498231.5,Morgan Sarah
+2021-02-19,Louis SA et Fils,France,541952.0,Thomas Denise
+2022-02-24,Mace SA,France,569478.0,Thomas Denise
+2023-03-03,Maillet et Fils,France,786240.0,Thomas Denise
+2021-08-04,Martel SARL et Fils,France,159560.0,Thomas Denise
+2021-03-16,Martin S.A.S. S.A.,France,704583.0,Jones Leon
+2021-09-16,Martin SARL S.A.R.L.,France,682639.0,Thomas Denise
+2021-02-22,Marty S.A.R.L.,France,694714.0,Thomas Denise
+2023-01-06,Mary S.A.S.,France,107842.8,Jones Leon
+2022-10-21,Masson Bazin S.A.R.L. S.A.R.L.,France,551231.2000000001,Jones Leon
+2021-08-23,Menard S.A.R.L. et Fils,France,101371.0,Morgan Sarah
+2021-04-15,Mendès et Fils,France,292509.0,Morgan Sarah
+2022-10-12,Merle Mathieu S.A.R.L. SARL,France,369315.7,Jones Leon
+2022-12-19,Michaud Rousseau SARL et Fils,France,120265.6,Jones Leon
+2022-07-25,Michel S.A.R.L.,France,390660.4,Thomas Denise
+2022-04-20,Monnier S.A.S.,France,684530.6,Jones Leon
+2021-10-04,Monnier et Fils,France,254208.0,Thomas Denise
+2021-04-12,Moreau SA,France,358067.0,Thomas Denise
+2021-01-12,Morin et Fils S.A.R.L.,France,134809.0,Jones Leon
+2021-09-09,Morvan S.A.S.,France,606626.0,Jones Leon
+2022-09-21,Muller S.A.R.L. S.A.R.L.,France,234522.6,Jones Leon
+2022-04-18,Nguyen et Fils,France,892715.2000000001,Jones Leon
+2022-09-02,Nicolas et Fils,France,416223.60000000003,Morgan Sarah
+2021-04-09,Noël S.A.,France,435941.0,Jones Leon
+2021-07-16,Noël S.A.,France,237308.0,Thomas Denise
+2021-08-31,Pascal S.A.S. et Fils,France,137487.0,Jones Leon
+2021-07-07,Paul S.A. SA,France,295293.0,Thomas Denise
+2021-02-25,Pelletier et Fils,France,185850.0,Thomas Denise
+2022-12-27,Peltier Pottier SA S.A.S.,France,891072.0,Thomas Denise
+2021-07-21,Peron Martinez S.A.R.L. S.A.R.L.,France,227306.0,Thomas Denise
+2022-12-15,Perrier et Fils,France,681193.5,Thomas Denise
+2021-08-25,Petit S.A.R.L.,France,438367.0,Jones Leon
+2022-02-04,Picard SA,France,905708.7000000001,Jones Leon
+2022-08-03,Pierre SARL S.A.,France,111952.1,Thomas Denise
+2022-05-11,Poirier S.A.S.,France,926272.1,Thomas Denise
+2021-09-13,Potier S.A.R.L. S.A.,France,544934.0,Jones Leon
+2021-11-15,Raynaud Chauvin S.A.S. S.A.,France,487462.0,Jones Leon
+2022-05-23,Raynaud SARL,France,225178.2,Jones Leon
+2022-06-20,Renard Roger S.A. et Fils,France,307383.7,Thomas Denise
+2022-04-15,Renaud S.A.R.L.,France,273275.60000000003,Morgan Sarah
+2021-10-15,Riou et Fils,France,174122.0,Thomas Denise
+2022-03-29,Robert Hamel S.A.S. S.A.,France,612283.1,Morgan Sarah
+2022-10-05,Robin SA,France,838058.0,Jones Leon
+2021-02-09,Rodrigues et Fils S.A.,France,409527.0,Thomas Denise
+2023-02-20,Rodriguez SARL,France,330258.0,Jones Leon
+2022-10-13,Rolland et Fils,France,457886.0,Jones Leon
+2021-11-30,Rousseau S.A.R.L.,France,420275.0,Jones Leon
+2023-02-06,Rémy S.A.,France,411963.6,Jones Leon
+2022-12-05,Salmon S.A.R.L.,France,263053.7,Jones Leon
+2021-04-07,Simon SARL S.A.R.L.,France,540927.0,Jones Leon
+2021-10-07,Teixeira et Fils,France,642114.0,Thomas Denise
+2022-09-05,Tessier S.A.S.,France,236719.6,Jones Leon
+2022-01-12,Texier Maréchal et Fils S.A.,France,548901.6,Thomas Denise
+2023-02-08,Thierry SA,France,230590.8,Thomas Denise
+2021-09-21,Valentin Clément SA SA,France,233827.0,Thomas Denise
+2022-09-07,Valette S.A.S. S.A.,France,531195.6,Jones Leon
+2023-02-01,Vallet Allard S.A.S. SA,France,229452.0,Thomas Denise
+2021-12-08,Vasseur S.A.,France,475625.0,Morgan Sarah
+2022-01-31,Weber SA,France,247685.1,Jones Leon
+2022-09-08,Weiss S.A. S.A.S.,France,717150.2000000001,Thomas Denise
+2022-09-30,Agostini e figli e figli,Italy,175015.1,Thomas Denise
+2022-10-04,Almagià s.r.l. Group,Italy,532379.9,Jones Leon
+2022-03-08,"Almagià, Berengario e Zeffirelli e figli Group",Italy,903693.7000000001,Thomas Denise
+2023-01-26,Armani-Carullo s.r.l. e figli,Italy,596463.6,Thomas Denise
+2021-12-30,"Asmundo, Cesaroni e Petrassi e figli e figli",Italy,449266.0,Thomas Denise
+2022-06-06,Aulenti Group SPA,Italy,361195.9,Thomas Denise
+2023-01-17,Babbo Group e figli,Italy,540169.2,Thomas Denise
+2022-06-02,Baglioni s.r.l. Group,Italy,832490.1,Thomas Denise
+2021-01-26,Balla Group s.r.l.,Italy,172968.0,Jones Leon
+2021-01-28,Barozzi SPA s.r.l.,Italy,586020.0,Morgan Sarah
+2021-06-03,"Barracco, Boezio e Gasperi e figli SPA",Italy,562223.0,Thomas Denise
+2022-11-15,Basadonna-Jacuzzi SPA Group,Italy,172533.4,Jones Leon
+2022-04-28,Battaglia-Medici SPA Group,Italy,847987.4,Jones Leon
+2022-03-15,"Battelli, Rossini e Cavanna Group SPA",Italy,614690.7000000001,Jones Leon
+2023-01-05,"Belletini, Argentero e Pisani e figli SPA",Italy,327752.39999999997,Jones Leon
+2022-01-24,"Binaghi, Armellini e Goldoni SPA SPA",Italy,237799.9,Thomas Denise
+2021-10-13,"Boiardo, Bova e Petralli SPA Group",Italy,157253.0,Thomas Denise
+2021-07-28,Bonaventura-Cociarelli e figli SPA,Italy,107112.0,Jones Leon
+2022-07-12,Bonomo-Cesaroni s.r.l. Group,Italy,902895.5,Jones Leon
+2021-02-11,"Borgia, Avogadro e Catenazzi e figli SPA",Italy,547054.0,Jones Leon
+2021-03-30,"Brambilla, Ceschi e Anguillara s.r.l. s.r.l.",Italy,158718.0,Thomas Denise
+2022-09-14,Broggini-Pirelli Group e figli,Italy,402545.0,Thomas Denise
+2022-11-18,"Busoni, Gremese e Camiscione SPA Group",Italy,251716.4,Thomas Denise
+2021-12-17,"Calarco, Dossetti e Pozzecco e figli e figli",Italy,473954.0,Morgan Sarah
+2021-02-24,Callegaro s.r.l. e figli,Italy,355547.0,Thomas Denise
+2021-01-20,Cantimori-Manzoni Group SPA,Italy,328959.0,Morgan Sarah
+2021-05-17,Carosone-Boccaccio SPA s.r.l.,Italy,624999.0,Thomas Denise
+2022-09-01,Carpaccio Group s.r.l.,Italy,443017.9,Thomas Denise
+2022-03-04,Carriera Group e figli,Italy,798818.8,Thomas Denise
+2021-07-05,Catenazzi-Malatesta e figli s.r.l.,Italy,529803.0,Thomas Denise
+2022-05-26,"Cavalcanti, Antonioni e Moresi e figli SPA",Italy,243263.80000000002,Jones Leon
+2021-06-18,"Cendron, Giovine e Ludovisi Group SPA",Italy,669649.0,Jones Leon
+2022-01-06,"Chiappetta, Tarantini e Cannizzaro SPA Group",Italy,291937.10000000003,Thomas Denise
+2021-03-15,Chiappetta-Mastroianni s.r.l. s.r.l.,Italy,422818.0,Morgan Sarah
+2022-12-26,Chigi e figli s.r.l.,Italy,338171.60000000003,Jones Leon
+2021-08-03,Civaschi e figli s.r.l.,Italy,229227.0,Thomas Denise
+2021-01-05,"Comencini, Mastroianni e Calarco SPA Group",Italy,425864.0,Jones Leon
+2022-02-08,"Comolli, Bottaro e Monicelli e figli e figli",Italy,742372.8,Jones Leon
+2021-09-30,Crispi SPA SPA,Italy,143769.0,Thomas Denise
+2021-06-07,Curiel-Condoleo s.r.l. Group,Italy,208785.0,Jones Leon
+2023-02-03,Cusano s.r.l. SPA,Italy,560504.4,Thomas Denise
+2021-12-29,"Donini, Cibin e Anguissola Group Group",Italy,236040.0,Thomas Denise
+2022-05-10,"Druso, Impastato e Finetti Group Group",Italy,262982.2,Thomas Denise
+2022-03-17,"Farina, Bonatti e Vezzali s.r.l. Group",Italy,587090.4,Jones Leon
+2022-12-20,"Farina, Mondadori e Falcone s.r.l. e figli",Italy,471811.60000000003,Jones Leon
+2021-02-04,Favata-Golino SPA Group,Italy,365299.0,Thomas Denise
+2022-08-09,Folliero-Nadi e figli e figli,Italy,424239.4,Jones Leon
+2022-09-09,Folliero-Roncalli s.r.l. Group,Italy,232182.6,Thomas Denise
+2021-05-28,"Galiazzo, Aloisio e Morpurgo Group Group",Italy,708420.0,Jones Leon
+2021-06-14,"Giannotti, Aporti e Abatantuono e figli Group",Italy,305486.0,Thomas Denise
+2021-09-23,"Gravina, Dalla e Boldù s.r.l. Group",Italy,97772.0,Thomas Denise
+2022-06-01,"Guarana, Mastandrea e Zanichelli s.r.l. s.r.l.",Italy,489938.8,Thomas Denise
+2023-03-07,"Jacuzzi, Borsellino e Mazzi Group Group",Italy,183942.0,Thomas Denise
+2022-05-02,"Leone, Pisano e Coardi e figli s.r.l.",Italy,283150.4,Morgan Sarah
+2022-12-28,Luciani-Moretti s.r.l. e figli,Italy,172438.5,Jones Leon
+2021-08-16,Maderno Group s.r.l.,Italy,233252.0,Thomas Denise
+2021-04-19,Maderno-Almagià e figli e figli,Italy,122529.0,Morgan Sarah
+2021-04-26,Magnani SPA s.r.l.,Italy,515354.0,Thomas Denise
+2022-08-26,"Marsili, Platini e Pisano SPA e figli",Italy,107751.8,Jones Leon
+2022-05-25,Mercalli SPA e figli,Italy,321219.60000000003,Jones Leon
+2022-12-23,"Mercati, Vivaldi e Ferretti SPA SPA",Italy,302281.2,Morgan Sarah
+2021-10-20,Montalcini-Pastine e figli Group,Italy,691364.0,Thomas Denise
+2022-05-09,Murialdo SPA SPA,Italy,455093.60000000003,Jones Leon
+2022-02-25,Naccari-Tamborini SPA SPA,Italy,129405.90000000001,Jones Leon
+2023-02-13,Napolitano SPA e figli,Italy,219709.19999999998,Thomas Denise
+2021-07-27,Natta-Emanuelli SPA e figli,Italy,607735.0,Jones Leon
+2021-10-26,Necci-Pellegrini s.r.l. s.r.l.,Italy,424235.0,Jones Leon
+2022-01-21,Nitti SPA s.r.l.,Italy,503339.2,Thomas Denise
+2022-08-01,Pacetti Group e figli,Italy,813176.0,Thomas Denise
+2022-11-22,Parini e figli Group,Italy,771390.1,Thomas Denise
+2022-12-16,Polesel s.r.l. e figli,Italy,684660.6,Jones Leon
+2022-01-26,Raimondi-Ciampi e figli s.r.l.,Italy,187890.30000000002,Thomas Denise
+2021-04-16,Rocca-Palladio e figli e figli,Italy,408547.0,Thomas Denise
+2021-03-03,Roth e figli SPA,Italy,586985.0,Jones Leon
+2021-07-08,Ruggieri-Pagnotto e figli s.r.l.,Italy,480108.0,Thomas Denise
+2022-05-24,"Salvini, Morabito e Papetti Group SPA",Italy,236117.7,Thomas Denise
+2021-09-03,Sanguineti Group e figli,Italy,95738.0,Thomas Denise
+2022-09-15,"Santoro, Barracco e Sokolov SPA Group",Italy,342379.7,Thomas Denise
+2022-01-07,Sanudo-Mascheroni SPA e figli,Italy,923644.8,Thomas Denise
+2022-05-17,"Saracino, Giorgetti e Sauli e figli Group",Italy,405806.7,Jones Leon
+2022-02-14,"Saragat, Conti e Bartoli Group Group",Italy,597014.6,Thomas Denise
+2022-07-27,"Scaduto, Scamarcio e Cusano e figli Group",Italy,854170.2000000001,Jones Leon
+2021-09-06,Scandone-Broggini s.r.l. e figli,Italy,409410.0,Jones Leon
+2021-06-24,Schiaparelli s.r.l. s.r.l.,Italy,612353.0,Thomas Denise
+2022-10-28,Serlupi Group s.r.l.,Italy,253555.9,Thomas Denise
+2022-11-14,Sibilia-Abatantuono s.r.l. e figli,Italy,654113.2000000001,Thomas Denise
+2022-09-23,Sonnino-Giacometti SPA Group,Italy,115767.6,Thomas Denise
+2022-09-29,"Storladi, Canevascini e Serraglio Group Group",Italy,291684.9,Thomas Denise
+2022-09-16,"Storladi, Vigorelli e Pertini s.r.l. Group",Italy,678098.2000000001,Morgan Sarah
+2021-02-02,Surian-Novaro SPA Group,Italy,181633.0,Thomas Denise
+2021-10-11,"Taliercio, Bernardi e Gadda SPA Group",Italy,508738.0,Thomas Denise
+2022-06-09,"Tamborini, Simeoni e Botticelli SPA s.r.l.",Italy,225240.6,Jones Leon
+2022-11-25,Tomei s.r.l. s.r.l.,Italy,652016.3,Morgan Sarah
+2022-05-03,Tornatore-Bianchini e figli e figli,Italy,728416.0,Jones Leon
+2022-08-30,"Trapanese, Canetta e Flaiano SPA Group",Italy,469502.8,Thomas Denise
+2021-07-13,Trebbi e figli e figli,Italy,197486.0,Morgan Sarah
+2022-11-10,Trebbi s.r.l. SPA,Italy,857551.5,Thomas Denise
+2021-01-29,"Trezzini, Leonetti e Trentin e figli e figli",Italy,126358.0,Jones Leon
+2021-05-31,Trillini e figli Group,Italy,267359.0,Thomas Denise
+2022-02-22,Turchetta-Luria s.r.l. SPA,Italy,635234.6,Thomas Denise
+2022-03-07,"Tuzzolino, Nitti e Cutuli e figli Group",Italy,225405.7,Thomas Denise
+2021-06-11,Ungaretti-Procacci s.r.l. s.r.l.,Italy,594897.0,Thomas Denise
+2022-05-13,Viola-Corradi SPA e figli,Italy,501079.8,Jones Leon
+2022-08-16,"Visintini, Cicilia e Doglioni e figli e figli",Italy,436287.8,Thomas Denise
+2022-11-24,Zacco SPA s.r.l.,Italy,623308.4,Thomas Denise
+2021-01-06,Zacco-Callegaro Group s.r.l.,Italy,666505.0,Thomas Denise
+2021-03-09,Zamengo SPA s.r.l.,Italy,157763.0,Thomas Denise
+2022-03-31,Zampa s.r.l. e figli,Italy,259711.40000000002,Thomas Denise
+2022-04-21,Zecchini Group Group,Italy,767911.3,Jones Leon
+2022-02-03,Zeffirelli SPA s.r.l.,Italy,816913.5,Jones Leon
+2021-07-19,Zichichi-Querini SPA SPA,Italy,638691.0,Jones Leon
+2021-11-05,Accor NV,Netherlands,147237.0,Thomas Denise
+2022-09-13,BNP Paribas BV,Netherlands,793098.8,Thomas Denise
+2022-07-06,Bakkersland BV,Netherlands,892088.6,Jones Leon
+2021-07-12,Briere NV NV,Netherlands,290946.0,Thomas Denise
+2022-01-05,Capgemini Groep,Netherlands,507366.60000000003,Jones Leon
+2021-06-17,DAF Trucks BV,Netherlands,82964.0,Thomas Denise
+2021-02-23,Dachgeldt & van de Coterlet NV,Netherlands,332455.0,Jones Leon
+2023-03-01,Estey Groep NV,Netherlands,576691.2,Thomas Denise
+2021-01-19,Estey NV Groep,Netherlands,140865.0,Jones Leon
+2022-06-13,Estey NV NV,Netherlands,328224.0,Morgan Sarah
+2022-11-09,Everts & van Luxemburg BV,Netherlands,630873.1,Thomas Denise
+2022-09-12,Hulshouts NV BV,Netherlands,908310.0,Morgan Sarah
+2021-07-22,Ikea NV,Netherlands,238789.0,Jones Leon
+2023-01-10,Jaceps Groep Groep,Netherlands,574550.4,Thomas Denise
+2022-06-30,Jorrisen & Berendse BV,Netherlands,475373.60000000003,Thomas Denise
+2021-06-23,Karels NV NV,Netherlands,202528.0,Thomas Denise
+2021-05-03,Koninklijke Hoelen NV,Netherlands,192944.0,Morgan Sarah
+2021-08-26,Koninklijke Mater NV,Netherlands,255357.0,Thomas Denise
+2022-10-11,Koninklijke de Jager Groep,Netherlands,227923.80000000002,Morgan Sarah
+2021-11-24,Koninklijke van den Brink NV,Netherlands,405614.0,Jones Leon
+2022-12-30,Koopman International NV,Netherlands,303534.4,Jones Leon
+2022-05-30,Koster NV BV,Netherlands,260323.7,Morgan Sarah
+2023-02-14,Ooms & de Vroege BV,Netherlands,703732.7999999999,Thomas Denise
+2021-10-29,Oude Heer Groep BV,Netherlands,553956.0,Morgan Sarah
+2023-03-08,Postma Groep Groep,Netherlands,482288.39999999997,Jones Leon
+2022-08-18,Q8 (Kuwait Petroleum Europe) Groep,Netherlands,536601.0,Thomas Denise
+2021-04-08,Ridder BV Groep,Netherlands,573778.0,Thomas Denise
+2022-07-19,Royal Bijlsma Groep,Netherlands,529439.3,Thomas Denise
+2021-09-24,Royal Hulskes Groep,Netherlands,701464.0,Thomas Denise
+2021-10-18,Royal Nollee BV,Netherlands,99337.0,Thomas Denise
+2022-07-08,Royal Post BV,Netherlands,487713.2,Thomas Denise
+2021-03-12,Royal Simons Groep,Netherlands,661458.0,Thomas Denise
+2023-02-22,Royal Veenstra BV,Netherlands,856510.7999999999,Thomas Denise
+2021-12-27,Royal Verbruggen BV,Netherlands,260304.0,Jones Leon
+2022-08-19,Royal Vertoor Groep,Netherlands,846797.9,Thomas Denise
+2022-10-06,Royal van Brenen BV,Netherlands,238176.9,Jones Leon
+2021-12-28,Royal van Poppel NV,Netherlands,599246.0,Thomas Denise
+2022-07-07,SKF Groep,Netherlands,238399.2,Jones Leon
+2022-03-11,Sita NV,Netherlands,793159.9,Jones Leon
+2022-05-12,Spar Holding BV,Netherlands,437867.3,Jones Leon
+2021-12-14,Spiker & van Geenen Groep,Netherlands,224372.0,Jones Leon
+2021-12-16,Stichting Beijring BV,Netherlands,423024.0,Thomas Denise
+2023-03-06,Stichting Blaak BV,Netherlands,140958.0,Thomas Denise
+2021-08-05,Stichting Boer BV,Netherlands,281689.0,Thomas Denise
+2022-11-02,Stichting Verboom BV,Netherlands,138245.9,Jones Leon
+2021-09-07,Stichting van Haeften Groep,Netherlands,257047.0,Jones Leon
+2022-11-30,Stichting van Hoevel en van Zwindrecht BV,Netherlands,298277.2,Jones Leon
+2022-06-22,TenneT BV,Netherlands,852429.5,Morgan Sarah
+2021-05-07,Thomas Cook Nederland Groep,Netherlands,482434.0,Thomas Denise
+2022-05-16,Tuithof BV BV,Netherlands,353918.5,Thomas Denise
+2022-06-08,Veenendaal NV Groep,Netherlands,327254.2,Morgan Sarah
+2021-06-29,Vegt & Groote Groep,Netherlands,93374.0,Jones Leon
+2022-06-21,Vergeer & Bleijenberg NV,Netherlands,205277.80000000002,Thomas Denise
+2021-02-12,Voortman Steel Group NV,Netherlands,357845.0,Morgan Sarah
+2022-10-24,Vroegop-Windig NV,Netherlands,601998.8,Jones Leon
+2022-08-24,de Bruyn & Strik BV,Netherlands,717701.4,Jones Leon
+2021-08-12,de Graaf & Jonker BV,Netherlands,649248.0,Jones Leon
+2021-06-01,de Grote & Spaan Groep,Netherlands,258702.0,Thomas Denise
+2022-04-22,de Vries NV Groep,Netherlands,750244.3,Thomas Denise
+2021-03-19,den Buytelaar Groep Groep,Netherlands,615824.0,Jones Leon
+2022-08-22,ter Waarbeek NV BV,Netherlands,445645.2,Jones Leon
+2022-11-23,van Bovene & van de Pavert Groep,Netherlands,177184.80000000002,Jones Leon
+2022-11-28,van Hostaden & van der Strigt NV,Netherlands,885765.4,Jones Leon
+2022-05-05,van den Eijssel BV Groep,Netherlands,739490.7000000001,Thomas Denise
+2021-04-28,van den Nuwenhuysen & Dries NV,Netherlands,498774.0,Jones Leon
+2022-07-22,van der Laar BV BV,Netherlands,732529.2000000001,Jones Leon
+2021-02-17,Acosta Inc,USA,169318.0,Morgan Sarah
+2023-02-16,Adams LLC,USA,566179.2,Watts Emily
+2022-02-02,"Ballard, Hooper and Bush",USA,718677.7000000001,Morgan Sarah
+2021-06-30,"Banks, Lee and Logan",USA,407930.0,Morgan Sarah
+2021-06-16,Barton-Cruz,USA,653053.0,Morgan Sarah
+2022-07-26,"Berg, Long and Middleton",USA,732378.4,Watts Emily
+2022-07-20,"Chan, Mcdowell and Hill",USA,108960.8,Watts Emily
+2022-01-28,Chandler-Floyd,USA,898813.5,Watts Emily
+2021-09-10,Coleman Group,USA,353895.0,Watts Emily
+2022-08-08,Fleming LLC,USA,481465.4,Morgan Sarah
+2022-06-27,Ford-Walter,USA,446875.0,Morgan Sarah
+2021-07-14,Frank Ltd,USA,193041.0,Morgan Sarah
+2021-06-25,Garcia and Sons,USA,627269.0,Morgan Sarah
+2022-04-08,"Garcia, Lopez and Alexander",USA,250643.9,Watts Emily
+2021-03-11,Gill Group,USA,222631.0,Morgan Sarah
+2022-10-19,Griffin LLC,USA,280818.2,Morgan Sarah
+2022-07-18,Houston LLC,USA,652139.8,Morgan Sarah
+2022-12-06,Jordan LLC,USA,652122.9,Morgan Sarah
+2022-03-28,Lee-Patton,USA,590785.0,Morgan Sarah
+2022-03-25,Medina-Spencer,USA,566530.9,Morgan Sarah
+2021-12-09,Michael-Flores,USA,546238.0,Morgan Sarah
+2021-02-10,Montoya Ltd,USA,515763.0,Morgan Sarah
+2021-03-02,"Moore, Martin and Moreno",USA,619303.0,Morgan Sarah
+2021-10-01,Morales-Mcdonald,USA,458560.0,Watts Emily
+2022-03-18,Moreno Inc,USA,823421.3,Watts Emily
+2022-06-16,Moyer-Smith,USA,481300.3,Morgan Sarah
+2021-08-02,Norris-Cantu,USA,344975.0,Morgan Sarah
+2022-01-04,Oconnor and Sons,USA,443001.0,Morgan Sarah
+2021-01-15,Padilla-Brown,USA,659386.0,Watts Emily
+2023-01-11,Parker-Stephens,USA,581470.7999999999,Morgan Sarah
+2022-02-11,Pennington-Harper,USA,266520.8,Morgan Sarah
+2023-03-14,Preston-Erickson,USA,621498.0,Watts Emily
+2022-10-17,Ramirez-Kaufman,USA,670467.2000000001,Morgan Sarah
+2021-05-27,Reid-Baxter,USA,87935.0,Morgan Sarah
+2022-10-07,"Richardson, James and Chang",USA,276543.8,Morgan Sarah
+2021-07-01,Rodriguez-Brown,USA,87607.0,Morgan Sarah
+2022-06-14,Ruiz Inc,USA,533629.2000000001,Morgan Sarah
+2022-07-29,"Sellers, Hancock and Gill",USA,738553.4,Watts Emily
+2022-10-26,Shaw-Tucker,USA,203920.6,Morgan Sarah
+2022-04-12,Shepard-King,USA,840260.2000000001,Morgan Sarah
+2022-02-28,Singh-Johnson,USA,280069.4,Morgan Sarah
+2021-11-29,Smith Group,USA,658979.0,Morgan Sarah
+2022-09-28,Smith Group,USA,684104.2000000001,Morgan Sarah
+2022-08-29,Smith PLC,USA,876063.5,Morgan Sarah
+2022-11-07,Smith PLC,USA,295943.7,Morgan Sarah
+2022-03-14,Smith and Sons,USA,855004.8,Morgan Sarah
+2021-09-08,Smith-Evans,USA,252580.0,Morgan Sarah
+2021-07-06,Stark-Brennan,USA,132564.0,Morgan Sarah
+2021-12-01,Stevens-Wilson,USA,678794.0,Morgan Sarah
+2021-05-25,"Sullivan, Frazier and Rich",USA,87539.0,Morgan Sarah
+2022-05-18,"Taylor, Ingram and Brown",USA,130962.0,Morgan Sarah
+2022-11-11,"Thompson, Young and Hebert",USA,205537.80000000002,Morgan Sarah
+2021-11-26,Torres PLC,USA,673158.0,Morgan Sarah
+2021-09-22,Torres-Morgan,USA,261569.0,Morgan Sarah
+2022-11-03,White Ltd,USA,313454.7,Morgan Sarah
+2022-04-29,Whitehead-Joyce,USA,563431.7000000001,Morgan Sarah
+2022-04-25,Williams PLC,USA,541873.8,Morgan Sarah
+2021-03-23,"Williams, Griffin and Green",USA,682718.0,Morgan Sarah
+2021-12-07,Williams-White,USA,509335.0,Morgan Sarah
+2023-03-28,Wright and Sons,USA,164101.19999999998,Morgan Sarah
+2023-01-30,Wright-Soto,USA,832198.7999999999,Morgan Sarah
+2021-09-17,"Zamora, Mckinney and Wallace",USA,269289.0,Morgan Sarah
+2021-01-25,Allen-Harris and Sons,United Kingdom,141753.0,Watts Emily
+2021-09-28,Andrews-Dunn Ltd,United Kingdom,141672.0,Morgan Sarah
+2022-02-16,Archer-Harris and Sons,United Kingdom,896101.7000000001,Morgan Sarah
+2021-12-23,"Armstrong, Wilson and Edwards PLC",United Kingdom,428383.0,Morgan Sarah
+2021-05-05,Atkins Ltd Ltd,United Kingdom,427162.0,Morgan Sarah
+2021-05-06,Bell Ltd PLC,United Kingdom,435068.0,Morgan Sarah
+2021-08-20,"Bennett, Wright and Jordan LLC",United Kingdom,659781.0,Morgan Sarah
+2022-05-27,Berry-Harrison Group,United Kingdom,483713.10000000003,Morgan Sarah
+2021-12-24,"Bird, Cox and Poole Inc",United Kingdom,646168.0,Morgan Sarah
+2021-11-19,Bishop and Sons LLC,United Kingdom,646406.0,Morgan Sarah
+2022-05-20,Bradley Inc Inc,United Kingdom,690972.1,Watts Emily
+2021-05-13,"Brennan, Short and Lloyd LLC",United Kingdom,92537.0,Morgan Sarah
+2021-02-18,"Brown, Field and Warner LLC",United Kingdom,212008.0,Morgan Sarah
+2021-07-26,Bruce-Evans Inc,United Kingdom,384803.0,Morgan Sarah
+2021-02-26,Bull-Bell and Sons,United Kingdom,186085.0,Watts Emily
+2022-04-04,"Chamberlain, Evans and Harrison Inc",United Kingdom,216447.4,Morgan Sarah
+2022-08-31,"Chandler, Thompson and Cunningham Inc",United Kingdom,687174.8,Morgan Sarah
+2022-11-08,Clarke PLC PLC,United Kingdom,813568.6,Morgan Sarah
+2021-02-05,Cole LLC and Sons,United Kingdom,670556.0,Watts Emily
+2021-11-02,"Coleman, Morrison and Osborne Ltd",United Kingdom,565315.0,Morgan Sarah
+2021-11-12,Collins Group Ltd,United Kingdom,108748.0,Watts Emily
+2022-06-28,Cooper Inc and Sons,United Kingdom,331740.5,Morgan Sarah
+2023-01-31,Cooper-Ward LLC,United Kingdom,510334.8,Morgan Sarah
+2022-08-11,Crawford Group Group,United Kingdom,143835.9,Morgan Sarah
+2022-03-01,"Davies, Campbell and Murray Ltd",United Kingdom,879398.0,Morgan Sarah
+2021-05-26,Davies-Gregory Group,United Kingdom,131799.0,Watts Emily
+2021-03-04,Davies-Lyons PLC,United Kingdom,563049.0,Morgan Sarah
+2022-03-21,"Dawson, Jackson and Howarth Ltd",United Kingdom,417700.4,Watts Emily
+2022-04-27,Edwards Ltd PLC,United Kingdom,710420.1,Morgan Sarah
+2021-04-21,Edwards-Haynes PLC,United Kingdom,479274.0,Morgan Sarah
+2021-10-27,Elliott-Coles Group,United Kingdom,428173.0,Morgan Sarah
+2023-02-24,Ellis and Sons PLC,United Kingdom,346354.8,Morgan Sarah
+2021-11-01,Evans Ltd Ltd,United Kingdom,305300.0,Morgan Sarah
+2023-01-12,Ferguson Ltd Group,United Kingdom,758016.0,Morgan Sarah
+2021-02-15,Fowler Inc and Sons,United Kingdom,303657.0,Morgan Sarah
+2021-01-22,"Fox, Williams and Anderson Group",United Kingdom,248625.0,Morgan Sarah
+2023-03-20,Gibson-Clayton and Sons,United Kingdom,555174.0,Morgan Sarah
+2021-10-28,Grant Inc Group,United Kingdom,374302.0,Morgan Sarah
+2022-02-09,Harding and Sons Ltd,United Kingdom,400951.2,Watts Emily
+2021-05-12,"Harris, Wall and Pearson Ltd",United Kingdom,583524.0,Morgan Sarah
+2021-09-29,Harris-Hyde Ltd,United Kingdom,471652.0,Morgan Sarah
+2021-03-10,"Hooper, Hicks and Dunn and Sons",United Kingdom,167001.0,Morgan Sarah
+2022-02-15,"Hope, Payne and Begum Inc",United Kingdom,371828.60000000003,Morgan Sarah
+2023-01-23,Hudson-Thomas LLC,United Kingdom,479653.19999999995,Morgan Sarah
+2021-05-20,Johnson Inc and Sons,United Kingdom,485703.0,Watts Emily
+2022-08-23,Johnson-Morgan PLC,United Kingdom,320531.9,Morgan Sarah
+2021-04-06,Jones Group Ltd,United Kingdom,113220.0,Watts Emily
+2021-10-06,Jones Ltd PLC,United Kingdom,427997.0,Morgan Sarah
+2022-03-16,"Jones, May and Summers LLC",United Kingdom,382059.60000000003,Morgan Sarah
+2022-01-11,"Jones, Sinclair and Baker LLC",United Kingdom,598711.1,Morgan Sarah
+2021-11-25,Jones-Carr and Sons,United Kingdom,234067.0,Morgan Sarah
+2022-12-01,Jones-Hudson Inc,United Kingdom,920580.7000000001,Watts Emily
+2021-11-22,Kelly PLC LLC,United Kingdom,101144.0,Morgan Sarah
+2021-10-25,"Kennedy, Saunders and Kelly and Sons",United Kingdom,94581.0,Morgan Sarah
+2021-01-04,"Khan, Davidson and Green LLC",United Kingdom,95336.0,Morgan Sarah
+2023-02-21,"King, Moran and Barlow LLC",United Kingdom,309045.6,Morgan Sarah
+2021-04-29,Lee-Burns Inc,United Kingdom,288384.0,Morgan Sarah
+2022-02-18,Marsden-Mitchell LLC,United Kingdom,808155.4,Morgan Sarah
+2022-11-21,Marshall PLC Ltd,United Kingdom,648142.3,Watts Emily
+2023-01-13,Martin PLC LLC,United Kingdom,615583.2,Morgan Sarah
+2021-04-14,"McLean, Owen and Swift Inc",United Kingdom,394659.0,Watts Emily
+2021-04-01,"Mitchell, Robinson and Davies PLC",United Kingdom,269054.0,Morgan Sarah
+2021-11-03,"Mitchell, Vaughan and Young Group",United Kingdom,400644.0,Morgan Sarah
+2021-01-07,Morrison-Johnston PLC,United Kingdom,518377.0,Morgan Sarah
+2022-12-22,"Murray, Anderson and Rhodes Group",United Kingdom,860654.6,Watts Emily
+2022-04-05,"Newman, Bradshaw and Smith and Sons",United Kingdom,509836.60000000003,Morgan Sarah
+2021-08-18,North Ltd Inc,United Kingdom,564628.0,Watts Emily
+2021-11-16,O'Connor-Jenkins PLC,United Kingdom,315208.0,Morgan Sarah
+2021-12-06,Osborne-Summers PLC,United Kingdom,608182.0,Morgan Sarah
+2021-05-21,Owens-Kaur and Sons,United Kingdom,478198.0,Morgan Sarah
+2022-07-04,Parker Inc PLC,United Kingdom,493359.10000000003,Morgan Sarah
+2021-03-18,"Parkin, Ellis and Davies Group",United Kingdom,606998.0,Morgan Sarah
+2022-01-03,Pearce-Booth and Sons,United Kingdom,922165.4,Morgan Sarah
+2021-05-11,"Quinn, Cooper and Gibson PLC",United Kingdom,502561.0,Morgan Sarah
+2021-06-10,"Reed, Scott and Morris and Sons",United Kingdom,501215.0,Morgan Sarah
+2022-04-07,Reid Group PLC,United Kingdom,881146.5,Morgan Sarah
+2022-10-20,Reid LLC Group,United Kingdom,377568.10000000003,Morgan Sarah
+2022-02-21,Roberts-Curtis Inc,United Kingdom,583129.3,Morgan Sarah
+2021-01-21,"Ross, Woodward and Martin PLC",United Kingdom,302672.0,Watts Emily
+2022-03-24,Rowe Ltd LLC,United Kingdom,601494.4,Morgan Sarah
+2022-01-27,Sanders-Webster Ltd,United Kingdom,147563.0,Morgan Sarah
+2021-08-13,Saunders and Sons and Sons,United Kingdom,670746.0,Watts Emily
+2021-05-24,Scott Group and Sons,United Kingdom,593519.0,Watts Emily
+2021-12-20,Shaw-Turner Inc,United Kingdom,209656.0,Morgan Sarah
+2021-09-02,Skinner-Oliver and Sons,United Kingdom,392623.0,Watts Emily
+2023-03-13,Smith LLC PLC,United Kingdom,178048.8,Morgan Sarah
+2022-09-06,"Smith, Jones and Russell and Sons",United Kingdom,717258.1,Morgan Sarah
+2023-01-18,Smith-Wright LLC,United Kingdom,674533.2,Watts Emily
+2023-01-02,"Stephens, Chambers and Rice and Sons",United Kingdom,823618.7999999999,Morgan Sarah
+2023-02-23,Talbot LLC Inc,United Kingdom,218559.6,Morgan Sarah
+2022-09-27,"Taylor, West and Khan PLC",United Kingdom,133913.0,Morgan Sarah
+2022-01-14,Thomas Ltd Ltd,United Kingdom,124758.40000000001,Morgan Sarah
+2021-04-22,Thomas and Sons and Sons,United Kingdom,675047.0,Morgan Sarah
+2022-01-13,Thornton-Cooper Inc,United Kingdom,261799.2,Morgan Sarah
+2021-08-24,Todd-Hill Group,United Kingdom,605900.0,Watts Emily
+2022-10-18,"Turner, Taylor and Jones LLC",United Kingdom,313526.2,Watts Emily
+2023-02-07,Turner-Gibson PLC,United Kingdom,432355.2,Morgan Sarah
+2021-06-15,"Tyler, Ross and Hughes LLC",United Kingdom,482082.0,Morgan Sarah
+2022-02-23,"Tyler, Smith and Holmes Group",United Kingdom,822221.4,Morgan Sarah
+2023-02-09,Tyler-Reynolds PLC,United Kingdom,660226.7999999999,Morgan Sarah
+2023-01-04,Walters-Kelly LLC,United Kingdom,228753.6,Morgan Sarah
+2022-01-17,Ward Group Ltd,United Kingdom,464096.10000000003,Morgan Sarah
+2021-08-11,Webb PLC LLC,United Kingdom,384023.0,Morgan Sarah
+2021-01-13,"West, King and Winter Group",United Kingdom,514769.0,Morgan Sarah
+2023-03-24,Williams-Harrison Inc,United Kingdom,827847.6,Morgan Sarah
+2022-08-17,Wilson PLC and Sons,United Kingdom,260759.2,Morgan Sarah
+2023-01-27,Young Inc Ltd,United Kingdom,701904.0,Morgan Sarah
