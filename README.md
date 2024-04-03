@@ -2,6 +2,7 @@
 
 * Informace o kurzu [na webu Czechitas](https://www.czechitas.cz/kurzy/python-pro-datovou-vedu).
 * Návod na odevzdávání úkolů na GitHub je [zde](ukoly.md).
+* Návod na instalaci potřebných modulů je [zde](INSTALACE.md)
 
 | Týden | Blok | Téma                                                             | Odkaz                   | 
 |------:|---|---------------------------------------------------------------------|-------------------------|
