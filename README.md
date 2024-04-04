@@ -2,6 +2,7 @@
 
 * Informace o kurzu [na webu Czechitas](https://www.czechitas.cz/kurzy/python-pro-datovou-vedu).
 * Návod na odevzdávání úkolů na GitHub je [zde](ukoly.md).
+* Návod na instalaci potřebných modulů je [zde](INSTALACE.md)
 
 | Týden | Blok | Téma                                                             | Odkaz                   | 
 |------:|---|---------------------------------------------------------------------|-------------------------|
@@ -21,11 +22,7 @@
 
 ## Podmínky absolvování kurzu
 
-- Účast na lekcích (min. 80 %)
-- Vyplnění opakovacího kvízu (bude zadán po každé lekci, na vyplnění budou dva týdny, je třeba mít správně alespoň 80 % otázek, všechny testy musí být odevzdány nejpozději týden po poslední lekci).
-- Odevzdání dvou domácích úkolů:
-  * Úkol z bloku *statistické metody* (zadání úkolu je [zde](ukoly.md)).
-  * Úkol z bloku *strojové učení a umělá inteligence* (zadání úkolu je [zde](ukoly.md), termína na odevzdání je **14. 12. 2023**).
+
 
 
 ## Další zdroje
