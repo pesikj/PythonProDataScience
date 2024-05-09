@@ -11,7 +11,7 @@
 |    3. | Statistické metody  | Hypotézy a statistická rozdělení                  | [odkaz](03/lekce.ipynb) |
 |    4. | Statistické metody  | Korelace a regrese                                | [odkaz](04/lekce.ipynb) |
 |    5. | Strojové učení a umělá inteligence | Binární klasifikace s využitím KNN | [odkaz](05/lekce.ipynb) |
-|    6. | Strojové učení a umělá inteligence | Klasifikace s využitím SVC         | [odkaz](06/lekce.ipynb) |
+|    6. | Strojové učení a umělá inteligence | Klasifikace s využitím SVM         | [odkaz](06/lekce.ipynb) |
 |    7. | Strojové učení a umělá inteligence | Rozhodovací stromy                 | [odkaz](07/lekce.ipynb) |
 |    8. | Strojové učení a umělá inteligence | Shlukování                         | [odkaz](08/lekce.ipynb) |
 |    9. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      | [odkaz](09/lekce.ipynb) |
