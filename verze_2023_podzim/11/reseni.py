@@ -26,16 +26,17 @@ X = data["review"]
 y = data["label"]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, random_state=0)
-pipeline = Pipeline(
-    [
-        ("vec", TfidfVectorizer(ngram_range=(1, 2))),
-        #         ("vec", CountVectorizer()),
-        #         ("clf", KNeighborsClassifier(n_neighbors=10)),
-        ("clf", LinearSVC(random_state=0)),
-    ]
-)
-pipeline.fit(X_train, y_train)
-y_pred = pipeline.predict(X_test)
+
+vectorizer = TfidfVectorizer(ngram_range=(1, 2))
+
+X_train_transformed = vectorizer.fit_transform(X_train)
+X_test_transformed = vectorizer.transform(X_test)
+
+classifier = LinearSVC(random_state=0)
+
+classifier.fit(X_train_transformed, y_train)
+
+y_pred = classifier.predict(X_test_transformed)
 
 print(
     f"accuracy: {round(accuracy_score(y_test, y_pred), 2)}",
