@@ -16,8 +16,8 @@
 |    8. | Strojové učení a umělá inteligence | Shlukování                         | [odkaz](08/lekce.ipynb) |
 |    9. | Strojové učení a umělá inteligence | Zpracování přirozeného jazyka      | [odkaz](09/lekce.ipynb) |
 |   10. | Strojové učení a umělá inteligence | Doporučování obsahu                | [odkaz](10/lekce.ipynb) |
-|   11. | Strojové učení a umělá inteligence |                                    | [odkaz](11/lekce.ipynb) |
-|   11. | Strojové učení a umělá inteligence |                                    |                         |
+|   11. | Statistické metody                 | Úvod do A/B testování              | [odkaz](11/lekce.ipynb) |
+|   11. | Strojové učení a umělá inteligence | Použití ChatGPT v datové vědě      |                         |
 
 
 ## Úkoly a kvízy
